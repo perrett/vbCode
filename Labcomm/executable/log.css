@@ -1,0 +1,10 @@
+table,div{
+	font-family: Tahoma;
+	font-size: 12px;
+}
+.error{
+	color: #ff0000;
+}
+.logging{
+	color: #000000;
+}

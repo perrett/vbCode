@@ -1,0 +1,24 @@
+Option Explicit
+
+Private Sub Command1_Click()
+   wb.ClearDocumentBody True
+   wb.AddObject "CLSID:CDC6FB84-0E15-4A8F-993B-8524A9EE452E", 107, 141
+   wb.AddScripts "folderview.js;viewcontrol.js", True
+   wb.AddStyleSheet "folderview.css", "fld"
+   wb.FileTitle = "C:\ICE\LABCOMM\HISTORY\MSGOUT\030630"
+   wb.FireDataEvent
+End Sub
+
+Private Sub Form_Load()
+   wb.ScriptDirectory = "C:\Documents and Settings\Bernie_Perrett\My Documents\Projects\IceLabcomm\Development\Version 3 Messaging\ICEConfig\HTMLData"
+   wb.StyleDirectory = "C:\Documents and Settings\Bernie_Perrett\My Documents\Projects\IceLabcomm\Development\Version 3 Messaging\ICEConfig\HTMLData"
+   wb.NavigateTo "c:\ice\labcomm\logo1.jpg", True
+   wb.ObjectName = "objFS"
+   wb.CallBack = Me
+   wb.BrowserHTML
+End Sub
+
+Public Sub OnDataAvailable(hdoc As Object)
+   MsgBox "here"
+End Sub
+

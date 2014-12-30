@@ -1,0 +1,22 @@
+table {
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 11px;
+	text-align: right;
+}
+td#D {
+	border-right : 1px solid #006600;
+}
+tr.hover {
+	background-color: #FFFF99;
+} 
+.hdr {
+	text-align: center;
+	font-size: 11px;
+	font-weight: bold;
+	background-color: #FFFF99;
+}
+.p1 {
+	color: #006600;
+	background-color: #FFFF99;
+	border-right : 1px solid Black;
+}

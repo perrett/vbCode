@@ -1,0 +1,50 @@
+<HTML>
+<HEAD>
+<STYLE>
+TABLE,BODY,SELECT{FONT-FAMILY:Tahoma;FONT-SIZE:10px;}
+.Times{FONT-FAMILY:Tahoma;FONT-SIZE:9px;}
+</STYLE>
+</HEAD >
+<BODY id="body" topMargin=5>
+	<WC@PATIENT></WC@PATIENT>
+	<TABLE style="WIDTH: 70%">
+		<TR>
+			<TD width="14%"><STRONG>Lab. No.:</STRONG></TD>
+			<TD width="18%"><WC@LABNO></WC@LABNO></TD>
+			<TD width="14%"><STRONG>Specialty:</STRONG></TD>
+			<TD width="18%"><WC@SPECIALTY></WC@SPECIALTY></TD>
+			<TD width="14%"><STRONG>Location:</STRONG></TD>
+			<TD width="18%"><WC@LOCATION></WC@LOCATION></TD>
+		</TR>
+		<TR>
+			<TD><STRONG>Sample:</STRONG></TD>
+			<TD><WC@SAMPLE></WC@SAMPLE></TD>
+			<TD><STRONG>Clinician:</STRONG></TD>
+			<TD><WC@CLINICIAN></WC@CLINICIAN></TD>
+		</TR>
+	</TABLE>
+	<BR>
+	<HR>
+	<BR>
+	<div style="OVERFLOW: auto; WIDTH: 100%" id="divReport">		
+		<WC@COMMENTS></WC@COMMENTS>
+		<BR>
+		<WC@INVESTIGATIONS></WC@INVESTIGATIONS>
+		<HR>
+		<TABLE style="WIDTH: 100%">
+			<TR>
+				<TD width= "7%"><STRONG>Collected:</STRONG></TD>
+				<TD width="26%"><WC@COLLECTED></WC@COLLECTED></TD>
+				<TD width="7%"><STRONG>Received:</STRONG></TD>
+				<TD width="26%"><WC@RECEIVED></WC@RECEIVED></TD>
+				<TD width="7%"><STRONG>Reported:</STRONG></TD>
+				<TD width-"26%"><WC@REPORTED></WC@REPORTED></TD>
+			</TR>
+		</TABLE>
+		<HR>
+		<BR>
+		<BR>
+		<BR>
+	</div>
+</BODY>
+</HTML>

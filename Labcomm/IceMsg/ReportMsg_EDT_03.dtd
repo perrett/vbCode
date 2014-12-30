@@ -1,0 +1,951 @@
+﻿<!-- edited with XMLSpy v2005 U (http://www.xmlspy.com) by Philip Young (PCTI Solutions Ltd) -->
+
+<!-- Based upon:-->
+<!-- Specialist Service Report Message v1.2    -->
+<!-- Part of Referral and Reports Message v1.2 -->
+<!-- Produced for NHS Project in Kettering GH  -->
+<!-- Issue for use in project prototypes       -->
+<!-- dated 1999-07-30                          -->
+<!-- Author David Markwell CIC                 -->
+<!-- Specialist Service Report Message (#I00000) -->
+
+<!ELEMENT ReportMsg (MsgId, MsgIssueDate, MsgSender, MsgRecipient, ServiceRequester, ServiceProvider, PatientMatchingInfo, AgentsDirectory?, Parties?, MsgRef?, ReportedService?, PatientAdminInfo?, CodedData?, ReportingInformation?,ClinicalReport)>
+<!ATTLIST ReportMsg
+	MsgRcptAckRequest CDATA #FIXED "Always"
+	MsgUrgency (Normal | High) #REQUIRED
+	MsgStatus (Live | Test) "Live"
+>
+<!--Include general purpose files -->
+<!-- EHCR Extract Module (mini version)        -->
+<!-- Part of Referral and Reports Message v1.2 -->
+<!-- Produced for NHS Project in Kettering GH  -->
+<!-- Issue for use in project prototypes       -->
+<!-- dated 1999-07-30                          -->
+<!-- Author David Markwell CIC                 -->
+<!-- Cut down version of EhcrExtract from
+     ENV13606-4 with limited structure and
+     data items for simple referral and report
+     messages.
+-->
+<!-- Healthcare Agent Module (mini version)    -->
+<!-- Part of Referral and Reports Message v1.2 -->
+<!-- Produced for NHS Project in Kettering GH  -->
+<!-- Issue for use in project prototypes       -->
+<!-- dated 1999-07-30                          -->
+<!-- Author David Markwell CIC                 -->
+<!ENTITY % AgentCtxIdRef "IdValue">
+<!--Represents a unique identifier of a healthcare agent in context.
+In its simplest form it contains a single IdValue. This is an internal
+identifier used only for reference purposes in the message. It refers 
+to a unique instance of AgentInContext containing the same IdValue. 
+Note: Future extensions in line with ENV13606-4 may add an IdScheme and/or
+an IdType element that can be used to refer to a shared or commonly 
+accessible directory of the agents in context. 
+ -->
+<!-- healthcare agent in context (#I01533) -->
+<!ELEMENT AgentInContext (IdValue, (AgentId | Person | Organisation), AgentRel*)>
+<!--Information about a healthcare agent in the context of a
+  specified set of relationships to other healthcare agents. The
+  healthcare agent in context enables a distinction to be made between
+  references to the same healthcare agent operating in different
+  practical or organisational contexts.
+  The primary agent is the active party the related agents provide
+  a broader context.
+  The primary agent may be represented either by an AgentId 
+  referring to a recognised identifier of a person or 
+  organisation or as a full set of the information about a person or
+  organisation. If any information other than the AgentId is required
+  the Person or Organisation element is used and each of these includes
+  an instance of the identifier.
+-->
+<!-- identifier (#I01341) -->
+<!ELEMENT AgentId (IdType, IdValue)>
+<!-- All AgentIds in NHS should be specified using the IdType (an alternative
+     more flexible scheme using an IdScheme element is also provided in 
+     ENV13606-4)
+     Every AgentId comes either:
+       a) from a scheme specified in the NHS community for that type of
+          identifier.
+     OR
+       b) from a scheme used in the organisational context specified by
+          another identifier within the same AgentInContext. This applies in
+          the cases of Department identifiers, Branch surgery identifiers or
+          identifiers of staff who do not have a national registered number.
+-->
+<!-- Id Type values permitted are
+"GP" 		[National GP identifier code]
+"Provider"	[National Provider identifier code]
+"Practice" 	[National Practice identifier code]
+"Specialist"	[National Specialist identifier code]
+"Internal"	[Internal identifier] 
+ 		Refers to an entry in the AgentsDirectory of the current message
+ 		Used for departments, branch surgeries, members of staff
+ 		without national identifiers, etc. An agent represented in this
+ 		way should only be used in an Agent in Context with a more
+ 		formally identified agent that provides context.
+ 		E.g. staff with an organisations and departments with main 
+ 		organisations, etc.
+-->
+<!-- healthcare agent relationship (#I01539) -->
+<!ELEMENT AgentRel (AgentRelType, (AgentId | Person | Organisation))>
+<!--A healthcare agent relationship includes the identity or details of
+    a healthcare agent and an indication of the type of relationship between
+    the primary agent in the containing AgentInContext element and this agent.
+    See AgentRelType for list of supported relationships in this profile.
+-->
+<!-- healthcare agents directory (#I01535) -->
+<!ELEMENT AgentsDirectory (AgentInContext*, (Person | Organisation)*)>
+<!--A collection of information about any number of healthcare agents
+  and/or healthcare agent in contexts.
+  This provides the target for references to agents in context form
+  anywhere in the message. 
+ -->
+<!-- healthcare organisation (#I00571) -->
+<!ELEMENT Organisation (AgentId, Address_u?, PartyMedicalSpecialty?, OrgName?, OrgType?)>
+<!--Information about an organisation involved in the direct or
+  indirect provision of healthcare services to an individual or to a
+  population.
+  For example a practice or hospital or a branch surgery or department in a
+  hospital.
+ -->
+<!-- healthcare person (#I00584) -->
+<!ELEMENT Person (AgentId, PersonName_u?, PersonPosition?)>
+<!--Information about a person involved in the direct or
+  indirect provision of healthcare services to an individual or to a
+  population.
+  For example a GP, Specialist or a member of staff in practice or
+  hospital.
+ -->
+<!-- healthcare agent relationship type (#I01554) -->
+<!ELEMENT AgentRelType (#PCDATA)>
+<!--The nature of the relationship between the source and target
+  healthcare agents.
+-->
+<!-- Permitted values from ENV13606-2 which are applicable to
+these messages are:
+"0" [unspecified]
+"3" [employee of] 	Any member of staff to the organisation in which they work 
+"4" [responsible to]	Trainee or other staff relationship to senior clinician
+"5" [sub-division of] 	Department relationship to a hospital, sub-department
+as part of a department, branch surgery as part of a practice.
+ -->
+<!-- type of organisation (#I00573) -->
+<!ELEMENT OrgType (#PCDATA)>
+<!--
+ICSI attribute of OrgType omitted in this profile
+-->
+<!-- Permitted values are
+ "Practice" [General practice]
+ "Provider" [Provider such as a Trust or Hospital]
+ "Dept" 	[Department (or sub-department) within a Provider organisation]
+ "Branch" 	[Branch surgery (or subdivision) within a practice]
+ "PCG"  	[Primary Care Group]
+ "HA"   	[Health Authority]
+-->
+<!-- name of healthcare organisation (#I00572) -->
+<!ELEMENT OrgName (#PCDATA)>
+<!ENTITY % Coded "Code ,
+                  CodeMeaning?">
+<!-- component unique identifier (#I01328) -->
+<!ELEMENT Cuid (#PCDATA)>
+<!ATTLIST Cuid
+	IdScope (Message | Ehcr | System | Community) #REQUIRED
+>
+<!--This identification shall uniquely identify an instance of EHCR
+  message component from all other instances belonging to the same
+  EHCR. The scope within which this identification is unique may be
+  limited as indicated by the attribute scope of component identifier.
+Attributes of Cuid
+ IdScope: scope of component identifier (#I01331)
+  An indication of whether the identifier is only unique within
+  this message or is unique within the wider scope. The wider scopes
+  supported are the EHCR for this patient as held by the EHCR source,
+  the entirety of the system held by the EHCR source or the EHCR for
+  this patient within a communicating community.
+ -->
+<!-- related healthcare agent (#I01365) -->
+<!ELEMENT RelAgent (RelAgentRole, %AgentCtxIdRef;)>
+<!--A reference to a healthcare agent that has a role in relation to
+  the content of an EHCR message component, other than as the
+  originating healthcare agent. The role of the healthcare agent is
+  specified by the attribute role of related healthcare agent.
+ -->
+<!-- related date (#I01478) -->
+<!ELEMENT RelDate (Date, RelDateRole)>
+<!--A date and time, other than the originating date and time, which
+  is related to an EHCR message component. The relevance of the date is
+  specified by the attribute related date role.
+ -->
+<!-- address data item (#I01497) -->
+<!ELEMENT AddressItem (Cuid, Address_u)>
+<!ATTLIST AddressItem
+	RcStatus CDATA #FIXED "Current"
+>
+<!--The address of the patient or of a patient related party.
+ -->
+<!-- event data item (#I00000) -->
+<!ELEMENT ReportedEventItem (Cuid, RelAgent*, RelDate*, ServiceEventType, AdministrativeOutcome?)>
+<!ATTLIST ReportedEventItem
+	RcStatus CDATA #FIXED "Current"
+>
+<!--  
+Specialised revision from EventItem with specific items
+replacing generic code structures.
+RelAgent is optionally used to related this event to an
+organisation or department and/or professional involved in the event.
+RelDates can be used to indicate planned date-times, start of event
+or end of event.
+-->
+<!-- requested event data item (#I00000) -->
+<!ELEMENT RequestedEventItem (Cuid, ServiceEventType, EventUrgencyStatus?, ReasonForRequest*)>
+<!ATTLIST RequestedEventItem
+	RcStatus CDATA #FIXED "Current"
+>
+<!--  
+Specialised revision from EventItem with specific items
+replacing generic coded structures.
+-->
+<!-- The following permitted values are taken the NHS profile
+"DI" 	[Diagnosis]
+"MA" 	[Management advice]
+"TR" 	[Treatment]
+"PO" 	[Procedure/operation]
+"PR" 	[Patient reassurance]
+"DR" 	[Doctor reassurance]
+"SO" 	[Second opinion]
+"UN" 	[Unspecified]
+-->
+<!-- person name data item (#I01498) -->
+<!ELEMENT PersonNameItem (Cuid, PersonName_s)>
+<!ATTLIST PersonNameItem
+	RcStatus CDATA #FIXED "Current"
+>
+<!--The name of the patient.
+ -->
+<!-- coded data item (#I00000) -->
+<!ELEMENT CodedItem (Cuid, RelAgent?, RelDate*, RcNameCode, Annotation*)>
+<!ATTLIST CodedItem
+	RcStatus CDATA #FIXED "Current"
+>
+<!--An item of clinical or other healthcare related information
+  represented by a code value or composite code with optional
+  additional text.
+ -->
+<!-- telecom data item (#I01494) -->
+<!ELEMENT TelecomItem (Cuid, Telecom)>
+<!ATTLIST TelecomItem
+	RcStatus CDATA #FIXED "Current"
+>
+<!--A telecommunication number associated with the patient or a
+  patient related party.
+ -->
+<!-- administrative outcome (#I00498) -->
+<!ELEMENT AdministrativeOutcome (%Coded;)>
+<!-- Permitted values from the NHS Profile
+"DC"	 [Patient discharged on clinical advice or with clinical consent ]
+"DS"	 [Patient discharged him/herself or was discharged by a relative or advocate]
+"DH"	 [Patient discharged by mental health review tribunal, Home Secretary or court]
+"PD"	 [Patient died]
+"SB"	 [Stillbirth]
+"CPA"	 [Cancelled by patient in advance]
+"CPS"	 [Cancelled by patient at short notice]
+"CPV"	 [Cancelled by provider]
+"CRQ"	 [Cancelled by requester]
+"PPA"	 [Postponed by patient in advance]
+"PPS"	 [Postponed by patient at short notice]
+"PPV"	 [Postponed by provider]
+"DNA"	 [Patient did not attend]
+"PLAN" [Planned event]
+"UN"	 [Unspecified]
+-->
+<!-- annotation identifier (#I01583) -->
+<!ELEMENT Annotation (%Coded;)>
+<!-- coded feature (#I01456) -->
+<!ELEMENT CodedFeature (#PCDATA)>
+<!--A coded representation of the property to which the associated
+  code value applies. In the case of a multi-axial coding scheme the
+  coded feature is used to represent the axis of the scheme from which
+  the code value
+ -->
+<!-- comment (#I00987) -->
+<!ELEMENT Comment (#PCDATA)>
+<!-- composite code meaning (#I01499) -->
+<!ELEMENT CompositeCodeMeaning (#PCDATA)>
+<!--A textual description associated with a composite of one or more
+  codes.
+-->
+<!-- date (#I01490) -->
+<!ELEMENT Date (#PCDATA)>
+<!--A date associated with an EHCR message component. 
+ -->
+<!-- urgency status of event (#I00976) -->
+<!ELEMENT EventUrgencyStatus (#PCDATA)>
+<!--Classification of event in terms of urgency.
+Attributes of EventUrgencyStatus
+ -->
+<!-- Permitted values from the NHS Profile
+"U" [Urgent]
+"R" [Routine]  
+-->
+<!-- component name original code (#I01570) -->
+<!ELEMENT RcNameCode (CE+, CompositeCodeMeaning?)>
+<!ATTLIST RcNameCode
+	ICSI CDATA #REQUIRED
+>
+<!--The coded descriptor, title, heading or label as applied to the
+  EHCR message component in the originating system.
+Attributes of RcNameCode
+ ICSI: ICSI (#I00010)
+  International Coding Scheme Identifier identifying the coding
+  scheme from which the associated code value is derived.
+ -->
+<!-- role of related healthcare agent (#I01314) -->
+<!ELEMENT RelAgentRole (%Coded;)>
+<!--Indication of the relationship between an EHCR message component
+  and the related healthcare agent.
+ -->
+<!-- The following permitted values taken from ENV13606-2 apply to related dates
+"00" [unspecified]
+"11" [carried out]
+"12" [assisted with]
+"13" [provided a service]
+"21" [responsible for a period of care]
+"22" [facilitator of shared care]
+"23" [other responsibility for care]
+"32" [source of a request or referral]
+"34" [authorised an activity]
+ADDITIONS SPECIFIC TO MESSAGE Profile
+"PRG" [Patient  s registered GP] 
+"FL" [GP with which FULLY registered for GMS]
+"TM" [GP with which TEMPORARY registered for GMS]
+"PT" [GP providing PRIVATE care]
+"OB" [GP with which registered for Obstetric Care]
+"CN" [GP with which registered for Contraceptive Care]
+"UR" [GP with whom patient is not registered] 
+"UK" [GP with which patient has unknown registration status] 
+ADDITION SPECIFIC TO DISCHARGE REPORT Profile
+"AD" [Authoriser of discharge] 
+-->
+<!-- related date role (#I01488) -->
+<!ELEMENT RelDateRole (%Coded;)>
+<!--The role or relationship of a date to an EHCR message component 
+ -->
+<!-- The following permitted values taken from ENV13606-2 apply to related dates
+GENERAL VALUES FOR EVENTS
+"81" [began or commenced on]
+"82" [ended or completed on]
+"83" [scheduled to start on]
+"84" [scheduled to end on]
+"85" [schedule is planned on]
+"89" [other date]
+SPECIFIC VALUES
+"51" [date of birth]
+"52" [date of death]
+"54" [date of consultation]
+-->
+<!-- text block (#I01325) -->
+<!ELEMENT TextBlock (#PCDATA)>
+<!--A block of printable human readable text. The text may contain
+  mark-up for presentational enhancement subject to the following four
+  conditions:
+the text markup indicator shall be set to indicate the presence and
+  nature of mark-up.
+presentation enhanced text in this text data item shall not be
+  subjected to automated processing except for the purpose of rendering
+  displaying the appropriately rendered text. 
+the mark-up shall be limited to either an ASCII printable 8 bit
+  character set or the Unicode character set.
+the communicating community shall have explicitly agreed and
+  specified a subset of HTML mark-up to be permitted within that
+  community. While reaching this agreement they should take note of the
+  possible risks to structured communication posed by extensive use of
+  mark-up.
+ -->
+<!-- text markup indicator (#I01501) -->
+<!ELEMENT TextMarkupIndicator (#PCDATA)>
+<!--An indication of where mark-up has been used in the associated
+  TextBlock.
+To indicate the inclusion of HTML the TextMarkUpIndicator should 
+contain the reference to the HTML encoding ("-//IETF//DTD HTML//EN"). 
+ -->
+<!-- CE [coded element in composite] (#I00105) -->
+<!ELEMENT CE (CodedFeature?, %Coded;)>
+<!ATTLIST CE
+	ICSI CDATA #IMPLIED
+>
+<!--This construct is used, within the data type CC [composite code],
+  to hold a single code value within a composite. Each instance of CE
+  [coded element in composite] contains a code value with optional
+  instances of ICSI, coded feature and code meaning.
+Attributes of CE
+ ICSI: ICSI (#I00010)
+  International Coding Scheme Identifier identifying the coding
+  scheme from which the associated code value is derived.
+ -->
+<!-- Service Message Module (mini version)     -->
+<!-- Part of Referral and Reports Message v1.2 -->
+<!-- Produced for NHS Project in Kettering GH  -->
+<!-- Issue for use in project prototypes       -->
+<!-- dated 1999-07-30                          -->
+<!-- Author David Markwell CIC                 -->
+<!-- General elements from messages related to
+     service requests and reports
+-->
+<!ENTITY % Coded "Code,
+CodeMeaning?">
+<!-- Message Sender (#I00000) -->
+<!ELEMENT MsgSender (#PCDATA)>
+<!--The EDI reference of the sender of the message
+as a fixed length 19 digit number.
+The NHS maintains a register for EDI message senders and recipients. 
+Identifiers are allocated to Trusts, HAs, GP practices, etc.
+The register is maintained by the NHSIA Telecommunications.
+This register is itself uniquely identifier within a ISO register of
+registration authorities: ISO6523. The NHS registration is "0080"
+The sender/recipient identifier is as follows: 
+Digits: Value or source of value
+ 1- 4 : "0080" 
+ 5-14 : 10 digit organization identifier as issued by NHSIA
+15-19 : 5 digit sub-organisation code allocated by the 
+        owning organisation i.e. the Trust or GP practice.
+-->
+<!-- Message Recipient (#I00000) -->
+<!ELEMENT MsgRecipient (#PCDATA)>
+<!--The EDI reference of the intended recipient of the message
+as a fixed length 19 digit number.
+See note on MsgSender for details.
+-->
+<!-- Specialist Service Requester (#I00000) -->
+<!ELEMENT ServiceRequester (%AgentCtxIdRef;)>
+<!--The referring GP and Practice.
+The AgentCtxIdRef is an identifier of an AgentInContext.
+In this implementation this is an IdValue that is
+unique within the message and refers to an AgentInContext
+entry in the AgentsDirectory in the same message.
+In future shared directories of AgentInContext
+could be supported by including an IdScheme element.
+The AgentInContext includes the national
+identifier of the referring GP (as the AdentId)
+and the national identifier of the Practice as 
+the agent relationship (AgentRel).
+Additional AgentRel entries can be used to indicate
+a) a relationship to a trainer in a training practice.
+b) a practice of which a branch surgery is a part.
+c) a PCG or other organisational grouping involving
+   the practice.
+See notes on AgentInContext for and AgentRel for details
+of implementation.
+-->
+<!-- Specialist Service Provider  (#I00000)-->
+<!ELEMENT ServiceProvider (%AgentCtxIdRef;)>
+<!--The specialist, department and hospital providing
+or requested to provide a service.
+The AgentCtxIdRef is an identifier of an AgentInContext.
+In this implementation this is an IdValue that is
+unique within the message and refers to an AgentInContext
+entry in the AgentsDirectory in the same message.
+In future shared directories of AgentInContext
+could be supported by including an IdScheme element.
+The AgentInContext includes the national
+identifiers of the specialist (as the AdentId)
+and the Department and Hospital as agent 
+relationships (AgentRel).
+Additional AgentRel entries can be used to indicate
+a) a relationship to a senior specialist responsible for
+   the specialist making the report.
+b) a Trust or other organisational grouping involving
+   the hospital.
+See notes on AgentInContext for and AgentRel for details
+of implementation.
+-->
+<!-- patient administrative information (#I00000) -->
+<!ELEMENT PatientAdminInfo ((PersonNameItem | AddressItem | TelecomItem | RelAgent | CodedItem)*)>
+<!-- Additional information required for administrative
+purposes other than simply to match a patient to existing
+record. This information is conveyed as data items of
+various types.
+Note:
+Registration, Usual GP 
+ - Represented as RelAgent: With appropriate RelAgentRole values
+CodedItems are used to represent any of the following that
+are required in the message:
+Date of Birth, Sex, Marital Status, Ethnicity,
+ - in this case the date is represented as a Related Date.
+Uses for administrative coding of an admission are also possible subject
+to agreement between communicating parties. However, any codes used in this
+context shall not be processed for clinical purposes. If a decision is made
+to include clinical coding in future implementations this should be by an
+explicit extension of the ClinicalReferral and/or ClinicalReport elements to
+include structured EHCR information with explicit contextual structures as
+provided for in ENV13606 but subject to UK Professional endorsement of the
+appropriate "annotations" needed for clinically safe processing of information
+in its context.
+ -->
+<!-- originator of referenced message (#I01283) -->
+<!ELEMENT MsgSenderRef (#PCDATA)>
+<!--The EDI reference of the sender of the referenced message
+as a fixed length 19 digit number.
+See note on MsgSender for details.
+ -->
+<!-- message reference (#I01281) -->
+<!ELEMENT MsgRef (MsgIdRef, MsgIssueDate?, MsgSenderRef)>
+<!--A reference from an EHCR message to a related message.
+The MsgSenderRef is a required reference to the EDI identifier
+of the sender of the original message (as an EDI identifier). 
+In the more general version of this MsgSenderRef is optional 
+as the MsgId may be globally unique within some communicating
+communities. 
+However, since this can not be assumed in the current NHS
+implementation this MsgSenderRef is mandatory.
+The MsgIssueDate is optional in this draft subject to further discussion.
+It may be made mandatory unless a given originating agent guaranteed
+uniqueness of the MsgId across time. If all suppliers can guarantee 
+uniqueness this could be removed from the NHS profile.
+ -->
+<!-- patient matching information (#I01436) -->
+<!ELEMENT PatientMatchingInfo (((PatientId, PersonName_s?) | PersonName_s), BirthDate?, Sex?, Address_u?)>
+<!--Information provided for the purpose of matching an EHCR message
+  to a uniquely identified individual patient.
+  According to the Clinical EDI Specification for GP systems automatic matching
+  (see <a href="../Ceg/Ceg4C005.htm#_HN_0000071">Ceg4C005.htm</a>) requires:
+   NHS number (PatientId) AND EITHER Family Name (compulsory part of PersonName) OR BirthDate
+  OR
+   FamilyName AND GivenName AND BirthDate AND NO mismatch on NHS number AND only one matching patient
+  Manual matching (if automatic fails see 
+ 	<a href="../Ceg/Ceg4D005.htm#_CN_0000473">Ceg4D005.htm</a>) requires a
+ 	combination of as many are
+ 	possible from the following to be displayed to the user.
+	NHS Number, Practice Number, Family Name, First Given Name, Sex, Date of Birth, Home Address
+ -->
+<!-- date of birth (#I00611) -->
+<!ELEMENT BirthDate (#PCDATA)>
+<!-- code value (#I00011) -->
+<!ELEMENT Code (#PCDATA)>
+<!--A string that contains a coded value taken from a specified
+  coding scheme.
+ -->
+<!-- code meaning (#I00012) -->
+<!ELEMENT CodeMeaning (#PCDATA)>
+<!--A text string representing the meaning or term associated with
+  the code value.
+ -->
+<!-- family name (#I00755) -->
+<!ELEMENT FamilyName (#PCDATA)>
+<!-- first given name (#I00756) -->
+<!ELEMENT GivenName (#PCDATA)>
+<!-- identifier type (#I01642) -->
+<!ELEMENT IdType (#PCDATA)>
+<!--An indication of the type of entity that is identified by the
+  identifier.
+Values of IdType vary according to the content in which used
+see Id and AgentId for details.
+ -->
+<!-- identifier value (#I01342) -->
+<!ELEMENT IdValue (#PCDATA)>
+<!--A number or string specified in an identification scheme to
+  uniquely identify a unique instance of an entity.
+ -->
+<!-- middle name (#I00757) -->
+<!ELEMENT MiddleName (#PCDATA)>
+<!-- issue date and time of message (#I00533) -->
+<!ELEMENT MsgIssueDate (#PCDATA)>
+<!--Date and time at which a message is issued by the sending
+  application.
+ -->
+<!-- identification of message by originator (#I00531) -->
+<!ELEMENT MsgId (#PCDATA)>
+<!--Identifier assigned by the sender of a message.
+ -->
+<!-- reference to identification of message (#I00000) -->
+<!ELEMENT MsgIdRef (#PCDATA)>
+<!--A reference to the Identifier assigned by the sender of a message.
+ -->
+<!-- medical specialty of healthcare party (#I00582) -->
+<!ELEMENT PartyMedicalSpecialty (%Coded;)>
+<!--A healthcare discipline or speciality in which a healthcare party
+  provides a service.
+ -->
+<!-- Permitted values from the NHS Profile
+"100"  [General Surgery] 
+"101"  [Urology] 
+"110"  [Trauma & Orthopaedics]
+"120"  [ENT]
+"130"  [Ophthalmology]
+"140"  [Oral Surgery]
+"141"  [Restorative Dentistry]
+"142"  [Paediatric Dentistry]
+"143"  [Orthodontics]
+"150"  [Neurosurgery]
+"160"  [Plastic Surgery ]
+"170"  [Cardiothoracic Surgery]
+"171"  [Paediatric Surgery]
+"180"  [Accident & Emergency]
+"190"  [Anaesthetics]
+"300"  [General Medicine]
+"301"  [Gastroenterology]
+"302"  [Endocrinology]
+"303"  [Haematology (Clinical)]
+"304"  [Clinical Physiology]
+"305"  [Clinical Pharmacology]
+"310"  [Audiological Medicine]
+"311"  [Clinical Genetics]
+"312"  [Clinical Cytogenetics and Molecular Genetics]
+"313"  [Clinical Immunology and Allergy]
+"314"  [Rehabilitation]
+"315"  [Palliative Medicine]
+"320"  [Cardiology]
+"330"  [Dermatology]
+"340"  [Thoracic Medicine]
+"350"  [Infectious Diseases]
+"360"  [Genito-urinary Medicine]
+"361"  [Nephrology]
+"370"  [Medical Oncology]
+"371"  [Nuclear Medicine]
+"400"  [Neurology]
+"401"  [Clinical Neuro-physiology]
+"410"  [Rheumatology]
+"420"  [Paediatrics]
+"421"  [Paediatric Neurology]
+"430"  [Geriatric Medicine]
+"450"  [Dental Medicine Specialties]
+"460"  [Medical Ophthalmology]
+"500"  [Obstetrics & Gynaecology]
+"510"  [Antenatal clinic]
+"520"  [Postnatal clinic]
+"600"  [General Practice]
+"610"  [GP Maternity Function]
+"620"  [GP other than Maternity]
+"700"  [Mental Handicap]
+"710"  [Mental Illness]
+"711"  [Child & Adolescent Psychiatry]
+"712"  [Forensic Psychiatry]
+"713"  [Psychotherapy]
+"715"  [Old age Psychiatry]
+"800"  [Radiotherapy]
+"810"  [Radiology]
+"820"  [General Pathology]
+"821"  [Blood Transfusion]
+"822"  [Chemical Pathology]
+"823"  [Haematology]
+"824"  [Histopathology]
+"830"  [Immunopathology]
+"831"  [Medical Microbiology]
+"832"  [Neuropathology]
+"900"  [Community Medicine]
+"901"  [Occupational Medicine]
+"990""  [[Joint Consultant Clinics] 
+-->
+<!-- patient identifiers (#I01157) -->
+<!ELEMENT PatientId (Id+)>
+<!--A set of one or more party identifiers used to identify the
+  patient.
+ -->
+<!-- person administrative sex (#I00610) -->
+<!ELEMENT Sex (#PCDATA)>
+<!--The gender of the patient as recognised by the organisation
+  responsible for administration of healthcare services.
+ -->
+<!-- Permitted values from NHS Profile
+ "0" [Unknown]
+ "1" [Male]
+ "2" [Female]
+ "9" [Not specified]
+ -->
+<!-- person name type (#I00603) -->
+<!ELEMENT PersonNameType (#PCDATA)>
+<!--
+Attributes of PersonNameType
+ -->
+<!-- Permitted values from the NHS Profile
+"CU" [Current name]
+"AL" [Alias name] 
+"CA" [Calling name] 
+"FO" [Former name] 
+"MA" [Maiden name] 
+-->
+<!-- position of healthcare person (#I00587) -->
+<!ELEMENT PersonPosition (%Coded;)>
+<!-- Permitted values from ENV13606-2
+"00" [unspecified]
+"11" [patient]
+"12" [representative of patient]
+"13" [carer]
+"19" [other volunteer]
+"21" [physician]
+"22" [general practitioner]
+"23" [specialist]
+"24" [surgeon]
+"25" [dentist]
+"26" [nurse]
+"27" [therapist]
+"28" [physiotherapist]
+"29" [dietician]
+"30" [radiographer]
+"31" [laboratory scientist]
+"32" [social worker]
+"33" [pharmacist]
+"34" [secretary]
+"99" [other healthcare professional]
+-->
+<!-- postal code (#I00733) -->
+<!ELEMENT PostCode (#PCDATA)>
+<!-- title (#I00758) -->
+<!ELEMENT Title (#PCDATA)>
+<!-- unstructured address line (#I00737) -->
+<!ELEMENT UnstructAddressLine (#PCDATA)>
+<!-- unstructured telecommunication number (#I00768) -->
+<!ELEMENT UnstructTelecomNum (#PCDATA)>
+<!-- address (#I00726) -->
+<!ELEMENT Address_u ((PostCode, UnstructAddress?) | UnstructAddress)>
+<!ATTLIST Address_u
+	AddrType (Current | Former | Correspondence | Unspecified) "Current"
+>
+<!--An address expressed in a structured or unstructured form.
+Attributes of Address
+ AddrType: address type (#I00727)
+ /** Deviation from ENV136060-4 as permits absence of UnstructAddress 
+     if postcode present.
+     AddrType value "Correspondence" and "Current" added to match those 
+      in the profile. These new values should be added to the ENV13606-4 list
+	Current treated as default.
+**/
+ -->
+<!-- identifier (#I01341) -->
+<!ELEMENT Id (IdType, IdValue)>
+<!--A general-purpose identifier that can be qualified by the
+  identification scheme from which the identifier is derived.
+In the context of Patient Ids the following are permitted values for IdType
+-->
+<!--
+"Nhs"		[NHS number]
+"CHI"		[CHI number]
+"NhsOld"	[Old NHS number]
+"Requester"	[Number allocated to patient by the Requester] (e.g. GP system number)
+"Provider"	[Number allocated to patient by the Provider] (e.g. hospital number)
+ -->
+<!-- person name details (#I00754) -->
+<!ELEMENT PersonName (PersonNameType?, (StructPersonName | String))>
+<!ELEMENT PersonName_s (PersonNameType?, (StructPersonName))>
+<!ELEMENT PersonName_u (PersonNameType?, (String))>
+<!-- structured person name (#I01306) -->
+<!ELEMENT StructPersonName (FamilyName, GivenName?, MiddleName?, Title?)>
+<!--A person name composed of separately identifiable elements.
+ -->
+<!-- telecommunication (#I00761) -->
+<!ELEMENT Telecom (UnstructTelecomNum)>
+<!ATTLIST Telecom
+	AddrType (Home | Work | Vacation | Temporary | Former | Other | Unspecified) #IMPLIED
+	TelecomType (Voice | Mobile | Pager | Facsimile | Email | Web | Other) #REQUIRED
+>
+<!--Telephone, facsimile and other telecommunication numbers in an
+  unstructured form.
+Attributes of Telecom
+ AddrType: address type of telecommunication (#I00763)
+  Relates a telecommunication number to a particular address or
+  location specified using an associated instance of the address class.
+   TelecomType: telecommunication type (#I00762)
+ -->
+<!-- unstructured address (#I01313) -->
+<!ELEMENT UnstructAddress (UnstructAddressLine+)>
+<!-- S [String] (#I00001) -->
+<!ELEMENT String (#PCDATA)>
+<!--ReferralNumber  (#I00000) -->
+<!ELEMENT ReferralNumber (#PCDATA)>
+<!-- A referral number required for business purposes.
+This number uniquely identifies a referral as opposed
+to identify the individual message. A single referral
+may potentially be subject of more than one message.
+ -->
+<!--ReasonForRequest  (#I00000) -->
+<!ELEMENT ReasonForRequest (#PCDATA)>
+<!-- Permitted values from NHS profile
+"DI"	[Diagnosis]
+"MA"	[Management advice]
+"TR"	[Treatment]
+"PO"	[Procedure/operation]
+"PR"	[Patient reassurance]
+"DR"	[Doctor reassurance]
+"SO"	[Second opinion]
+"UN"	[Unspecified]
+-->
+<!--TransportInfo  (#I00000) -->
+<!ELEMENT TransportInfo (TransportResponsibility, TransportArranged?, Comment?)>
+<!--Comment is used if special circumstances apply. 
+    The other two elements have an enumerated set of values. 
+-->
+<!--TransportResponsibility  (#I00000) -->
+<!ELEMENT TransportResponsibility (#PCDATA)>
+<!--Indicates who is responsible for making transport arrangements -->
+<!-- Permitted values from NHS profile
+"Patient" [Patient to arrange own transport] 
+"Provider" [Provider to arrange transport for patient]
+"Requester" [Requester to arrange transport for patient] e.g. the practice
+"Other" [Other (unspecified) person to arrange transport for patient]
+-->
+<!--TransportArranged  (#I00000) -->
+<!ELEMENT TransportArranged (#PCDATA)>
+<!--Indicates arrangements made by responsible party: True, False, Unknown-->
+<!-- Permitted values
+"True" [Responsible party has made appropriate transport arrangements] 
+"False" [Responsible party has not yet made appropriate transport arrangements]
+"Unknown" [Status of transport arrangement not known]
+-->
+<!--PaymentCategory  (#I00000) -->
+<!ELEMENT PaymentCategory (#PCDATA)>
+<!--Indicates payment category for a service NHS, private, etc-->
+<!-- Permitted values from NHS profile
+"PPI" [NHS patient]
+"PPR" [Private patient]
+"PCT" [Category II patient] 
+"PAM" [Amenity patient]
+-->
+<!--Service Report Status(#I00000) -->
+<!ELEMENT ServiceReportStatus (#PCDATA)>
+<!--Indicates whether the report is interim or conclusive-->
+<!-- Permitted values from the NHS Profile
+"IN" [Interim]
+"CO" [Conclusive] 
+-->
+<!--Service Event Type  (#I00000) -->
+<!ELEMENT ServiceEventType (#PCDATA)>
+<!--Indicates type of service requested or reported-->
+<!-- Permitted values from NHS profile
+REQUEST
+"OP" [Out-patient] 
+"DV" [Domicilary visit]
+"DA" [Direct access] 
+"AE" [Accident and Emergency] 
+"HA" [Hospital admission]
+"UN" [Unspecified]
+REPORT
+"IP"  [In-patient] 
+"DC"  [Day case] 
+"DH"  [Day hospital attendance]
+"WR"  [Ward attendance] 
+"FF"  [First follow-up (out-patient)] 
+"SF"  [Subsequent follow-up (out-patient)] 
+"FV"  [First visit (out-patient)] 
+"SV"  [Subsequent visit (out-patient)] 
+"MV"  [Multiple visits (out-patient)] 
+"DI"  [Diagnostic test] 
+"VO"  [Visit only (domicilary)] 
+"VP"  [Visit with procedure (domicilary)] 
+"NC"  [No patient contact] 
+"RC"  [Receipt of clinical information supplied by the specialist service requester] 
+"TR"  [Tertiary referral] 
+"UN"  [Unspecified] 
+-->
+
+<!-- reported service (#I00000) -->
+<!ELEMENT ReportedService (ReferralNumber?, PaymentCategory, ServiceReportStatus, ReportedEventItem+)>
+<!--The service(s) reported by this message.
+A service may be an opinion, an appointment, admission, discharge,
+transfer, a procedure or a period of treatment.
+Reported services may include services actually performed and/or
+services that have been planned, scheduled, cancelled or rescheduled.
+-->
+
+<!--
+Elements added to support additional information required for hospital to GP document transfer
+-->
+<!ELEMENT ReportID (#PCDATA)>
+<!ELEMENT ReportType (#PCDATA)>
+<!ELEMENT ReportCode (#PCDATA)>
+<!ELEMENT ReportSourceType (#PCDATA)>
+<!ELEMENT ReportContributor (#PCDATA)>
+<!ELEMENT EventDate (#PCDATA)>
+<!ELEMENT EventDateEnd (#PCDATA)>
+<!ELEMENT DocCreationDate (#PCDATA)>
+<!ELEMENT GPName (#PCDATA)>
+<!-- text data item (#I01452) -->
+<!ELEMENT TextItem (Cuid, TextMarkupIndicator?, TextBlock)>
+<!ATTLIST TextItem
+	RcStatus CDATA #FIXED "Current"
+>
+<!--A data item content that consists of plain text or
+  presentationally enhanced text.
+ -->
+
+<!ELEMENT Parties (Party*)>
+<!--Parties involved in the message exchange
+	Note: BossCode/name only completed where sender HCP is a junior
+-->
+<!ELEMENT Party (HcpCode?, HcpName, BossCode?, BossName?, DepartmentCode?, DepartmentName?, OrgCode, OrgName?, LogicalAddress?)>
+<!ATTLIST Party
+	AgentId CDATA #REQUIRED
+    >
+<!ELEMENT HcpCode (#PCDATA)>
+<!ATTLIST HcpCode
+  IdType CDATA #REQUIRED
+  >
+<!ELEMENT HcpName (#PCDATA)>
+<!ELEMENT BossCode (#PCDATA)>
+<!ATTLIST BossCode
+  IdType CDATA #REQUIRED
+  >
+<!ELEMENT BossName (#PCDATA)>
+<!ELEMENT DepartmentCode (#PCDATA)>
+<!ATTLIST DepartmentCode
+  IdType CDATA #REQUIRED
+  >
+<!ELEMENT DepartmentName (#PCDATA)>
+<!ELEMENT OrgCode (#PCDATA)>
+<!ATTLIST OrgCode
+  IdType CDATA #REQUIRED
+  >
+<!ELEMENT LogicalAddress (#PCDATA)>
+
+<!ELEMENT CodedData (ClinicalCode*)>
+<!-- Contains a list of clinical codes that are to be filed into the patients clinical record.
+-->
+<!ELEMENT ClinicalCode (TermID?, Term30?, Term60?, CodeName, Value1?, Unit1?)>
+<!ATTLIST ClinicalCode
+  Type CDATA #REQUIRED
+  Schema CDATA #REQUIRED
+  >
+<!ELEMENT TermID (#PCDATA)>
+<!ELEMENT Term30 (#PCDATA)>
+<!ELEMENT Term60 (#PCDATA)>
+<!ELEMENT CodeName (#PCDATA)>
+<!ELEMENT Value1 (#PCDATA)>
+<!ELEMENT Unit1 (#PCDATA)>
+
+<!ELEMENT ReportingInformation (ReportingReason?, ReportingReferenceNumber?, ActionRequested?, MedicationChanged?)>
+<!-- Contains clinical information for GP/commissioner reporting purposes.
+-->
+
+<!ELEMENT ReportingReason (#PCDATA)>
+<!ATTLIST ReportingInformation
+  ReportingReason (FU | New) #IMPLIED>
+<!-- Permitted values
+"FU" [Follow Up]
+"New" [New]
+-->
+<!ELEMENT ReportingReferenceNumber (#PCDATA)>
+<!-- Business reference eg Purchase order number 
+-->
+<!ELEMENT ActionRequested (#PCDATA)>
+<!ATTLIST ReportingInformation
+  ActionRequested (Y | N) #IMPLIED>
+<!-- Permitted values
+"Y" [Yes, action required by the receiver]
+"N" [No action required on behalf of receiver, for information only]
+-->
+<!ELEMENT MedicationChanged (#PCDATA)>
+<!ATTLIST ReportingInformation
+  MedicationChanged (Y | N) #IMPLIED>
+<!-- Permitted values
+"Y" [Yes, patients medication has been changed]
+"N" [No changes to patients medication]
+-->
+
+<!ELEMENT ClinicalReport (ReportID?, ReportType?, ReportCode?, ReportSourceType?, ReportContributor?, EventDate?, EventDateEnd?, EventUrgencyStatus?, DocCreationDate?, GPName?,TextItem?)>
+<!--The clinical report from the specialist.
+This is presented as a text item containing plain text or
+text with HTML markup.
+Note: An option for structured clinical information in headed sections
+aligned with ENV13606-4 may be added in future but is not supported
+in this present version due to professional concerns about clinical
+safety of such information prior to more detailed analysis of 
+issues of context.
+ -->

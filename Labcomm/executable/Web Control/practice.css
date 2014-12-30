@@ -1,0 +1,24 @@
+table {
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 12px;
+	border: 0px;
+	margin-top: 15px;
+	background-color: #FFFF99;
+}
+td {
+	border: 0px;
+}
+.lts{
+	color: #336600;
+	background-color: #99FF66;
+	font-size : 16px;
+	font-weight : bold;
+	padding-top: 15px;
+}
+.hdr {
+	font-size : 14px;
+	font-weight : bold;
+	text-align: center;
+	text-decoration: underline;
+
+}

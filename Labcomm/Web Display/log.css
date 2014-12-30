@@ -1,0 +1,16 @@
+table,div{
+	font-family: Tahoma;
+	font-size: 11px;
+}
+.error{
+	color: #ff0000;
+}
+.log{
+	color: #000000;
+}
+.runstart {
+	color: #0000FF;
+}
+td{
+	white-space : nowrap;
+}

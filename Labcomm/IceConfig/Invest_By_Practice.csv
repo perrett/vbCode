@@ -1,0 +1,1253 @@
+National_Code,Investigation,Total Investigations
+G82225,Bone profile (BONE),1
+G82225,Fasting glucose (PGLF),1
+G82225,Free T4 (FT4),3
+G82225,Full Blood Count (C),4
+G82225,HEPARIN CONTROL (APTT),1
+G82225,LFT (LFT),5
+G82225,LH & FSH (LH),1
+G82225,Lipid Screen (LIP),3
+G82225,Oestradiol (E2),1
+G82225,Prolactin (PRL),1
+G82225,Random glucose (PGLR),1
+G82225,T.S.H. (TSH),3
+G82225,Thyroid Function Tests (TFT),1
+G82225,U & E (UE),5
+G82225,URINE MICRO. CULTURE AND SENS. (UMCS),2
+G83002,Bone profile (BONE),1
+G83002,Full Blood Count (C),1
+G83002,Hb Genotype (EL),1
+G83002,NOTE:- (NL),1
+G83002,URINE MICRO. CULTURE AND SENS. (UMCS),2
+G83003,Anti TPO Abs (microsomal) (THYMA),1
+G83003,Bone profile (BONE),1
+G83003,C-Reactive Protein (CRP),2
+G83003,Fasting glucose (PGLF),6
+G83003,Free T4 (FT4),2
+G83003,Full Blood Count (C),14
+G83003,Glucose Tolerance test (Std) (GTTS),1
+G83003,Glycated Haemoglobin A1c (HBA),1
+G83003,Helicobacter antibody (HEL),1
+G83003,LFT (LFT),12
+G83003,LH & FSH (LH),1
+G83003,Lipid Screen (LIP),7
+G83003,Prolactin (PRL),1
+G83003,Prostate Specific Antigen (PSA),2
+G83003,Random glucose (PGLR),4
+G83003,Rheumatoid Latex (RA),1
+G83003,T.S.H. (TSH),2
+G83003,Thyroid Function Tests (TFT),10
+G83003,U & E (UE),16
+G83003,Urate (SURA),2
+G83003,URINE MICRO. CULTURE AND SENS. (UMCS),2
+G83004,Androgen Index (AI),2
+G83004,Anti TPO Abs (microsomal) (THYMA),1
+G83004,BLOOD CULTURE (BC),1
+G83004,Bone profile (BONE),4
+G83004,C-Reactive Protein (CRP),1
+G83004,C. difficile toxin A and B (CDT),1
+G83004,Chlamydia-ELISA (CHL),1
+G83004,CMV IgG/IgM Ref.Lab.serology (CMVGM),1
+G83004,Creatine kinase (total) (CK),1
+G83004,Culture and sensitivity (CS),8
+G83004,Digoxin (DIG),1
+G83004,DNA Antibodies (DNA),1
+G83004,ENA Antibodies (ENA),1
+G83004,Endomycium Antibodies (ENDAB),1
+G83004,FAECES EXAMINATION (FE),2
+G83004,Fasting glucose (PGLF),23
+G83004,Ferritin (FER),4
+G83004,Free T4 (FT4),16
+G83004,Full Blood Count (C),49
+G83004,Glucose Tolerance test (Std) (GTTS),1
+G83004,Glycated Haemoglobin A1c (HBA),17
+G83004,Helicobacter antibody (HEL),2
+G83004,HEPARIN CONTROL (APTT),1
+G83004,Hepatitis B surface antibody (HBSAB),1
+G83004,Hepatitis B surface antigen (HBSAG),2
+G83004,Hepatitis C (HCV),2
+G83004,HIV 1 and 2 antibody (HIV1/2),2
+G83004,INR (Warfarin Control) (INR),1
+G83004,LFT (LFT),61
+G83004,LH & FSH (LH),3
+G83004,Lipid Screen (LIP),45
+G83004,Lithium (LI),1
+G83004,Magnesium (MG),1
+G83004,Microscopy culture and sens. (VCS),2
+G83004,MRSA SCREEN (MRSA),6
+G83004,Normal motile forms (NORMOT),1
+G83004,NOTE:- (NL),1
+G83004,Oestradiol (E2),2
+G83004,Prostate Specific Antigen (PSA),3
+G83004,Random glucose (PGLR),7
+G83004,SEMENOLOGY (SEM),1
+G83004,Sent away for testing (OS),1
+G83004,Serum Folate (FOL),6
+G83004,T.S.H. (TSH),16
+G83004,Thyroid Function Tests (TFT),26
+G83004,U & E (UE),70
+G83004,Urate (SURA),1
+G83004,Urine Adrenaline concentration (UADRC),1
+G83004,Urine alb:creat ratio (MALB),3
+G83004,URINE CULTURE (UC),1
+G83004,Urine Dopamine (UDO),1
+G83004,Urine Dopamine concentration (UDOC),1
+G83004,URINE MICRO. CULTURE AND SENS. (UMCS),42
+G83004,URINE MICROSCOPY (UM),1
+G83004,Urine Noradrenaline (UNAD),1
+G83004,Urine Noradrenaline concn (UNADC),1
+G83004,Vitamin B12 (B12),6
+G83004,Volume (UVOL),1
+G83005,Androgen Index (AI),1
+G83005,Anti Hepatitis B core antibody (A-HBC),1
+G83005,Anti TPO Abs (microsomal) (THYMA),1
+G83005,Autoantibodies (AA),3
+G83005,Bone profile (BONE),4
+G83005,C-Reactive Protein (CRP),9
+G83005,Chlamydia-ELISA (CHL),1
+G83005,Creatine kinase (total) (CK),3
+G83005,Culture and sensitivity (CS),6
+G83005,Endomycium Antibodies (ENDAB),1
+G83005,FAECES CONCENTRATE (FC),1
+G83005,FAECES EXAMINATION (FE),3
+G83005,Fasting glucose (PGLF),18
+G83005,Ferritin (FER),2
+G83005,Free T4 (FT4),12
+G83005,Full Blood Count (C),51
+G83005,Glucose Tolerance test (Std) (GTTS),2
+G83005,Glycated Haemoglobin A1c (HBA),4
+G83005,Helicobacter antibody (HEL),1
+G83005,HEPARIN CONTROL (APTT),2
+G83005,Hepatitis A IgM (HAVM),1
+G83005,Hepatitis A total antibody (HAVT),1
+G83005,Hepatitis C (HCV),1
+G83005,Immunoglobulin E + RAST (IGE),1
+G83005,LFT (LFT),41
+G83005,LH & FSH (LH),2
+G83005,Lipid Screen (LIP),24
+G83005,Lithium (LI),1
+G83005,Malarial Parasites (MP),1
+G83005,Microscopy culture and sens. (VCS),10
+G83005,MRSA SCREEN (MRSA),1
+G83005,Oestradiol (E2),1
+G83005,Prostate Specific Antigen (PSA),3
+G83005,Random glucose (PGLR),7
+G83005,Serum Folate (FOL),1
+G83005,SIMPLIRED D-DIMER (DD),1
+G83005,T.S.H. (TSH),12
+G83005,Thyroid Function Tests (TFT),23
+G83005,U & E (UE),38
+G83005,Urate (SURA),1
+G83005,Urine alb:creat ratio (MALB),3
+G83005,URINE CULTURE (UC),1
+G83005,URINE MICRO. CULTURE AND SENS. (UMCS),31
+G83005,URINE MICROSCOPY (UM),1
+G83005,Varicella zoster IgG (VZG),1
+G83005,Vitamin B12 (B12),2
+G83006,Androgen Index (AI),1
+G83006,Anti Hepatitis B core antibody (A-HBC),1
+G83006,Autoantibodies (AA),1
+G83006,B-type Natriuretic Peptide BNP (BNP),1
+G83006,Bilirubin (total) (BIL),1
+G83006,Bone profile (BONE),1
+G83006,C-Reactive Protein (CRP),2
+G83006,Culture and sensitivity (CS),7
+G83006,DHEAS (DHE),1
+G83006,ESR (ESR),1
+G83006,FAECES CONCENTRATE (FC),1
+G83006,FAECES EXAMINATION (FE),8
+G83006,Fasting glucose (PGLF),13
+G83006,Ferritin (FER),2
+G83006,Free T3 (FT3),1
+G83006,Free T4 (FT4),26
+G83006,Full Blood Count (C),59
+G83006,Glycated Haemoglobin A1c (HBA),8
+G83006,Hb (HB),1
+G83006,Helicobacter antibody (HEL),1
+G83006,Hepatitis A IgG (HAVG),1
+G83006,Hepatitis A IgM (HAVM),1
+G83006,Hepatitis A total antibody (HAVT),1
+G83006,Hepatitis B surface antigen (HBSAG),1
+G83006,Hepatitis C IgG (BIORAD EIA) (HCSAN),1
+G83006,Hepatitis C IgG (ORTHO EIA) (HCORT),1
+G83006,Immunoglobulins (IG),1
+G83006,LFT (LFT),44
+G83006,LH & FSH (LH),1
+G83006,Lipid Screen (LIP),34
+G83006,Lithium (LI),1
+G83006,Microscopy culture and sens. (VCS),3
+G83006,MRSA SCREEN (MRSA),1
+G83006,Normal motile forms (NORMOT),1
+G83006,Phenytoin (PHY),1
+G83006,Prostate Specific Antigen (PSA),3
+G83006,Protein Electrophoresis (PEP),1
+G83006,Protein Electrophoresis (EP),1
+G83006,Random glucose (PGLR),23
+G83006,SEMENOLOGY (SEM),1
+G83006,Serum Folate (FOL),1
+G83006,Sodium (SNA),2
+G83006,T.S.H. (TSH),28
+G83006,Thyroid Function Tests (TFT),15
+G83006,U & E (UE),44
+G83006,Urate (SURA),2
+G83006,Urine alb:creat ratio (MALB),10
+G83006,URINE MICRO. CULTURE AND SENS. (UMCS),22
+G83006,Vitamin B12 (B12),1
+G83009,Androgen Index (AI),1
+G83009,Ferritin (FER),1
+G83009,Free T4 (FT4),1
+G83009,Full Blood Count (C),2
+G83009,Glycated Haemoglobin A1c (HBA),1
+G83009,LFT (LFT),2
+G83009,Random glucose (PGLR),1
+G83009,T.S.H. (TSH),1
+G83009,Thyroid Function Tests (TFT),1
+G83009,U & E (UE),1
+G83009,Urine alb:creat ratio (MALB),1
+G83010,Amylase (SAMY),1
+G83010,Antenatal RUB./TPHA/HIV/Hep.B (BIRT),1
+G83010,Autoantibodies (AA),1
+G83010,Bone profile (BONE),4
+G83010,Carcino-embryonic antigen (CEA),2
+G83010,Chlamydia-ELISA (CHL),1
+G83010,Creatine kinase (total) (CK),1
+G83010,Culture and sensitivity (CS),1
+G83010,Endomycium Antibodies (ENDAB),2
+G83010,FAECES EXAMINATION (FE),3
+G83010,Fasting glucose (PGLF),19
+G83010,Free T4 (FT4),11
+G83010,Full Blood Count (C),57
+G83010,Gliadin Antibodies (GLIA),2
+G83010,Glycated Haemoglobin A1c (HBA),13
+G83010,H.C.G. (BHCG),1
+G83010,Hb Genotype (EL),1
+G83010,Helicobacter antibody (HEL),2
+G83010,LFT (LFT),54
+G83010,LH & FSH (LH),3
+G83010,Lipid Screen (LIP),35
+G83010,Lithium (LI),2
+G83010,Microscopy culture and sens. (VCS),3
+G83010,NOTE:- (NL),2
+G83010,Pregnancy test (PT),1
+G83010,Prolactin (PRL),3
+G83010,Prostate Specific Antigen (PSA),2
+G83010,Random glucose (PGLR),15
+G83010,Reducing Substances (FRED),1
+G83010,Serum Folate (FOL),1
+G83010,Sickle Cell Test (SC),1
+G83010,T.S.H. (TSH),11
+G83010,Thyroid Function Tests (TFT),32
+G83010,U & E (UE),56
+G83010,Urate (SURA),1
+G83010,Urine alb:creat ratio (MALB),3
+G83010,URINE CULTURE (UC),1
+G83010,URINE MICRO. CULTURE AND SENS. (UMCS),6
+G83010,URINE MICROSCOPY (UM),1
+G83010,Vitamin B12 (B12),1
+G83018,Amylase (SAMY),1
+G83018,Autoantibodies (AA),2
+G83018,Bence Jones Proteins (BJP),1
+G83018,Bone profile (BONE),2
+G83018,C-Reactive Protein (CRP),4
+G83018,Chlamydia-ELISA (CHL),1
+G83018,Creatine kinase (total) (CK),4
+G83018,Culture and sensitivity (CS),15
+G83018,Endomycium Antibodies (ENDAB),1
+G83018,FAECES EXAMINATION (FE),1
+G83018,Fasting glucose (PGLF),28
+G83018,Ferritin (FER),6
+G83018,Free T4 (FT4),25
+G83018,Full Blood Count (C),78
+G83018,Gliadin Antibodies (GLIA),1
+G83018,Glucose Tolerance test (Std) (GTTS),1
+G83018,Glycated Haemoglobin A1c (HBA),11
+G83018,Hb Genotype (EL),1
+G83018,Helicobacter antibody (HEL),1
+G83018,HEPARIN CONTROL (APTT),3
+G83018,Hepatitis B surface antibody (HBSAB),1
+G83018,LFT (LFT),55
+G83018,LH & FSH (LH),3
+G83018,Lipid Screen (LIP),28
+G83018,Lithium (LI),1
+G83018,Malarial Parasites (MP),1
+G83018,Microscopy culture and sens. (VCS),12
+G83018,MRSA SCREEN (MRSA),5
+G83018,NOTE:- (NL),2
+G83018,Oestradiol (E2),2
+G83018,Paul Bunnell (PB),1
+G83018,Prolactin (PRL),1
+G83018,Prostate Specific Antigen (PSA),1
+G83018,Protein (24h. Urine) (UPR24),1
+G83018,Protein concentration (UPR),1
+G83018,Protein Electrophoresis (EP),2
+G83018,Random glucose (PGLR),17
+G83018,Serum Folate (FOL),5
+G83018,SERUM SAVED (SS),1
+G83018,T.S.H. (TSH),26
+G83018,TB (TB),2
+G83018,Thyroid Function Tests (TFT),30
+G83018,U & E (UE),63
+G83018,Urate (SURA),3
+G83018,Urine alb:creat ratio (MALB),12
+G83018,URINE CULTURE (UC),1
+G83018,URINE MICRO. CULTURE AND SENS. (UMCS),26
+G83018,URINE MICROSCOPY (UM),2
+G83018,Urine protein creatinine ratio (UPRCRR),1
+G83018,Vitamin B12 (B12),5
+G83018,Volume (UVOL),1
+G83018,ZN FILM (ZN),1
+G83024,Bone profile (BONE),1
+G83024,Fasting glucose (PGLF),4
+G83024,Free T4 (FT4),7
+G83024,Full Blood Count (C),10
+G83024,Glycated Haemoglobin A1c (HBA),1
+G83024,Hepatitis B surface antibody (HBSAB),1
+G83024,LFT (LFT),7
+G83024,LH & FSH (LH),2
+G83024,Lipid Screen (LIP),7
+G83024,Oestradiol (E2),1
+G83024,Prostate Specific Antigen (PSA),2
+G83024,Random glucose (PGLR),5
+G83024,Serum Folate (FOL),1
+G83024,T.S.H. (TSH),7
+G83024,Thyroid Function Tests (TFT),1
+G83024,U & E (UE),16
+G83024,Vitamin B12 (B12),1
+G83025,Anti TPO Abs (microsomal) (THYMA),1
+G83025,APTT Time (APTT),1
+G83025,Autoantibodies (AA),2
+G83025,Bone profile (BONE),2
+G83025,C-Reactive Protein (CRP),1
+G83025,Fasting glucose (PGLF),10
+G83025,Ferritin (FER),5
+G83025,Free T4 (FT4),6
+G83025,Full Blood Count (C),28
+G83025,Glycated Haemoglobin A1c (HBA),4
+G83025,Hepatitis B surface antigen (HBSAG),2
+G83025,Hepatitis C (HCV),2
+G83025,HIV 1 and 2 antibody (HIV1/2),2
+G83025,LFT (LFT),19
+G83025,LH & FSH (LH),6
+G83025,Lipid Screen (LIP),13
+G83025,Normal motile forms (NORMOT),1
+G83025,Oestradiol (E2),2
+G83025,Progesterone (PRG),1
+G83025,Protein Electrophoresis (EP),1
+G83025,PT Time (PT),1
+G83025,Random glucose (PGLR),8
+G83025,SEMENOLOGY (SEM),1
+G83025,Serum Folate (FOL),2
+G83025,T.S.H. (TSH),6
+G83025,Thyroid Function Tests (TFT),7
+G83025,U & E (UE),25
+G83025,Urate (SURA),3
+G83025,Urine alb:creat ratio (MALB),1
+G83025,URINE MICRO. CULTURE AND SENS. (UMCS),4
+G83025,Vitamin B12 (B12),2
+G83028,Creatine kinase (total) (CK),1
+G83028,Fasting glucose (PGLF),3
+G83028,Free T4 (FT4),1
+G83028,Glycated Haemoglobin A1c (HBA),1
+G83028,LFT (LFT),6
+G83028,Lipid Screen (LIP),6
+G83028,Progesterone (PRG),1
+G83028,Prostate Specific Antigen (PSA),1
+G83028,T.S.H. (TSH),1
+G83028,Thyroid Function Tests (TFT),3
+G83028,U & E (UE),7
+G83029,Anti TPO Abs (microsomal) (THYMA),1
+G83029,Bence Jones Proteins (BJP),1
+G83029,Bone profile (BONE),2
+G83029,Chlamydia-ELISA (CHL),1
+G83029,Culture and sensitivity (CS),5
+G83029,Digoxin (DIG),1
+G83029,FAECES EXAMINATION (FE),2
+G83029,Fasting glucose (PGLF),5
+G83029,Ferritin (FER),4
+G83029,Free T4 (FT4),9
+G83029,Full Blood Count (C),19
+G83029,Glycated Haemoglobin A1c (HBA),6
+G83029,Helicobacter antibody (HEL),1
+G83029,Hepatitis B surface antibody (HBSAB),1
+G83029,Immunoglobulins (IG),1
+G83029,LFT (LFT),19
+G83029,Lipid Screen (LIP),14
+G83029,Microscopy culture and sens. (VCS),5
+G83029,NOTE:- (NL),1
+G83029,Prostate Specific Antigen (PSA),1
+G83029,Protein Electrophoresis (EP),3
+G83029,Random glucose (PGLR),4
+G83029,Serum Folate (FOL),5
+G83029,T.S.H. (TSH),9
+G83029,Thyroid Function Tests (TFT),12
+G83029,U & E (UE),22
+G83029,Urine alb:creat ratio (MALB),2
+G83029,URINE MICRO. CULTURE AND SENS. (UMCS),13
+G83029,Vitamin B12 (B12),5
+G83033,Amylase (SAMY),1
+G83033,Androgen Index (AI),1
+G83033,Anti TPO Abs (microsomal) (THYMA),1
+G83033,Autoantibodies (AA),1
+G83033,Bone profile (BONE),8
+G83033,C-Reactive Protein (CRP),1
+G83033,Carcino-embryonic antigen (CEA),1
+G83033,Creatine kinase (total) (CK),5
+G83033,Culture and sensitivity (CS),1
+G83033,FAECES EXAMINATION (FE),1
+G83033,Fasting glucose (PGLF),40
+G83033,Ferritin (FER),4
+G83033,Free T3 (FT3),1
+G83033,Free T4 (FT4),7
+G83033,Full Blood Count (C),43
+G83033,Glucose Tolerance test (Std) (GTTS),1
+G83033,Glycated Haemoglobin A1c (HBA),7
+G83033,Helicobacter antibody (HEL),3
+G83033,Immunoglobulin E + RAST (IGE),1
+G83033,LFT (LFT),42
+G83033,LH & FSH (LH),2
+G83033,Lipid Screen (LIP),41
+G83033,Microscopy culture and sens. (VCS),3
+G83033,NOTE:- (NL),1
+G83033,Oestradiol (E2),2
+G83033,Pregnancy test (PT),1
+G83033,Prolactin (PRL),2
+G83033,Prostate Specific Antigen (PSA),1
+G83033,Serum Folate (FOL),4
+G83033,T.S.H. (TSH),7
+G83033,Thyroid Function Tests (TFT),39
+G83033,U & E (UE),45
+G83033,Urate (SURA),2
+G83033,Urine alb:creat ratio (MALB),2
+G83033,URINE MICRO. CULTURE AND SENS. (UMCS),9
+G83033,URINE MICROSCOPY (UM),1
+G83033,Vitamin B12 (B12),4
+G83037,Adjusted calcium (ASCAL),1
+G83037,Alanine Transferase SGPT (ALT),1
+G83037,Albumin (ALB),1
+G83037,Alkaline phosphatase (ALP),1
+G83037,Autoantibodies (AA),1
+G83037,Bilirubin (total) (BIL),1
+G83037,Bone profile (BONE),1
+G83037,Calcium (SCAL),1
+G83037,Culture and sensitivity (CS),5
+G83037,FAECES CONCENTRATE (FC),1
+G83037,FAECES EXAMINATION (FE),3
+G83037,Fasting glucose (PGLF),8
+G83037,Ferritin (FER),1
+G83037,Free T4 (FT4),5
+G83037,Full Blood Count (C),13
+G83037,Gamma GT (GGT),1
+G83037,Gliadin Antibodies (GLIA),1
+G83037,Globulins (GLOB),1
+G83037,Glycated Haemoglobin A1c (HBA),5
+G83037,HCG (intact)-Pregnancy Test (ICON),1
+G83037,HEPARIN CONTROL (APTT),1
+G83037,Hepatitis B surface antibody (HBSAB),1
+G83037,Hepatitis C (HCV),1
+G83037,Hepatitis C IgG (BIORAD EIA) (HCSAN),1
+G83037,Hepatitis C IgG (ORTHO EIA) (HCORT),1
+G83037,Hepatitis C virus PCR (HCVPCR),1
+G83037,INR (Warfarin Control) (INR),1
+G83037,Intrinsic Factor (INF),1
+G83037,LFT (LFT),16
+G83037,Lipid Screen (LIP),8
+G83037,NOTE:- (NL),1
+G83037,Phosphate (SPO4),1
+G83037,Progesterone (PRG),1
+G83037,Protein (SPR),1
+G83037,Protein Electrophoresis (PEP),2
+G83037,T.S.H. (TSH),5
+G83037,Thyroid Function Tests (TFT),5
+G83037,U & E (UE),18
+G83037,URINE MICRO. CULTURE AND SENS. (UMCS),3
+G83043,Androgen Index (AI),1
+G83043,Anti Hepatitis B core antibody (A-HBC),1
+G83043,Autoantibodies (AA),1
+G83043,Bone profile (BONE),2
+G83043,Creatine kinase (total) (CK),1
+G83043,Culture and sensitivity (CS),1
+G83043,Digoxin (DIG),1
+G83043,Fasting glucose (PGLF),13
+G83043,Ferritin (FER),3
+G83043,Free T4 (FT4),6
+G83043,Full Blood Count (C),16
+G83043,Glucose Tolerance test (Std) (GTTS),2
+G83043,Glycated Haemoglobin A1c (HBA),6
+G83043,Helicobacter antibody (HEL),1
+G83043,Hepatitis A IgM (HAVM),1
+G83043,Hepatitis B surface antigen (HBSAG),2
+G83043,Hepatitis C (HCV),2
+G83043,LFT (LFT),28
+G83043,LH & FSH (LH),1
+G83043,Lipid Screen (LIP),22
+G83043,Microscopy culture and sens. (VCS),2
+G83043,Oestradiol (E2),1
+G83043,Pregnancy test (PT),1
+G83043,Random glucose (PGLR),4
+G83043,RUBELLA IgG (RUG),1
+G83043,T.S.H. (TSH),6
+G83043,Theophylline (THE),1
+G83043,Thyroid Function Tests (TFT),9
+G83043,U & E (UE),27
+G83043,Urate (SURA),1
+G83043,Urine Adrenaline concentration (UADRC),1
+G83043,Urine alb:creat ratio (MALB),3
+G83043,Urine Dopamine (UDO),1
+G83043,Urine Dopamine concentration (UDOC),1
+G83043,URINE MICRO. CULTURE AND SENS. (UMCS),7
+G83043,Urine Noradrenaline (UNAD),1
+G83043,Urine Noradrenaline concn (UNADC),1
+G83043,Volume (UVOL),1
+G83046,C-Reactive Protein (CRP),1
+G83046,Culture and sensitivity (CS),1
+G83046,Digoxin (DIG),1
+G83046,Fasting glucose (PGLF),8
+G83046,Free T4 (FT4),4
+G83046,Full Blood Count (C),19
+G83046,Glycated Haemoglobin A1c (HBA),7
+G83046,Hepatitis B surface antibody (HBSAB),1
+G83046,Iron (FE),2
+G83046,LFT (LFT),18
+G83046,LH & FSH (LH),1
+G83046,Lipid Screen (LIP),21
+G83046,Microscopy culture and sens. (VCS),2
+G83046,Oestradiol (E2),2
+G83046,Pregnancy test (PT),2
+G83046,Prolactin (PRL),1
+G83046,Prostate Specific Antigen (PSA),1
+G83046,Random glucose (PGLR),1
+G83046,T.S.H. (TSH),4
+G83046,Thyroid Function Tests (TFT),8
+G83046,U & E (UE),18
+G83046,Urine alb:creat ratio (MALB),1
+G83046,URINE MICRO. CULTURE AND SENS. (UMCS),10
+G83046,Vitamin B12 (B12),1
+G83047,Androgen Index (AI),3
+G83047,Anti TPO Abs (microsomal) (THYMA),2
+G83047,Bone profile (BONE),2
+G83047,C-Reactive Protein (CRP),3
+G83047,Calcium (SCAL),1
+G83047,Carcino-embryonic antigen (CEA),1
+G83047,Creatine kinase (total) (CK),4
+G83047,Culture and sensitivity (CS),4
+G83047,FAECES CONCENTRATE (FC),1
+G83047,FAECES EXAMINATION (FE),7
+G83047,Fasting glucose (PGLF),19
+G83047,Ferritin (FER),3
+G83047,Free T3 (FT3),1
+G83047,Free T4 (FT4),14
+G83047,Full Blood Count (C),57
+G83047,Glucose Tolerance test (Std) (GTTS),1
+G83047,Glycated Haemoglobin A1c (HBA),10
+G83047,HEPARIN CONTROL (APTT),2
+G83047,HIV 1 and 2 antibody (HIV1/2),1
+G83047,Intrinsic Factor (INF),1
+G83047,LFT (LFT),70
+G83047,LH & FSH (LH),2
+G83047,Lipid Screen (LIP),37
+G83047,Microscopy culture and sens. (VCS),3
+G83047,Mumps IgG (MUMG),1
+G83047,Mumps IgG/IgM ref.lab.serology (MUMGM),1
+G83047,Occult Blood (FOB),3
+G83047,Pregnancy test (PT),1
+G83047,Progesterone (PRG),1
+G83047,Prolactin (PRL),1
+G83047,Protein Electrophoresis (PEP),1
+G83047,Random glucose (PGLR),12
+G83047,Serum Folate (FOL),4
+G83047,T.S.H. (TSH),14
+G83047,Thyroid Function Tests (TFT),30
+G83047,U & E (UE),57
+G83047,URINE MICRO. CULTURE AND SENS. (UMCS),20
+G83047,Vitamin B12 (B12),4
+G83048,Alanine Transferase SGPT (ALT),1
+G83048,Albumin (ALB),1
+G83048,Alkaline phosphatase (ALP),1
+G83048,Beta-2-microglobulin (B2M),1
+G83048,Bilirubin (total) (BIL),1
+G83048,Bone profile (BONE),5
+G83048,C-Reactive Protein (CRP),4
+G83048,Creatine kinase (total) (CK),4
+G83048,Creatinine (SCRE),1
+G83048,Culture and sensitivity (CS),7
+G83048,Digoxin (DIG),1
+G83048,FAECES EXAMINATION (FE),1
+G83048,Fasting glucose (PGLF),16
+G83048,Ferritin (FER),4
+G83048,Free T4 (FT4),15
+G83048,Full Blood Count (C),47
+G83048,Gamma GT (GGT),1
+G83048,Globulins (GLOB),1
+G83048,Glycated Haemoglobin A1c (HBA),6
+G83048,Helicobacter antibody (HEL),1
+G83048,Hepatitis B surface antibody (HBSAB),1
+G83048,Immunoglobulins (IG),1
+G83048,LFT (LFT),35
+G83048,LH & FSH (LH),3
+G83048,Lipid Screen (LIP),31
+G83048,Microscopy culture and sens. (VCS),6
+G83048,NOTE:- (NL),2
+G83048,Phenytoin (PHY),1
+G83048,Potassium (SK),1
+G83048,Pregnancy test (PT),2
+G83048,Prostate Specific Antigen (PSA),1
+G83048,Protein (SPR),1
+G83048,Protein (24h. Urine) (UPR24),1
+G83048,Protein concentration (UPR),1
+G83048,Protein Electrophoresis (EP),1
+G83048,Random glucose (PGLR),9
+G83048,RUBELLA IgG (RUG),1
+G83048,Serum Folate (FOL),6
+G83048,SERUM SAVED (SS),1
+G83048,Sodium (SNA),1
+G83048,T.S.H. (TSH),15
+G83048,Thyroid Function Tests (TFT),19
+G83048,U & E (UE),38
+G83048,Urate (SURA),2
+G83048,Urea (SU),1
+G83048,Urine alb:creat ratio (MALB),2
+G83048,URINE MICRO. CULTURE AND SENS. (UMCS),11
+G83048,Urine protein creatinine ratio (UPRCRR),1
+G83048,Varicella zoster IgG (Ref.lab) (VZGR),1
+G83048,Vitamin B12 (B12),4
+G83048,Volume (UVOL),1
+G83048,ZN FILM (ZN),3
+G83049,Bone profile (BONE),6
+G83049,C. difficile toxin A and B (CDT),1
+G83049,Chlamydia-ELISA (CHL),1
+G83049,Culture and sensitivity (CS),9
+G83049,FAECES CONCENTRATE (FC),1
+G83049,FAECES EXAMINATION (FE),2
+G83049,Fasting glucose (PGLF),20
+G83049,Ferritin (FER),1
+G83049,Free T4 (FT4),8
+G83049,Full Blood Count (C),44
+G83049,Glucose Tolerance test (Std) (GTTS),2
+G83049,Glycated Haemoglobin A1c (HBA),6
+G83049,Helicobacter antibody (HEL),2
+G83049,Hepatitis B surface antibody (HBSAB),1
+G83049,Hepatitis B surface antigen (HBSAG),2
+G83049,Hepatitis C (HCV),2
+G83049,HIV 1 and 2 antibody (HIV1/2),2
+G83049,Intrinsic Factor (INF),1
+G83049,LFT (LFT),55
+G83049,LH & FSH (LH),2
+G83049,Lipid Screen (LIP),28
+G83049,Microscopy culture and sens. (VCS),5
+G83049,NOTE:- (NL),1
+G83049,Occult Blood (FOB),5
+G83049,Osmolality (SOSM),1
+G83049,Pregnancy test (PT),1
+G83049,Prolactin (PRL),1
+G83049,Prostate Specific Antigen (PSA),3
+G83049,Protein Electrophoresis (PEP),1
+G83049,Random glucose (PGLR),9
+G83049,Rheumatoid Latex (RA),1
+G83049,RUBELLA IgG (RUG),1
+G83049,T.S.H. (TSH),8
+G83049,Thyroid Function Tests (TFT),33
+G83049,TPHA (TPHA),1
+G83049,U & E (UE),53
+G83049,Urate (SURA),8
+G83049,Urine alb:creat ratio (MALB),5
+G83049,URINE MICRO. CULTURE AND SENS. (UMCS),22
+G83052,Androgen Index (AI),2
+G83052,Anti TPO Abs (microsomal) (THYMA),1
+G83052,Autoantibodies (AA),2
+G83052,Bone profile (BONE),1
+G83052,Culture and sensitivity (CS),1
+G83052,FAECES EXAMINATION (FE),1
+G83052,Fasting glucose (PGLF),8
+G83052,Ferritin (FER),2
+G83052,Free T4 (FT4),8
+G83052,Full Blood Count (C),25
+G83052,Glycated Haemoglobin A1c (HBA),4
+G83052,Hb Genotype (EL),1
+G83052,Helicobacter antibody (HEL),2
+G83052,Immunoglobulin E + RAST (IGE),1
+G83052,Immunoglobulins (IG),1
+G83052,LFT (LFT),24
+G83052,LH & FSH (LH),1
+G83052,Lipid Screen (LIP),20
+G83052,Microscopy culture and sens. (VCS),2
+G83052,NOTE:- (NL),1
+G83052,Prostate Specific Antigen (PSA),1
+G83052,Protein Electrophoresis (EP),2
+G83052,Random glucose (PGLR),8
+G83052,Rheumatoid Latex (RA),1
+G83052,Serum Folate (FOL),2
+G83052,T.S.H. (TSH),8
+G83052,Thyroid Function Tests (TFT),7
+G83052,U & E (UE),22
+G83052,Urate (SURA),1
+G83052,Urine alb:creat ratio (MALB),7
+G83052,Urine albumin:creat ratio (UACR),1
+G83052,URINE MICRO. CULTURE AND SENS. (UMCS),12
+G83052,Vitamin B12 (B12),3
+G83053,Androgen Index (AI),1
+G83053,Anti TPO Abs (microsomal) (THYMA),1
+G83053,Anti-nuclear Factor (ANF),1
+G83053,Bone profile (BONE),1
+G83053,C-Reactive Protein (CRP),2
+G83053,C. difficile toxin A and B (CDT),1
+G83053,Chlamydia-ELISA (CHL),3
+G83053,Creatine kinase (total) (CK),9
+G83053,Culture and sensitivity (CS),3
+G83053,FAECES EXAMINATION (FE),2
+G83053,Fasting glucose (PGLF),19
+G83053,Ferritin (FER),2
+G83053,Free T3 (FT3),2
+G83053,Free T4 (FT4),10
+G83053,Full Blood Count (C),22
+G83053,Glucose Tolerance test (Std) (GTTS),1
+G83053,Glycated Haemoglobin A1c (HBA),7
+G83053,Hb (HB),1
+G83053,HEPARIN CONTROL (APTT),1
+G83053,HLA-B27 antigen (B27),1
+G83053,LFT (LFT),32
+G83053,LH & FSH (LH),1
+G83053,Lipid Screen (LIP),22
+G83053,Microscopy culture and sens. (VCS),5
+G83053,NOTE:- (NL),1
+G83053,Prostate Specific Antigen (PSA),1
+G83053,Random glucose (PGLR),2
+G83053,T.S.H. (TSH),10
+G83053,Thyroid Function Tests (TFT),13
+G83053,U & E (UE),32
+G83053,Urine alb:creat ratio (MALB),2
+G83053,Urine albumin:creat ratio (UACR),1
+G83053,URINE MICRO. CULTURE AND SENS. (UMCS),11
+G83053,Varicella zoster IgG (VZG),1
+G83057,Autoantibodies (AA),1
+G83057,Bone profile (BONE),5
+G83057,C-Reactive Protein (CRP),5
+G83057,Chlamydia-ELISA (CHL),1
+G83057,Creatine kinase (total) (CK),1
+G83057,Culture and sensitivity (CS),6
+G83057,Digoxin (DIG),1
+G83057,FAECES EXAMINATION (FE),2
+G83057,Fasting glucose (PGLF),29
+G83057,Ferritin (FER),2
+G83057,Free T4 (FT4),19
+G83057,Full Blood Count (C),43
+G83057,Glucose Tolerance test (Std) (GTTS),1
+G83057,Glycated Haemoglobin A1c (HBA),6
+G83057,Hb Genotype (EL),2
+G83057,Helicobacter antibody (HEL),1
+G83057,HEPARIN CONTROL (APTT),5
+G83057,LFT (LFT),54
+G83057,LH & FSH (LH),2
+G83057,Lipid Screen (LIP),41
+G83057,Lithium (LI),1
+G83057,Microscopy culture and sens. (VCS),4
+G83057,MRSA SCREEN (MRSA),4
+G83057,Mumps IgG/IgM ref.lab.serology (MUMGM),1
+G83057,Parathyroid Hormone intact (PTH),1
+G83057,Prolactin (PRL),1
+G83057,Prostate Specific Antigen (PSA),6
+G83057,Random glucose (PGLR),12
+G83057,Serum Folate (FOL),2
+G83057,T.S.H. (TSH),19
+G83057,Thyroid Function Tests (TFT),20
+G83057,TPHA (TPHA),1
+G83057,U & E (UE),53
+G83057,Urate (SURA),2
+G83057,Urine alb:creat ratio (MALB),6
+G83057,URINE MICRO. CULTURE AND SENS. (UMCS),19
+G83057,Vitamin B12 (B12),2
+G83061,Amylase (SAMY),1
+G83061,Autoantibodies (AA),3
+G83061,Bone profile (BONE),4
+G83061,C-Reactive Protein (CRP),1
+G83061,Carcino-embryonic antigen (CEA),2
+G83061,Endomycium Antibodies (ENDAB),1
+G83061,Fasting glucose (PGLF),8
+G83061,Ferritin (FER),1
+G83061,Free T4 (FT4),6
+G83061,Full Blood Count (C),18
+G83061,Gliadin Antibodies (GLIA),1
+G83061,Glycated Haemoglobin A1c (HBA),1
+G83061,H.C.G. (BHCG),2
+G83061,Helicobacter antibody (HEL),1
+G83061,HEPARIN CONTROL (APTT),2
+G83061,INR (Warfarin Control) (INR),1
+G83061,LFT (LFT),16
+G83061,LH & FSH (LH),2
+G83061,Lipid Screen (LIP),8
+G83061,Prolactin (PRL),1
+G83061,Prostate Specific Antigen (PSA),1
+G83061,Random glucose (PGLR),3
+G83061,T.S.H. (TSH),6
+G83061,Thyroid Function Tests (TFT),6
+G83061,U & E (UE),16
+G83061,Urate (SURA),2
+G83061,Urine Adrenaline concentration (UADRC),1
+G83061,Urine Dopamine (UDO),1
+G83061,Urine Dopamine concentration (UDOC),1
+G83061,Urine Noradrenaline (UNAD),1
+G83061,Urine Noradrenaline concn (UNADC),1
+G83061,Volume (UVOL),1
+G83062,Autoantibodies (AA),1
+G83062,C-Reactive Protein (CRP),5
+G83062,Carcino-embryonic antigen (CEA),1
+G83062,Chlamydia-ELISA (CHL),1
+G83062,Cholesterol (CHO),1
+G83062,Creatine kinase (total) (CK),2
+G83062,Culture and sensitivity (CS),1
+G83062,Fasting glucose (PGLF),27
+G83062,Free T4 (FT4),1
+G83062,Full Blood Count (C),31
+G83062,Glucose Tolerance test (Std) (GTTS),1
+G83062,Glycated Haemoglobin A1c (HBA),7
+G83062,Hb Genotype (EL),1
+G83062,Helicobacter antibody (HEL),1
+G83062,HEPARIN CONTROL (APTT),1
+G83062,Hepatitis B surface antigen (HBSAG),1
+G83062,INR (Warfarin Control) (INR),1
+G83062,LFT (LFT),32
+G83062,LH & FSH (LH),1
+G83062,Lipid Screen (LIP),23
+G83062,Microscopy culture and sens. (VCS),3
+G83062,Normal motile forms (NORMOT),1
+G83062,Protein Electrophoresis (PEP),1
+G83062,Random glucose (PGLR),2
+G83062,SEMENOLOGY (SEM),1
+G83062,Serum Folate (FOL),1
+G83062,Sickle Cell Test (SC),1
+G83062,T.S.H. (TSH),1
+G83062,Thyroid Function Tests (TFT),15
+G83062,U & E (UE),35
+G83062,Urine alb:creat ratio (MALB),7
+G83062,URINE MICRO. CULTURE AND SENS. (UMCS),7
+G83062,Vitamin B12 (B12),1
+G83063,Anti TPO Abs (microsomal) (THYMA),1
+G83063,C-Reactive Protein (CRP),1
+G83063,Culture and sensitivity (CS),1
+G83063,FAECES EXAMINATION (FE),2
+G83063,Fasting glucose (PGLF),17
+G83063,Ferritin (FER),1
+G83063,Free T4 (FT4),2
+G83063,Full Blood Count (C),21
+G83063,Glycated Haemoglobin A1c (HBA),2
+G83063,LFT (LFT),20
+G83063,LH & FSH (LH),3
+G83063,Lipid Screen (LIP),18
+G83063,Microscopy culture and sens. (VCS),2
+G83063,Pregnancy test (PT),2
+G83063,Prostate Specific Antigen (PSA),2
+G83063,Random glucose (PGLR),2
+G83063,Rotavirus test (RV),1
+G83063,Serum Folate (FOL),1
+G83063,T.S.H. (TSH),2
+G83063,Thyroid Function Tests (TFT),16
+G83063,U & E (UE),18
+G83063,Urate (SURA),2
+G83063,URINE MICRO. CULTURE AND SENS. (UMCS),3
+G83063,Vitamin B12 (B12),1
+G83064,Amylase (SAMY),1
+G83064,Anti Hepatitis B core antibody (A-HBC),1
+G83064,Anti TPO Abs (microsomal) (THYMA),1
+G83064,Bone profile (BONE),1
+G83064,FAECES CONCENTRATE (FC),1
+G83064,FAECES EXAMINATION (FE),2
+G83064,Fasting glucose (PGLF),8
+G83064,Free T4 (FT4),6
+G83064,Full Blood Count (C),16
+G83064,Glucose Tolerance test (Std) (GTTS),1
+G83064,Glycated Haemoglobin A1c (HBA),1
+G83064,Hepatitis B surface antigen (HBSAG),1
+G83064,LFT (LFT),18
+G83064,Lipid Screen (LIP),17
+G83064,Occult Blood (FOB),3
+G83064,Prostate Specific Antigen (PSA),1
+G83064,Random glucose (PGLR),1
+G83064,Sodium (SNA),1
+G83064,T.S.H. (TSH),6
+G83064,Thyroid Function Tests (TFT),1
+G83064,U & E (UE),18
+G83064,URINE MICRO. CULTURE AND SENS. (UMCS),8
+G83066,Androgen Index (AI),1
+G83066,Bone profile (BONE),3
+G83066,Creatine kinase (total) (CK),1
+G83066,Culture and sensitivity (CS),4
+G83066,Digoxin (DIG),2
+G83066,Fasting glucose (PGLF),13
+G83066,Free T4 (FT4),5
+G83066,Full Blood Count (C),38
+G83066,Glycated Haemoglobin A1c (HBA),4
+G83066,Hb (HB),1
+G83066,Helicobacter antibody (HEL),1
+G83066,HEPARIN CONTROL (APTT),1
+G83066,LFT (LFT),40
+G83066,LH & FSH (LH),4
+G83066,Lipid Screen (LIP),24
+G83066,Lithium (LI),1
+G83066,MRSA SCREEN (MRSA),9
+G83066,Normal motile forms (NORMOT),1
+G83066,NOTE:- (NL),1
+G83066,Paul Bunnell (PB),1
+G83066,Phenobarbitone (PHB),1
+G83066,Phenytoin (PHY),1
+G83066,Pregnancy test (PT),2
+G83066,Prostate Specific Antigen (PSA),3
+G83066,Random glucose (PGLR),6
+G83066,SEMENOLOGY (SEM),1
+G83066,T.S.H. (TSH),5
+G83066,Thyroid Function Tests (TFT),15
+G83066,U & E (UE),38
+G83066,URINE MICRO. CULTURE AND SENS. (UMCS),24
+G83605,Chlamydia-ELISA (CHL),1
+G83605,Creatine kinase (total) (CK),2
+G83605,Culture and sensitivity (CS),3
+G83605,Digoxin (DIG),1
+G83605,FAECES EXAMINATION (FE),2
+G83605,Fasting glucose (PGLF),4
+G83605,Free T4 (FT4),8
+G83605,Full Blood Count (C),11
+G83605,Glycated Haemoglobin A1c (HBA),6
+G83605,LFT (LFT),22
+G83605,Lipid Screen (LIP),11
+G83605,Microscopy culture and sens. (VCS),2
+G83605,NOTE:- (NL),1
+G83605,Occult Blood (FOB),1
+G83605,Prostate Specific Antigen (PSA),1
+G83605,Random glucose (PGLR),1
+G83605,Serum Folate (FOL),2
+G83605,T.S.H. (TSH),8
+G83605,Thyroid Function Tests (TFT),3
+G83605,U & E (UE),25
+G83605,Urine alb:creat ratio (MALB),4
+G83605,URINE MICRO. CULTURE AND SENS. (UMCS),9
+G83605,Vitamin B12 (B12),1
+G83617,B-type Natriuretic Peptide BNP (BNP),1
+G83617,Bone profile (BONE),1
+G83617,Creatine kinase (total) (CK),4
+G83617,Digoxin (DIG),1
+G83617,Fasting glucose (PGLF),11
+G83617,Free T4 (FT4),1
+G83617,Full Blood Count (C),14
+G83617,Glycated Haemoglobin A1c (HBA),2
+G83617,Helicobacter antibody (HEL),1
+G83617,LFT (LFT),15
+G83617,Lipid Screen (LIP),15
+G83617,Prostate Specific Antigen (PSA),1
+G83617,T.S.H. (TSH),1
+G83617,Thyroid Function Tests (TFT),11
+G83617,U & E (UE),16
+G83617,Urate (SURA),1
+G83617,Urine alb:creat ratio (MALB),2
+G83621,Carbamazepine (CARB),1
+G83621,Creatine kinase (total) (CK),1
+G83621,FAECES EXAMINATION (FE),1
+G83621,Fasting glucose (PGLF),6
+G83621,Free T4 (FT4),4
+G83621,Full Blood Count (C),7
+G83621,Glycated Haemoglobin A1c (HBA),1
+G83621,LFT (LFT),8
+G83621,Lipid Screen (LIP),7
+G83621,Random glucose (PGLR),1
+G83621,T.S.H. (TSH),4
+G83621,Thyroid Function Tests (TFT),6
+G83621,U & E (UE),8
+G83621,Urate (SURA),1
+G83622,Fasting glucose (PGLF),9
+G83622,Ferritin (FER),1
+G83622,Free T4 (FT4),2
+G83622,Full Blood Count (C),9
+G83622,Glycated Haemoglobin A1c (HBA),1
+G83622,LFT (LFT),9
+G83622,Lipid Screen (LIP),8
+G83622,Microscopy culture and sens. (VCS),1
+G83622,Oestradiol (E2),1
+G83622,Prostate Specific Antigen (PSA),1
+G83622,T.S.H. (TSH),2
+G83622,Thyroid Function Tests (TFT),9
+G83622,U & E (UE),9
+G83622,Urate (SURA),1
+G83622,URINE MICRO. CULTURE AND SENS. (UMCS),1
+G83623,C-Reactive Protein (CRP),1
+G83623,CA-125 (CA125),1
+G83623,Fasting glucose (PGLF),3
+G83623,Free T4 (FT4),2
+G83623,Full Blood Count (C),9
+G83623,Glycated Haemoglobin A1c (HBA),1
+G83623,LFT (LFT),4
+G83623,Lipid Screen (LIP),3
+G83623,Serum Folate (FOL),1
+G83623,T.S.H. (TSH),2
+G83623,Thyroid Function Tests (TFT),1
+G83623,U & E (UE),4
+G83623,Urate (SURA),1
+G83623,Urine alb:creat ratio (MALB),2
+G83623,URINE MICRO. CULTURE AND SENS. (UMCS),2
+G83623,Vitamin B12 (B12),1
+G83628,5HIAA (24h) (5H24),1
+G83628,Anti TPO Abs (microsomal) (THYMA),1
+G83628,Creatine kinase (total) (CK),1
+G83628,FAECES EXAMINATION (FE),1
+G83628,Fasting glucose (PGLF),13
+G83628,Free T4 (FT4),3
+G83628,Full Blood Count (C),5
+G83628,Glucose Tolerance test (Std) (GTTS),1
+G83628,Helicobacter antibody (HEL),2
+G83628,LFT (LFT),17
+G83628,LH & FSH (LH),1
+G83628,Lipid Screen (LIP),19
+G83628,Microscopy culture and sens. (VCS),1
+G83628,Prolactin (PRL),1
+G83628,Random glucose (PGLR),1
+G83628,T.S.H. (TSH),3
+G83628,Thyroid Function Tests (TFT),1
+G83628,Troponin I (TROI),1
+G83628,U & E (UE),21
+G83628,Urate (SURA),2
+G83628,URINE MICRO. CULTURE AND SENS. (UMCS),3
+G83630,Antistreptolysin O titre (ASO),1
+G83630,FAECES CONCENTRATE (FC),1
+G83630,FAECES EXAMINATION (FE),1
+G83630,Fasting glucose (PGLF),9
+G83630,Ferritin (FER),4
+G83630,Free T4 (FT4),13
+G83630,Full Blood Count (C),22
+G83630,Glycated Haemoglobin A1c (HBA),4
+G83630,Hb Genotype (EL),1
+G83630,HCG (intact)-Pregnancy Test (ICON),1
+G83630,HEPARIN CONTROL (APTT),2
+G83630,Hepatitis B surface antibody (HBSAB),1
+G83630,Hepatitis B surface antigen (HBSAG),1
+G83630,Hepatitis C (HCV),1
+G83630,HIV 1 and 2 antibody (HIV1/2),1
+G83630,LFT (LFT),18
+G83630,LH & FSH (LH),2
+G83630,Lipid Screen (LIP),19
+G83630,Microscopy culture and sens. (VCS),3
+G83630,Pregnancy test (PT),1
+G83630,Prolactin (PRL),1
+G83630,Prostate Specific Antigen (PSA),1
+G83630,Random glucose (PGLR),2
+G83630,Sickle Cell Test (SC),1
+G83630,T.S.H. (TSH),13
+G83630,Thyroid Function Tests (TFT),8
+G83630,U & E (UE),18
+G83630,Urate (SURA),2
+G83630,Urine alb:creat ratio (MALB),1
+G83630,URINE MICRO. CULTURE AND SENS. (UMCS),9
+G83630,Valproate (VAL),1
+G83632,Androgen Index (AI),1
+G83632,Anti TPO Abs (microsomal) (THYMA),1
+G83632,Bone profile (BONE),1
+G83632,Culture and sensitivity (CS),1
+G83632,Fasting glucose (PGLF),3
+G83632,Ferritin (FER),1
+G83632,Free T4 (FT4),3
+G83632,Full Blood Count (C),18
+G83632,Helicobacter antibody (HEL),1
+G83632,LFT (LFT),14
+G83632,LH & FSH (LH),1
+G83632,Lipid Screen (LIP),9
+G83632,Lithium (LI),1
+G83632,Microscopy culture and sens. (VCS),2
+G83632,Normal motile forms (NORMOT),1
+G83632,Prostate Specific Antigen (PSA),1
+G83632,SEMENOLOGY (SEM),1
+G83632,Serum Folate (FOL),1
+G83632,T.S.H. (TSH),3
+G83632,Thyroid Function Tests (TFT),6
+G83632,U & E (UE),11
+G83632,URINE MICRO. CULTURE AND SENS. (UMCS),3
+G83632,Vitamin B12 (B12),1
+G83633,Albumin (ALB),1
+G83633,Bone profile (BONE),1
+G83633,Ferritin (FER),1
+G83633,Full Blood Count (C),4
+G83633,Glycated Haemoglobin A1c (HBA),2
+G83633,LFT (LFT),3
+G83633,Lipid Screen (LIP),2
+G83633,Protein Electrophoresis (EP),1
+G83633,Random glucose (PGLR),1
+G83633,Serum Folate (FOL),1
+G83633,Thyroid Function Tests (TFT),3
+G83633,U & E (UE),3
+G83633,URINE MICRO. CULTURE AND SENS. (UMCS),1
+G83633,Vitamin B12 (B12),1
+G83642,Anti TPO Abs (microsomal) (THYMA),1
+G83642,Fasting glucose (PGLF),11
+G83642,Ferritin (FER),1
+G83642,Free T4 (FT4),4
+G83642,Full Blood Count (C),13
+G83642,Glycated Haemoglobin A1c (HBA),2
+G83642,Hb (HB),1
+G83642,Iron (FE),1
+G83642,LFT (LFT),13
+G83642,LH & FSH (LH),2
+G83642,Lipid Screen (LIP),12
+G83642,Lithium (LI),1
+G83642,Protein Electrophoresis (EP),1
+G83642,Protein Electrophoresis (PEP),1
+G83642,Random glucose (PGLR),2
+G83642,Serum Folate (FOL),1
+G83642,T.S.H. (TSH),4
+G83642,Thyroid Function Tests (TFT),11
+G83642,U & E (UE),13
+G83642,Urine alb:creat ratio (MALB),4
+G83642,URINE MICRO. CULTURE AND SENS. (UMCS),1
+G83642,Vitamin B12 (B12),1
+G83643,Carbamazepine (CARB),1
+G83643,Fasting glucose (PGLF),5
+G83643,Full Blood Count (C),6
+G83643,Hepatitis B surface antibody (HBSAB),1
+G83643,LFT (LFT),6
+G83643,Lipid Screen (LIP),6
+G83643,Thyroid Function Tests (TFT),6
+G83643,U & E (UE),6
+G83643,URINE MICRO. CULTURE AND SENS. (UMCS),1
+G83655,Fasting glucose (PGLF),2
+G83655,Free T4 (FT4),1
+G83655,Full Blood Count (C),4
+G83655,Glycated Haemoglobin A1c (HBA),2
+G83655,Hb Genotype (EL),1
+G83655,LFT (LFT),5
+G83655,Lipid Screen (LIP),2
+G83655,Prostate Specific Antigen (PSA),1
+G83655,Random glucose (PGLR),1
+G83655,T.S.H. (TSH),1
+G83655,Thyroid Function Tests (TFT),2
+G83655,U & E (UE),6
+G83655,URINE MICRO. CULTURE AND SENS. (UMCS),1
+G83663,Free T4 (FT4),5
+G83663,Full Blood Count (C),12
+G83663,Glycated Haemoglobin A1c (HBA),1
+G83663,Helicobacter antibody (HEL),1
+G83663,Herpes simplex PCR type 1 (HSPCR1),1
+G83663,LFT (LFT),4
+G83663,LH & FSH (LH),1
+G83663,Lipid Screen (LIP),6
+G83663,Random glucose (PGLR),5
+G83663,T.S.H. (TSH),5
+G83663,Thyroid Function Tests (TFT),3
+G83663,U & E (UE),9
+G83663,URINE MICRO. CULTURE AND SENS. (UMCS),1
+G83672,Anti TPO Abs (microsomal) (THYMA),1
+G83672,Fasting glucose (PGLF),5
+G83672,Free T4 (FT4),5
+G83672,Full Blood Count (C),14
+G83672,Glycated Haemoglobin A1c (HBA),2
+G83672,LFT (LFT),10
+G83672,LH & FSH (LH),2
+G83672,Lipid Screen (LIP),7
+G83672,Meningococcal PCR test (PCRM),1
+G83672,Microscopy culture and sens. (VCS),1
+G83672,Pregnancy test (PT),3
+G83672,Random glucose (PGLR),4
+G83672,SERUM SAVED (SS),1
+G83672,T.S.H. (TSH),5
+G83672,Thyroid Function Tests (TFT),6
+G83672,U & E (UE),6
+G83672,Urine alb:creat ratio (MALB),1
+G83672,URINE MICRO. CULTURE AND SENS. (UMCS),7
+G83673,Antistreptolysin O titre (ASO),1
+G83673,Autoantibodies (AA),1
+G83673,Bone profile (BONE),2
+G83673,C-Reactive Protein (CRP),2
+G83673,Chlamydia-ELISA (CHL),1
+G83673,Creatine kinase (total) (CK),2
+G83673,Fasting glucose (PGLF),2
+G83673,Full Blood Count (C),11
+G83673,Helicobacter antibody (HEL),1
+G83673,LFT (LFT),12
+G83673,Lipid Screen (LIP),6
+G83673,Random glucose (PGLR),4
+G83673,Thyroid Function Tests (TFT),8
+G83673,Troponin I (TROI),2
+G83673,U & E (UE),12
+G83673,Urate (SURA),3
+G84007,Free T4 (FT4),1
+G84007,Full Blood Count (C),1
+G84007,LFT (LFT),1
+G84007,T.S.H. (TSH),1
+G84010,Autoantibodies (AA),1
+G84010,Fasting glucose (PGLF),1
+G84010,Full Blood Count (C),3
+G84010,Glucose Tolerance test (Std) (GTTS),1
+G84010,Glycated Haemoglobin A1c (HBA),2
+G84010,HEPARIN CONTROL (APTT),1
+G84010,LFT (LFT),4
+G84010,Lipid Screen (LIP),4
+G84010,Random glucose (PGLR),1
+G84010,SERUM SAVED (SS),1
+G84010,Thyroid Function Tests (TFT),3
+G84010,U & E (UE),4
+G84010,Varicella zoster IgG (VZG),1
+G84019,Culture and sensitivity (CS),1
+G84019,Free T3 (FT3),1
+G84019,Free T4 (FT4),1
+G84019,Full Blood Count (C),2
+G84019,LFT (LFT),3
+G84019,Lipid Screen (LIP),1
+G84019,Protein Electrophoresis (PEP),1
+G84019,Random glucose (PGLR),1
+G84019,T.S.H. (TSH),1
+G84019,Thyroid Function Tests (TFT),1
+G84019,U & E (UE),2
+G84619,Amylase (SAMY),3
+G84619,Autoantibodies (AA),4
+G84619,Bone profile (BONE),4
+G84619,Culture and sensitivity (CS),3
+G84619,Fasting glucose (PGLF),8
+G84619,Ferritin (FER),7
+G84619,Free T4 (FT4),1
+G84619,Full Blood Count (C),11
+G84619,Glucose Tolerance test (Std) (GTTS),1
+G84619,Glycated Haemoglobin A1c (HBA),1
+G84619,Helicobacter antibody (HEL),3
+G84619,Hepatitis B surface antibody (HBSAB),1
+G84619,LFT (LFT),10
+G84619,LH & FSH (LH),1
+G84619,Lipid Screen (LIP),10
+G84619,Pregnancy test (PT),1
+G84619,Prostate Specific Antigen (PSA),1
+G84619,Random glucose (PGLR),1
+G84619,Respir.Screen ref.lab.serology (RS),1
+G84619,Serum Folate (FOL),5
+G84619,T.S.H. (TSH),1
+G84619,Thyroid Function Tests (TFT),6
+G84619,U & E (UE),8
+G84619,Urate (SURA),5
+G84619,URINE MICRO. CULTURE AND SENS. (UMCS),1
+G84619,Vitamin B12 (B12),5
+G84628,Creatine kinase (total) (CK),1
+G84628,LFT (LFT),1
+G84628,Lipid Screen (LIP),1
+G84628,U & E (UE),1
+Y00542,Anti-nuclear Factor (ANF),1
+Y00542,Autoantibodies (AA),1
+Y00542,Bone profile (BONE),4
+Y00542,C-Reactive Protein (CRP),1
+Y00542,DNA Antibodies (DNA),1
+Y00542,Endomycium Antibodies (ENDAB),1
+Y00542,Fasting glucose (PGLF),7
+Y00542,Ferritin (FER),4
+Y00542,Free T3 (FT3),1
+Y00542,Free T4 (FT4),4
+Y00542,Full Blood Count (C),16
+Y00542,Gliadin Antibodies (GLIA),1
+Y00542,Glycated Haemoglobin A1c (HBA),2
+Y00542,HEPARIN CONTROL (APTT),1
+Y00542,Immunoglobulins (IG),1
+Y00542,LFT (LFT),18
+Y00542,LH & FSH (LH),1
+Y00542,Lipid Screen (LIP),9
+Y00542,Normal motile forms (NORMOT),1
+Y00542,Oestradiol (E2),1
+Y00542,Progesterone (PRG),1
+Y00542,Prolactin (PRL),1
+Y00542,Prostate Specific Antigen (PSA),1
+Y00542,Protein Electrophoresis (EP),2
+Y00542,Random glucose (PGLR),10
+Y00542,SEMENOLOGY (SEM),1
+Y00542,Serum Folate (FOL),3
+Y00542,T.S.H. (TSH),4
+Y00542,Thyroid Function Tests (TFT),10
+Y00542,U & E (UE),22
+Y00542,Urine alb:creat ratio (MALB),1
+Y00542,Vitamin B12 (B12),3

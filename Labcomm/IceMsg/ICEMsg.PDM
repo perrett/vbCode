@@ -1,0 +1,141 @@
+[Root]
+Most Recent Package=IceMsg Install 1
+
+
+[Package|IceMsg Install 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Documents and Settings\Bernie Perrett.AHSL-COM\My Documents\Installs\IceMsg
+
+[Package|IceMsg Install 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|IceMsg Install 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|IceMsg Install 1|Files Found]
+
+[Package|IceMsg Install 1|Files Released]
+
+[Package|IceMsg Install 1|Missing Dependency Information]
+C:\WINNT\SYSTEM32\NTSVC.OCX=
+C:\Documents and Settings\Bernie Perrett\My Documents\Projects\ClassModules\Message Classes\Version 2\AHSLMessaging.dll=
+C:\Program Files\Common Files\SYSTEM\ADO\msado25.tlb=
+C:\Documents and Settings\Bernie Perrett\My Documents\Projects\AHSLReporting\AHSLReporting.dll=
+C:\Documents and Settings\Bernie Perrett\My Documents\Projects\Symphonia Files\Composer\edifact_v3.dll=
+C:\Documents and Settings\Bernie Perrett\My Documents\Projects\Symphonia Files\Composer\edifact_v2.dll=
+C:\Documents and Settings\Bernie Perrett\My Documents\Projects\Symphonia Files\Composer\astm.dll=
+C:\Documents and Settings\Bernie Perrett.AHSL-COM\My Documents\Projects\Development\ICE_Msg\Project Executables\AHSLMessaging.dll=
+C:\Documents and Settings\Bernie Perrett.AHSL-COM\My Documents\Projects\Development\ICE_Msg\Project Executables\AHSLErrorLog.dll=
+C:\Program Files\Microsoft Office\Office\MSOUTL9.OLB=
+C:\Documents and Settings\Bernie Perrett.AHSL-COM\My Documents\Projects\Development\Symphonia Files\Composer\edifact_v3.dll=
+C:\Documents and Settings\Bernie Perrett.AHSL-COM\My Documents\Projects\Development\Symphonia Files\Composer\edifact_ack.dll=
+
+[Package|IceMsg Install 1|Out-of-Date Dependency Information]
+C:\WINNT\SYSTEM32\mswinsck.ocx=
+C:\WINNT\SYSTEM32\SCRRUN.DLL=
+
+[Package|IceMsg Install 1|Files Added]
+c:\documents and settings\bernie perrett\my documents\projects\symphonia files\composer\edifact_v3.dll=
+c:\documents and settings\bernie perrett\my documents\projects\symphonia files\composer\edifact_v2.dll=
+c:\documents and settings\bernie perrett\my documents\projects\symphonia files\composer\astm.dll=
+
+[Package|IceMsg Install 1|Files Removed]
+
+[Package|IceMsg Install 1|Files In Project]
+C:\WINNT\SYSTEM32\msvbvm60.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Common Files\SYSTEM\ADO\msado25.tlb=Yes
+C:\Program Files\Common Files\designer\MSDERUN.DLL=Yes
+C:\WINNT\SYSTEM32\SCRRUN.DLL=Yes
+C:\WINNT\SYSTEM32\MSVCRT.DLL=Yes
+C:\WINNT\SYSTEM32\NTSVC.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\SYSTEM32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Documents and Settings\Bernie Perrett.AHSL-COM\My Documents\Projects\Development\ICE_Msg\ICEMsg.exe=Yes
+C:\Documents and Settings\Bernie Perrett.AHSL-COM\My Documents\Projects\Development\Symphonia Files\Composer\edifact_ack.dll=Yes
+C:\Documents and Settings\Bernie Perrett.AHSL-COM\My Documents\Projects\Development\Symphonia Files\Composer\edifact_v3.dll=Yes
+C:\Program Files\Microsoft Office\Office\MSOUTL9.OLB=Yes
+C:\Documents and Settings\Bernie Perrett.AHSL-COM\My Documents\Projects\Development\ICE_Msg\AHSLReporting.dll=Yes
+C:\Documents and Settings\Bernie Perrett.AHSL-COM\My Documents\Projects\Development\ICE_Msg\Project Executables\AHSLErrorLog.dll=Yes
+C:\Documents and Settings\Bernie Perrett.AHSL-COM\My Documents\Projects\Development\ICE_Msg\Project Executables\AHSLMessaging.dll=Yes
+C:\WINNT\SYSTEM32\mswinsck.oca=Yes
+
+[Package|IceMsg Install 1|Configure Registry Files]
+Applicable=No
+
+[Package|IceMsg Install 1|Configure Remote Servers]
+Applicable=No
+
+[Package|IceMsg Install 1|Install Locations]
+C:\Documents and Settings\Bernie Perrett\My Documents\Projects\ICE_Msg\ICEMsg.exe=$(AppPath)
+C:\WINNT\SYSTEM32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Documents and Settings\Bernie Perrett\My Documents\Projects\AHSLReporting\AHSLReporting.dll=$(WinSysPath)
+C:\Program Files\Common Files\SYSTEM\ADO\msado25.tlb=$(WinSysPath)
+C:\Program Files\Common Files\designer\MSDERUN.DLL=$(CommonFiles)\designer
+C:\WINNT\SYSTEM32\SCRRUN.DLL=$(WinSysPath)
+C:\WINNT\SYSTEM32\MSVCRT.DLL=$(WinSysPathSysFile)
+C:\Documents and Settings\Bernie Perrett\My Documents\Projects\ClassModules\Message Classes\Version 2\AHSLMessaging.dll=$(WinSysPath)
+C:\WINNT\SYSTEM32\mswinsck.ocx=$(WinSysPath)
+C:\WINNT\SYSTEM32\NTSVC.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\SYSTEM32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Documents and Settings\Bernie Perrett\My Documents\Projects\Symphonia Files\Composer\edifact_v3.dll=$(WinSysPath)
+C:\Documents and Settings\Bernie Perrett\My Documents\Projects\Symphonia Files\Composer\edifact_v2.dll=$(WinSysPath)
+C:\Documents and Settings\Bernie Perrett\My Documents\Projects\Symphonia Files\Composer\astm.dll=$(WinSysPath)
+C:\Documents and Settings\Bernie Perrett.AHSL-COM\My Documents\Projects\Development\ICE_Msg\ICEMsg.exe=$(AppPath)
+C:\Documents and Settings\Bernie Perrett.AHSL-COM\My Documents\Projects\Development\Symphonia Files\Composer\edifact_ack.dll=$(WinSysPath)
+C:\Documents and Settings\Bernie Perrett.AHSL-COM\My Documents\Projects\Development\Symphonia Files\Composer\edifact_v3.dll=$(WinSysPath)
+C:\Program Files\Microsoft Office\Office\MSOUTL9.OLB=$(WinSysPath)
+C:\Documents and Settings\Bernie Perrett.AHSL-COM\My Documents\Projects\Development\ICE_Msg\AHSLReporting.dll=$(WinSysPath)
+C:\Documents and Settings\Bernie Perrett.AHSL-COM\My Documents\Projects\Development\ICE_Msg\Project Executables\AHSLErrorLog.dll=$(WinSysPath)
+C:\Documents and Settings\Bernie Perrett.AHSL-COM\My Documents\Projects\Development\ICE_Msg\Project Executables\AHSLMessaging.dll=$(WinSysPath)
+C:\WINNT\SYSTEM32\mswinsck.oca=$(AppPath)
+
+[Package|IceMsg Install 1|Configure Shared Files]
+Applicable=Yes
+C:\Documents and Settings\Bernie Perrett\My Documents\Projects\ICE_Msg\ICEMsg.exe=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Documents and Settings\Bernie Perrett.AHSL-COM\My Documents\Projects\Development\ICE_Msg\ICEMsg.exe=No
+C:\WINNT\SYSTEM32\mswinsck.oca=No
+
+[Package|IceMsg Install 1|Distribution]
+Type=single
+Size=
+Title=ICE_Msg Install
+
+[Package|IceMsg Install 1|IconGroups]
+Group0=ICE
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|IceMsg Install 1|ICE]
+Icon1=ICEMsg.exe
+Title1=ICE_Msg
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|IceMsg Install 1|Package]
+PackageFolder=C:\Documents and Settings\Bernie Perrett.AHSL-COM\My Documents\Installs\IceMsg
+ProjectFolder=C:\Documents and Settings\Bernie Perrett.AHSL-COM\My Documents\Projects\Development\ICE_Msg
+ServerSideCab=
+File1=C:\Documents and Settings\Bernie Perrett.AHSL-COM\My Documents\Installs\IceMsg\setup.exe
+File2=C:\Documents and Settings\Bernie Perrett.AHSL-COM\My Documents\Installs\IceMsg\Setup.Lst
+File3=C:\Documents and Settings\Bernie Perrett.AHSL-COM\My Documents\Installs\IceMsg\ICEMsg.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

@@ -1,0 +1,5 @@
+errorControl = 162, 106, 969, 694, 
+errorData = 220, 290, 1027, 878, 
+GlobalData = 0, 0, 0, 0, C
+frmErrorReport = 75, 75, 944, 696, , 110, 145, 917, 733, C
+clsIceMsgLog = 0, 0, 0, 0, C

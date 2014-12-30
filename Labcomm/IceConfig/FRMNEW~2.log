@@ -1,0 +1,10 @@
+Line 18: Class Web_Browser_Control_V2.wbCtrl of control wb was not a loaded control class.
+Line 27: Class RichTextLib.RichTextBox of control rtfKey was not a loaded control class.
+Line 82: Class RichTextLib.RichTextBox of control rtfComments was not a loaded control class.
+Line 105: Class TabDlg.SSTab of control SSTab1 was not a loaded control class.
+Line 143: Class MSComctlLib.TreeView of control tvMsg was not a loaded control class.
+Line 163: Class MSComctlLib.TreeView of control tvMsg was not a loaded control class.
+Line 182: Class MSComctlLib.TreeView of control tvMsg was not a loaded control class.
+Line 201: Class MSComctlLib.TreeView of control tvMsg was not a loaded control class.
+Line 309: Class MSComctlLib.ImageList of control ImageList1 was not a loaded control class.
+Line 347: Class MSComctlLib.ProgressBar of control pBar was not a loaded control class.

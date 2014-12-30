@@ -1,0 +1,2696 @@
+National_Code,Result,Total Tests,Abnormal
+G82225,Adjusted calcium (ASCAL),6,0
+G82225,Alanine Transferase SGPT (ALT),30,6
+G82225,Albumin (ALB),30,0
+G82225,Alkaline phosphatase (ALP),30,0
+G82225,APTT RATIO (APTTR),6,0
+G82225,APTT Time (APTT),6,0
+G82225,Basophils (auto) (ABAS),24,0
+G82225,Bilirubin (total) (BIL),30,0
+G82225,Calcium (SCAL),6,0
+G82225,Cholesterol (CHO),18,6
+G82225,Creatinine (SCRE),30,6
+G82225,Eosinophils (auto) (AEOS),24,0
+G82225,ESR (ESR),6,0
+G82225,F.S.H. (FSH),6,0
+G82225,Fasting glucose (PGLF),6,0
+G82225,Free T4 (FT4),24,12
+G82225,Gamma GT (GGT),30,12
+G82225,Globulins (GLOB),30,0
+G82225,Hb (HB),24,0
+G82225,Hct (HCT),24,0
+G82225,HDL Cholesterol (HDL),18,6
+G82225,L.H. (LH+),6,0
+G82225,LDL Cholesterol (LDL),18,0
+G82225,Lymphocytes (auto) (ALYMPH),24,6
+G82225,MCH (MCH),24,0
+G82225,MCV (MCV),24,6
+G82225,Monocytes (auto) (AMON),24,6
+G82225,Neutrophils (auto) (ANEUT),24,0
+G82225,Oestradiol (E2),6,0
+G82225,Phosphate (SPO4),6,6
+G82225,Platelets (PLT),24,0
+G82225,Potassium (SK),30,0
+G82225,Prolactin (PRL),6,6
+G82225,Protein (SPR),30,0
+G82225,PT Time (PT),6,0
+G82225,Random glucose (PGLR),6,0
+G82225,RBC`s (RBC),24,6
+G82225,Sodium (SNA),30,0
+G82225,T.S.H. (TSH),24,6
+G82225,Total:HDL cholesterol ratio (TCHDL),18,0
+G82225,Triglycerides (TRIG),18,12
+G82225,Urea (SU),30,0
+G82225,URINE CULTURE (UC),12,0
+G82225,URINE MICROSCOPY (UM),12,0
+G82225,WBC`s (WBC),24,6
+G83002,Adjusted calcium (ASCAL),3,0
+G83002,Albumin (ALB),3,0
+G83002,Alkaline phosphatase (ALP),3,0
+G83002,Basophils (auto) (ABAS),3,0
+G83002,Calcium (SCAL),3,0
+G83002,Eosinophils (auto) (AEOS),3,0
+G83002,ESR (ESR),3,0
+G83002,Hb (HB),3,0
+G83002,Hb Genotype (EL),3,0
+G83002,Hct (HCT),3,0
+G83002,Lymphocytes (auto) (ALYMPH),3,0
+G83002,MCH (MCH),3,0
+G83002,MCV (MCV),3,0
+G83002,Monocytes (auto) (AMON),3,0
+G83002,Neutrophils (auto) (ANEUT),3,0
+G83002,NOTE:- (NL),3,0
+G83002,Phosphate (SPO4),3,0
+G83002,Platelets (PLT),3,0
+G83002,RBC`s (RBC),3,0
+G83002,URINE CULTURE (UC),6,0
+G83002,URINE MICROSCOPY (UM),6,0
+G83002,WBC`s (WBC),3,0
+G83003,Adjusted calcium (ASCAL),1,0
+G83003,Alanine Transferase SGPT (ALT),12,3
+G83003,Albumin (ALB),13,0
+G83003,Alkaline phosphatase (ALP),13,0
+G83003,Anti TPO Abs (microsomal) (THYMA),1,0
+G83003,Basophils (auto) (ABAS),14,0
+G83003,Bilirubin (total) (BIL),12,0
+G83003,C-Reactive Protein (CRP),2,1
+G83003,Calcium (SCAL),1,0
+G83003,Cholesterol (CHO),7,2
+G83003,Creatinine (SCRE),16,1
+G83003,Eosinophils (auto) (AEOS),14,0
+G83003,ESR (ESR),12,10
+G83003,F.S.H. (FSH),1,0
+G83003,Fasting glucose (PGLF),6,1
+G83003,Free T3 (FT3),1,0
+G83003,Free T4 (FT4),12,1
+G83003,Gamma GT (GGT),12,3
+G83003,Globulins (GLOB),12,0
+G83003,Glucose Tolerance test (Std) (GTTS),1,0
+G83003,Glycated Haemoglobin A1c (HBA),1,1
+G83003,Hb (HB),14,1
+G83003,Hct (HCT),14,2
+G83003,HDL Cholesterol (HDL),7,0
+G83003,Helicobacter antibody (HEL),1,0
+G83003,L.H. (LH+),1,0
+G83003,LDL Cholesterol (LDL),7,1
+G83003,Lymphocytes (auto) (ALYMPH),14,0
+G83003,MCH (MCH),14,5
+G83003,MCV (MCV),14,1
+G83003,Monocytes (auto) (AMON),14,0
+G83003,Neutrophils (auto) (ANEUT),14,2
+G83003,Phosphate (SPO4),1,0
+G83003,Platelets (PLT),14,1
+G83003,Potassium (SK),16,2
+G83003,Prolactin (PRL),1,0
+G83003,Prostate Specific Antigen (PSA),2,1
+G83003,Protein (SPR),12,0
+G83003,Random glucose (PGLR),4,0
+G83003,RBC`s (RBC),14,2
+G83003,Rheumatoid Latex (RA),3,0
+G83003,Sodium (SNA),16,0
+G83003,T.S.H. (TSH),12,1
+G83003,Total:HDL cholesterol ratio (TCHDL),7,0
+G83003,Triglycerides (TRIG),7,1
+G83003,Urate (SURA),2,0
+G83003,Urea (SU),16,2
+G83003,URINE CULTURE (UC),2,0
+G83003,URINE MICROSCOPY (UM),2,0
+G83003,WBC`s (WBC),14,1
+G83004,Adjusted calcium (ASCAL),36,9
+G83004,Alanine Transferase SGPT (ALT),549,90
+G83004,Albumin (ALB),549,36
+G83004,Alkaline phosphatase (ALP),558,54
+G83004,Androgen Index (ANIX),18,18
+G83004,Anti TPO Abs (microsomal) (THYMA),9,9
+G83004,APTT RATIO (APTTR),9,0
+G83004,APTT Time (APTT),9,0
+G83004,Basophils (auto) (ABAS),441,0
+G83004,Bilirubin (total) (BIL),549,18
+G83004,BLOOD CULTURE (BC),9,0
+G83004,C-Reactive Protein (CRP),9,0
+G83004,C. difficile toxin A and B (CDT),9,0
+G83004,Calcium (SCAL),36,9
+G83004,Chlamydia-ELISA (CHL),9,0
+G83004,Cholesterol (CHO),405,63
+G83004,CMV IgG (CMVG),9,0
+G83004,CMV IgM (CMVM),9,0
+G83004,Consistency (CONS),9,0
+G83004,Count (COUNT),9,0
+G83004,Creatine kinase (total) (CK),9,9
+G83004,Creatinine (SCRE),630,99
+G83004,Culture and sensitivity (CS),72,0
+G83004,Digoxin (DIG),9,0
+G83004,DNA Antibodies (DNA),9,0
+G83004,ENA Antibodies (ENA),9,0
+G83004,Endomycium Antibodies (ENDAB),9,0
+G83004,Eosinophils (auto) (AEOS),441,9
+G83004,ESR (ESR),171,90
+G83004,F.S.H. (FSH),27,9
+G83004,FAECES EXAMINATION (FE),18,0
+G83004,Fasting glucose (PGLF),207,45
+G83004,Ferritin (FER),36,0
+G83004,Free T3 (FT3),9,0
+G83004,Free T4 (FT4),378,54
+G83004,Gamma GT (GGT),549,225
+G83004,Globulins (GLOB),549,0
+G83004,Glucose Tolerance test (Std) (GTTS),9,0
+G83004,Glycated Haemoglobin A1c (HBA),153,27
+G83004,Hb (HB),441,72
+G83004,Hct (HCT),441,144
+G83004,HDL Cholesterol (HDL),405,36
+G83004,Helicobacter antibody (HEL),18,0
+G83004,Hepatitis B surface antibody (HBSAB),9,0
+G83004,Hepatitis B surface antigen (HBSAG),18,0
+G83004,Hepatitis C (HCV),18,0
+G83004,HIV 1 and 2 antibody (HIV1/2),18,0
+G83004,INR (Warfarin Control) (INR),9,0
+G83004,L.H. (LH+),27,9
+G83004,LDL Cholesterol (LDL),405,9
+G83004,Lithium (LI),9,9
+G83004,Lymphocytes (auto) (ALYMPH),441,45
+G83004,Magnesium (MG),9,0
+G83004,MCH (MCH),441,99
+G83004,MCV (MCV),441,63
+G83004,Microscopy culture and sens. (VCS),18,0
+G83004,Monocytes (auto) (AMON),441,18
+G83004,MRSA SCREEN (MRSA),54,0
+G83004,Neutrophils (auto) (ANEUT),441,27
+G83004,Normal motile forms (NORMOT),9,0
+G83004,NOTE:- (NL),9,0
+G83004,Oestradiol (E2),18,9
+G83004,Paul Bunnell (PB),9,0
+G83004,Phosphate (SPO4),36,9
+G83004,Platelets (PLT),441,27
+G83004,Potassium (SK),630,18
+G83004,Prostate Specific Antigen (PSA),27,9
+G83004,Protein (SPR),549,0
+G83004,PT Time (PT),9,9
+G83004,Random glucose (PGLR),63,0
+G83004,RBC`s (RBC),441,99
+G83004,Rheumatoid Latex (RA),18,0
+G83004,Sent away for testing (OS),9,0
+G83004,Serum Folate (FOL),54,18
+G83004,SHBG (SHBG),18,9
+G83004,Sodium (SNA),630,54
+G83004,T.S.H. (TSH),378,81
+G83004,Testosterone (TESTO),18,9
+G83004,Time collected (TCOL),9,0
+G83004,Time examined (TEXA),9,0
+G83004,Total motile forms (TOTMOT),9,0
+G83004,Total:HDL cholesterol ratio (TCHDL),405,0
+G83004,Triglycerides (TRIG),405,117
+G83004,Urate (SURA),9,9
+G83004,Urea (SU),630,72
+G83004,Urine Adrenaline concentration (UADRC),9,0
+G83004,Urine albumin (UALB),27,0
+G83004,Urine albumin:creat ratio (UACR),27,0
+G83004,URINE CULTURE (UC),387,0
+G83004,Urine Dopamine (UDO),9,0
+G83004,Urine Dopamine concentration (UDOC),9,0
+G83004,URINE MICROSCOPY (UM),387,0
+G83004,Urine Noradrenaline (UNAD),9,0
+G83004,Urine Noradrenaline concn (UNADC),9,0
+G83004,Vitamin B12 (B12),54,0
+G83004,Volume (UVOL),9,0
+G83004,Volume (VOL),9,0
+G83004,WBC`s (WBC),441,18
+G83005,Adjusted calcium (ASCAL),20,10
+G83005,Alanine Transferase SGPT (ALT),205,15
+G83005,Albumin (ALB),205,0
+G83005,Alkaline phosphatase (ALP),210,30
+G83005,Androgen Index (ANIX),5,0
+G83005,Anti Hepatitis B core antibody (A-HBC),5,0
+G83005,Anti TPO Abs (microsomal) (THYMA),5,0
+G83005,APTT RATIO (APTTR),10,0
+G83005,APTT Time (APTT),10,5
+G83005,Autoantibodies (AA),15,0
+G83005,Basophils (auto) (ABAS),255,0
+G83005,Bilirubin (total) (BIL),205,35
+G83005,C-Reactive Protein (CRP),45,20
+G83005,Calcium (SCAL),20,5
+G83005,Chlamydia-ELISA (CHL),5,0
+G83005,Cholesterol (CHO),120,10
+G83005,Creatine kinase (total) (CK),15,0
+G83005,Creatinine (SCRE),190,40
+G83005,Culture and sensitivity (CS),30,0
+G83005,Endomycium Antibodies (ENDAB),5,0
+G83005,Eosinophils (auto) (AEOS),255,10
+G83005,ESR (ESR),145,55
+G83005,F.S.H. (FSH),10,0
+G83005,FAECES CONCENTRATE (FC),5,0
+G83005,FAECES EXAMINATION (FE),15,0
+G83005,Fasting glucose (PGLF),90,0
+G83005,Ferritin (FER),10,0
+G83005,Free T4 (FT4),175,20
+G83005,Gamma GT (GGT),205,70
+G83005,Globulins (GLOB),200,0
+G83005,Glucose Tolerance test (Std) (GTTS),10,0
+G83005,Glycated Haemoglobin A1c (HBA),20,15
+G83005,Hb (HB),255,30
+G83005,Hct (HCT),255,50
+G83005,HDL Cholesterol (HDL),115,30
+G83005,Helicobacter antibody (HEL),5,0
+G83005,Hepatitis A IgM (HAVM),5,0
+G83005,Hepatitis A total antibody (HAVT),5,0
+G83005,Hepatitis C (HCV),5,0
+G83005,Immunoglobulin E + RAST (IGE),5,0
+G83005,L.H. (LH+),10,5
+G83005,LDL Cholesterol (LDL),120,5
+G83005,Lithium (LI),5,5
+G83005,Lymphocytes (auto) (ALYMPH),255,20
+G83005,Malarial Parasites (MP),5,0
+G83005,MCH (MCH),255,65
+G83005,MCV (MCV),255,30
+G83005,Microscopy culture and sens. (VCS),50,0
+G83005,Monocytes (auto) (AMON),255,5
+G83005,MRSA SCREEN (MRSA),5,0
+G83005,Neutrophils (auto) (ANEUT),255,5
+G83005,Oestradiol (E2),5,0
+G83005,Paul Bunnell (PB),10,0
+G83005,Phosphate (SPO4),20,5
+G83005,Platelets (PLT),255,20
+G83005,Potassium (SK),190,20
+G83005,Prostate Specific Antigen (PSA),15,5
+G83005,Protein (SPR),200,0
+G83005,PT Time (PT),10,0
+G83005,Random glucose (PGLR),35,0
+G83005,RBC`s (RBC),255,65
+G83005,Rheumatoid Latex (RA),10,0
+G83005,Serum Folate (FOL),5,0
+G83005,SHBG (SHBG),5,0
+G83005,SIMPLIRED D-DIMER (DD),5,0
+G83005,Sodium (SNA),190,25
+G83005,T.S.H. (TSH),175,10
+G83005,Testosterone (TESTO),5,0
+G83005,Total:HDL cholesterol ratio (TCHDL),115,0
+G83005,Triglycerides (TRIG),120,40
+G83005,Urate (SURA),5,0
+G83005,Urea (SU),190,35
+G83005,Urine albumin (UALB),15,10
+G83005,Urine albumin:creat ratio (UACR),15,10
+G83005,URINE CULTURE (UC),160,0
+G83005,URINE MICROSCOPY (UM),160,0
+G83005,Varicella zoster IgG (VZG),5,0
+G83005,Vitamin B12 (B12),10,5
+G83005,WBC`s (WBC),255,5
+G83006,Adjusted calcium (ASCAL),8,8
+G83006,Alanine Transferase SGPT (ALT),336,64
+G83006,Albumin (ALB),352,8
+G83006,Alkaline phosphatase (ALP),344,40
+G83006,Androgen Index (ANIX),8,8
+G83006,Anti Hepatitis B core antibody (A-HBC),8,0
+G83006,Autoantibodies (AA),8,0
+G83006,B-type Natriuretic Peptide BNP (BNP),8,0
+G83006,Basophils (auto) (ABAS),464,0
+G83006,Bicarbonate (total) (BIC),8,0
+G83006,Bilirubin (total) (BIL),344,48
+G83006,C-Reactive Protein (CRP),16,0
+G83006,Calcium (SCAL),8,8
+G83006,Cholesterol (CHO),272,40
+G83006,Consistency (CONS),8,0
+G83006,Count (COUNT),8,0
+G83006,Creatinine (SCRE),352,40
+G83006,Culture and sensitivity (CS),56,0
+G83006,DHEAS (DHE),8,0
+G83006,Eosinophils (auto) (AEOS),464,8
+G83006,ESR (ESR),264,96
+G83006,F.S.H. (FSH),8,0
+G83006,FAECES CONCENTRATE (FC),8,0
+G83006,FAECES EXAMINATION (FE),64,0
+G83006,Fasting glucose (PGLF),104,32
+G83006,Ferritin (FER),16,8
+G83006,Free T3 (FT3),8,8
+G83006,Free T4 (FT4),328,32
+G83006,Gamma GT (GGT),336,112
+G83006,Globulins (GLOB),344,24
+G83006,Glycated Haemoglobin A1c (HBA),64,32
+G83006,Hb (HB),480,32
+G83006,Hct (HCT),472,80
+G83006,HDL Cholesterol (HDL),272,48
+G83006,Helicobacter antibody (HEL),8,0
+G83006,Hepatitis A IgG (HAVG),8,0
+G83006,Hepatitis A IgM (HAVM),8,0
+G83006,Hepatitis A total antibody (HAVT),8,0
+G83006,Hepatitis B surface antigen (HBSAG),8,0
+G83006,Hepatitis C IgG (BIORAD EIA) (HCSAN),8,0
+G83006,Hepatitis C IgG (ORTHO EIA) (HCORT),8,0
+G83006,Immunofixation (IF),8,0
+G83006,Immunoglobulin A (IGA),8,0
+G83006,Immunoglobulin G (IGG),8,8
+G83006,Immunoglobulin M (IGM),8,0
+G83006,L.H. (LH+),8,0
+G83006,LDL Cholesterol (LDL),272,16
+G83006,Lithium (LI),8,8
+G83006,Lymphocytes (auto) (ALYMPH),464,16
+G83006,Lymphocytes (man) (LYMPH),8,0
+G83006,M Band (by scanning) (MB),8,0
+G83006,MCH (MCH),472,112
+G83006,MCV (MCV),472,64
+G83006,Metamyelocytes (MET),8,0
+G83006,Microscopy culture and sens. (VCS),24,0
+G83006,Monocytes (auto) (AMON),464,24
+G83006,Monocytes (man) (MONO),8,0
+G83006,MRSA SCREEN (MRSA),8,0
+G83006,Myelocytes (MYEL),8,0
+G83006,Neutrophils (auto) (ANEUT),464,0
+G83006,Neutrophils (man) (NEUT),8,0
+G83006,Normal motile forms (NORMOT),8,0
+G83006,Nucleated Red Cells (NRBC),8,0
+G83006,Paul Bunnell (PB),8,0
+G83006,Phenytoin (PHY),8,0
+G83006,Phosphate (SPO4),8,0
+G83006,Platelets (PLT),472,16
+G83006,Potassium (SK),352,24
+G83006,Prostate Specific Antigen (PSA),24,8
+G83006,Protein (SPR),344,0
+G83006,Protein Electrophoresis (PEP),16,0
+G83006,Random glucose (PGLR),184,8
+G83006,RBC`s (RBC),472,88
+G83006,Rheumatoid Latex (RA),48,0
+G83006,Serum Folate (FOL),8,0
+G83006,SHBG (SHBG),8,0
+G83006,Sodium (SNA),368,8
+G83006,T.S.H. (TSH),344,64
+G83006,Testosterone (TESTO),8,0
+G83006,Time collected (TCOL),8,0
+G83006,Time examined (TEXA),8,0
+G83006,Total motile forms (TOTMOT),8,0
+G83006,Total:HDL cholesterol ratio (TCHDL),272,0
+G83006,Triglycerides (TRIG),272,40
+G83006,Urate (SURA),16,16
+G83006,Urea (SU),352,40
+G83006,Urine albumin (UALB),80,0
+G83006,Urine albumin:creat ratio (UACR),80,0
+G83006,URINE CULTURE (UC),176,0
+G83006,URINE MICROSCOPY (UM),176,0
+G83006,Vitamin B12 (B12),8,8
+G83006,Volume (VOL),8,0
+G83006,WBC`s (WBC),472,32
+G83009,Alanine Transferase SGPT (ALT),4,2
+G83009,Albumin (ALB),4,0
+G83009,Alkaline phosphatase (ALP),4,0
+G83009,Androgen Index (ANIX),2,0
+G83009,Basophils (auto) (ABAS),4,0
+G83009,Bilirubin (total) (BIL),4,0
+G83009,Creatinine (SCRE),2,0
+G83009,Eosinophils (auto) (AEOS),4,0
+G83009,ESR (ESR),2,2
+G83009,Ferritin (FER),2,0
+G83009,Free T4 (FT4),4,0
+G83009,Gamma GT (GGT),4,0
+G83009,Globulins (GLOB),4,2
+G83009,Glycated Haemoglobin A1c (HBA),2,2
+G83009,Hb (HB),4,0
+G83009,Hct (HCT),4,0
+G83009,Lymphocytes (auto) (ALYMPH),4,0
+G83009,MCH (MCH),4,0
+G83009,MCV (MCV),4,0
+G83009,Monocytes (auto) (AMON),4,0
+G83009,Neutrophils (auto) (ANEUT),4,0
+G83009,Platelets (PLT),4,0
+G83009,Potassium (SK),2,0
+G83009,Protein (SPR),4,0
+G83009,Random glucose (PGLR),2,0
+G83009,RBC`s (RBC),4,0
+G83009,SHBG (SHBG),2,0
+G83009,Sodium (SNA),2,0
+G83009,T.S.H. (TSH),4,0
+G83009,Testosterone (TESTO),2,0
+G83009,Urea (SU),2,0
+G83009,Urine albumin (UALB),2,0
+G83009,Urine albumin:creat ratio (UACR),2,0
+G83009,WBC`s (WBC),4,0
+G83010,Adjusted calcium (ASCAL),20,5
+G83010,Alanine Transferase SGPT (ALT),270,55
+G83010,Albumin (ALB),275,0
+G83010,Alkaline phosphatase (ALP),275,45
+G83010,Amylase (SAMY),5,0
+G83010,Autoantibodies (AA),5,0
+G83010,Basophils (auto) (ABAS),280,0
+G83010,Bilirubin (total) (BIL),270,30
+G83010,Calcium (SCAL),20,0
+G83010,Carcino-embryonic antigen (CEA),10,0
+G83010,Chlamydia-ELISA (CHL),5,0
+G83010,Cholesterol (CHO),175,25
+G83010,Creatine kinase (total) (CK),5,5
+G83010,Creatinine (SCRE),280,20
+G83010,Culture and sensitivity (CS),5,0
+G83010,Endomycium Antibodies (ENDAB),10,0
+G83010,Eosinophils (auto) (AEOS),280,10
+G83010,Eosinophils (man) (EOS),5,0
+G83010,ESR (ESR),130,55
+G83010,F.S.H. (FSH),15,0
+G83010,FAECES EXAMINATION (FE),15,0
+G83010,Fasting glucose (PGLF),95,25
+G83010,Free T4 (FT4),215,25
+G83010,Gamma GT (GGT),270,105
+G83010,Gliadin Antibodies (GLIA),10,0
+G83010,Globulins (GLOB),270,10
+G83010,Glycated Haemoglobin A1c (HBA),65,20
+G83010,H.C.G. (BHCG),5,5
+G83010,Hb (HB),285,35
+G83010,Hb Genotype (EL),5,0
+G83010,Hct (HCT),285,60
+G83010,HDL Cholesterol (HDL),175,35
+G83010,Helicobacter antibody (HEL),10,0
+G83010,Hepatitis B surface antigen (HBSAG),5,0
+G83010,HIV 1 and 2 antibody (HIV1/2),5,0
+G83010,L.H. (LH+),15,0
+G83010,LDL Cholesterol (LDL),175,0
+G83010,Lithium (LI),10,5
+G83010,Lymphocytes (auto) (ALYMPH),280,25
+G83010,Lymphocytes (man) (LYMPH),5,5
+G83010,MCH (MCH),285,55
+G83010,MCV (MCV),285,15
+G83010,Microscopy culture and sens. (VCS),15,0
+G83010,Monocytes (auto) (AMON),280,0
+G83010,Monocytes (man) (MONO),5,5
+G83010,Neutrophils (auto) (ANEUT),280,0
+G83010,Neutrophils (man) (NEUT),5,5
+G83010,NOTE:- (NL),10,0
+G83010,Phosphate (SPO4),20,5
+G83010,Platelets (PLT),285,10
+G83010,Potassium (SK),280,40
+G83010,Pregnancy test (PT),5,0
+G83010,Prolactin (PRL),15,0
+G83010,Prostate Specific Antigen (PSA),10,5
+G83010,Protein (SPR),270,0
+G83010,Random glucose (PGLR),75,0
+G83010,RBC`s (RBC),285,60
+G83010,Reducing Substances (FRED),5,0
+G83010,Rheumatoid Latex (RA),20,0
+G83010,RUBELLA IgG (RUG),5,0
+G83010,Serum Folate (FOL),5,0
+G83010,Sickle Cell Test (SC),5,0
+G83010,Sodium (SNA),280,15
+G83010,T.S.H. (TSH),215,25
+G83010,Total:HDL cholesterol ratio (TCHDL),175,0
+G83010,TPHA (TPHA),5,0
+G83010,Triglycerides (TRIG),175,70
+G83010,Urate (SURA),5,0
+G83010,Urea (SU),280,20
+G83010,Urine albumin (UALB),15,0
+G83010,Urine albumin:creat ratio (UACR),15,0
+G83010,URINE CULTURE (UC),35,0
+G83010,URINE MICROSCOPY (UM),35,0
+G83010,Vitamin B12 (B12),5,5
+G83010,WBC`s (WBC),285,10
+G83018,Adjusted calcium (ASCAL),18,0
+G83018,Alanine Transferase SGPT (ALT),495,189
+G83018,Albumin (ALB),522,9
+G83018,Alkaline phosphatase (ALP),504,45
+G83018,Amylase (SAMY),9,0
+G83018,APTT RATIO (APTTR),27,0
+G83018,APTT Time (APTT),27,0
+G83018,Autoantibodies (AA),18,0
+G83018,Basophils (auto) (ABAS),693,9
+G83018,Bence Jones Protein (BJP),9,0
+G83018,Bilirubin (total) (BIL),495,9
+G83018,C-Reactive Protein (CRP),36,9
+G83018,Calcium (SCAL),18,0
+G83018,Chlamydia-ELISA (CHL),9,0
+G83018,Cholesterol (CHO),252,54
+G83018,Creatine kinase (total) (CK),36,9
+G83018,Creatinine (SCRE),567,72
+G83018,Culture and sensitivity (CS),135,0
+G83018,Endomycium Antibodies (ENDAB),9,0
+G83018,Eosinophils (auto) (AEOS),693,45
+G83018,Eosinophils (man) (EOS),9,0
+G83018,ESR (ESR),306,207
+G83018,F.S.H. (FSH),27,9
+G83018,FAECES EXAMINATION (FE),9,0
+G83018,Fasting glucose (PGLF),252,18
+G83018,Ferritin (FER),54,18
+G83018,Free T4 (FT4),495,99
+G83018,Gamma GT (GGT),495,207
+G83018,Gliadin Antibodies (GLIA),9,0
+G83018,Globulins (GLOB),513,81
+G83018,Glucose Tolerance test (Std) (GTTS),9,0
+G83018,Glycated Haemoglobin A1c (HBA),99,45
+G83018,Hb (HB),702,117
+G83018,Hb Genotype (EL),9,0
+G83018,Hct (HCT),702,153
+G83018,HDL Cholesterol (HDL),252,54
+G83018,Helicobacter antibody (HEL),9,0
+G83018,Hepatitis B surface antibody (HBSAB),9,0
+G83018,L.H. (LH+),27,9
+G83018,LDL Cholesterol (LDL),252,18
+G83018,Lithium (LI),9,9
+G83018,Lymphocytes (auto) (ALYMPH),693,54
+G83018,Lymphocytes (man) (LYMPH),9,0
+G83018,Malarial Parasites (MP),9,0
+G83018,MCH (MCH),702,225
+G83018,MCV (MCV),702,135
+G83018,Microscopy culture and sens. (VCS),108,0
+G83018,Monocytes (auto) (AMON),693,18
+G83018,Monocytes (man) (MONO),9,9
+G83018,MRSA SCREEN (MRSA),45,0
+G83018,Neutrophils (auto) (ANEUT),693,45
+G83018,Neutrophils (man) (NEUT),9,9
+G83018,NOTE:- (NL),18,0
+G83018,Oestradiol (E2),18,0
+G83018,Paul Bunnell (PB),36,0
+G83018,Phosphate (SPO4),18,0
+G83018,Platelets (PLT),702,36
+G83018,Potassium (SK),567,90
+G83018,Prolactin (PRL),9,9
+G83018,Prostate Specific Antigen (PSA),9,0
+G83018,Protein (SPR),513,0
+G83018,Protein (24h. Urine) (UPR24),9,9
+G83018,Protein concentration (UPR),18,0
+G83018,Protein Electrophoresis (PEP),18,0
+G83018,PT Time (PT),27,0
+G83018,Random glucose (PGLR),153,0
+G83018,RBC`s (RBC),702,162
+G83018,Rheumatoid Latex (RA),27,0
+G83018,Serum Folate (FOL),45,18
+G83018,SERUM SAVED (SS),9,0
+G83018,Sodium (SNA),567,18
+G83018,T.S.H. (TSH),504,63
+G83018,TB CULTURE (LJ),18,0
+G83018,Total:HDL cholesterol ratio (TCHDL),252,0
+G83018,Triglycerides (TRIG),252,99
+G83018,Urate (SURA),27,0
+G83018,Urea (SU),567,18
+G83018,Urine albumin (UALB),108,9
+G83018,Urine albumin:creat ratio (UACR),108,0
+G83018,URINE CULTURE (UC),243,0
+G83018,URINE MICROSCOPY (UM),252,0
+G83018,Urine protein creatinine ratio (UPRCRR),18,0
+G83018,Vitamin B12 (B12),45,0
+G83018,Volume (UVOL),9,0
+G83018,WBC`s (WBC),702,90
+G83018,ZN FILM (ZN),27,0
+G83024,Adjusted calcium (ASCAL),5,0
+G83024,Alanine Transferase SGPT (ALT),35,5
+G83024,Albumin (ALB),35,0
+G83024,Alkaline phosphatase (ALP),35,10
+G83024,Basophils (auto) (ABAS),50,0
+G83024,Bilirubin (total) (BIL),35,5
+G83024,Calcium (SCAL),5,0
+G83024,Cholesterol (CHO),35,0
+G83024,Creatinine (SCRE),80,20
+G83024,Eosinophils (auto) (AEOS),50,0
+G83024,ESR (ESR),35,10
+G83024,F.S.H. (FSH),10,0
+G83024,Fasting glucose (PGLF),20,5
+G83024,Free T4 (FT4),40,0
+G83024,Gamma GT (GGT),35,5
+G83024,Globulins (GLOB),35,0
+G83024,Glycated Haemoglobin A1c (HBA),5,0
+G83024,Hb (HB),50,5
+G83024,Hct (HCT),50,15
+G83024,HDL Cholesterol (HDL),35,0
+G83024,Hepatitis B surface antibody (HBSAB),5,0
+G83024,L.H. (LH+),10,0
+G83024,LDL Cholesterol (LDL),35,0
+G83024,Lymphocytes (auto) (ALYMPH),50,5
+G83024,MCH (MCH),50,5
+G83024,MCV (MCV),50,5
+G83024,Monocytes (auto) (AMON),50,5
+G83024,Neutrophils (auto) (ANEUT),50,0
+G83024,Oestradiol (E2),5,0
+G83024,Paul Bunnell (PB),10,0
+G83024,Phosphate (SPO4),5,0
+G83024,Platelets (PLT),50,0
+G83024,Potassium (SK),80,5
+G83024,Prostate Specific Antigen (PSA),10,0
+G83024,Protein (SPR),35,0
+G83024,Random glucose (PGLR),25,0
+G83024,RBC`s (RBC),50,10
+G83024,Serum Folate (FOL),5,0
+G83024,Sodium (SNA),80,5
+G83024,T.S.H. (TSH),40,15
+G83024,Total:HDL cholesterol ratio (TCHDL),35,0
+G83024,Triglycerides (TRIG),35,5
+G83024,Urea (SU),80,10
+G83024,Vitamin B12 (B12),5,0
+G83024,WBC`s (WBC),50,0
+G83025,Adjusted calcium (ASCAL),10,0
+G83025,Alanine Transferase SGPT (ALT),95,15
+G83025,Albumin (ALB),105,0
+G83025,Alkaline phosphatase (ALP),100,10
+G83025,Anti TPO Abs (microsomal) (THYMA),5,5
+G83025,APTT Time (APTT),5,0
+G83025,Autoantibodies (AA),10,0
+G83025,Basophils (auto) (ABAS),135,0
+G83025,Bilirubin (total) (BIL),95,0
+G83025,C-Reactive Protein (CRP),5,0
+G83025,Calcium (SCAL),10,0
+G83025,Cholesterol (CHO),65,5
+G83025,Consistency (CONS),5,0
+G83025,Count (COUNT),5,0
+G83025,Creatinine (SCRE),125,10
+G83025,Eosinophils (auto) (AEOS),140,5
+G83025,ESR (ESR),75,40
+G83025,F.S.H. (FSH),30,0
+G83025,Fasting glucose (PGLF),50,5
+G83025,Ferritin (FER),25,10
+G83025,Free T4 (FT4),65,10
+G83025,Gamma GT (GGT),95,20
+G83025,Globulins (GLOB),100,5
+G83025,Glycated Haemoglobin A1c (HBA),20,5
+G83025,Hb (HB),140,15
+G83025,Hct (HCT),140,25
+G83025,HDL Cholesterol (HDL),65,5
+G83025,Hepatitis B surface antigen (HBSAG),10,0
+G83025,Hepatitis C (HCV),10,0
+G83025,HIV 1 and 2 antibody (HIV1/2),10,0
+G83025,L.H. (LH+),30,5
+G83025,LDL Cholesterol (LDL),65,0
+G83025,Lymphocytes (auto) (ALYMPH),140,15
+G83025,MCH (MCH),140,25
+G83025,MCV (MCV),140,25
+G83025,Monocytes (auto) (AMON),140,5
+G83025,Neutrophils (auto) (ANEUT),140,15
+G83025,Normal motile forms (NORMOT),5,0
+G83025,Oestradiol (E2),10,0
+G83025,Phosphate (SPO4),10,0
+G83025,Platelets (PLT),140,10
+G83025,Potassium (SK),125,0
+G83025,Progesterone (PRG),5,0
+G83025,Protein (SPR),100,0
+G83025,Protein Electrophoresis (PEP),5,0
+G83025,PT Time (PT),5,0
+G83025,Random glucose (PGLR),40,0
+G83025,RBC`s (RBC),140,35
+G83025,Rheumatoid Latex (RA),15,0
+G83025,Serum Folate (FOL),10,0
+G83025,Sodium (SNA),125,5
+G83025,T.S.H. (TSH),65,5
+G83025,Time collected (TCOL),5,0
+G83025,Time examined (TEXA),5,0
+G83025,Total motile forms (TOTMOT),5,0
+G83025,Total:HDL cholesterol ratio (TCHDL),65,0
+G83025,Triglycerides (TRIG),65,20
+G83025,Urate (SURA),15,10
+G83025,Urea (SU),125,15
+G83025,Urine albumin (UALB),5,0
+G83025,Urine albumin:creat ratio (UACR),5,0
+G83025,URINE CULTURE (UC),20,0
+G83025,URINE MICROSCOPY (UM),20,0
+G83025,Vitamin B12 (B12),10,0
+G83025,Volume (VOL),5,0
+G83025,WBC`s (WBC),140,20
+G83028,Alanine Transferase SGPT (ALT),18,12
+G83028,Albumin (ALB),18,3
+G83028,Alkaline phosphatase (ALP),18,3
+G83028,Bilirubin (total) (BIL),18,3
+G83028,Cholesterol (CHO),18,3
+G83028,Creatine kinase (total) (CK),3,3
+G83028,Creatinine (SCRE),21,0
+G83028,Fasting glucose (PGLF),9,3
+G83028,Free T4 (FT4),12,0
+G83028,Gamma GT (GGT),18,6
+G83028,Globulins (GLOB),18,0
+G83028,Glycated Haemoglobin A1c (HBA),3,0
+G83028,HDL Cholesterol (HDL),18,0
+G83028,LDL Cholesterol (LDL),18,0
+G83028,Potassium (SK),21,3
+G83028,Progesterone (PRG),3,0
+G83028,Prostate Specific Antigen (PSA),3,0
+G83028,Protein (SPR),18,0
+G83028,Sodium (SNA),21,3
+G83028,T.S.H. (TSH),12,0
+G83028,Total:HDL cholesterol ratio (TCHDL),18,0
+G83028,Triglycerides (TRIG),18,3
+G83028,Urea (SU),21,0
+G83029,Adjusted calcium (ASCAL),6,3
+G83029,Alanine Transferase SGPT (ALT),57,21
+G83029,Albumin (ALB),69,0
+G83029,Alkaline phosphatase (ALP),60,9
+G83029,Anti TPO Abs (microsomal) (THYMA),3,3
+G83029,Basophils (auto) (ABAS),57,0
+G83029,Bence Jones Protein (BJP),3,0
+G83029,Bilirubin (total) (BIL),57,15
+G83029,Calcium (SCAL),6,6
+G83029,Chlamydia-ELISA (CHL),3,0
+G83029,Cholesterol (CHO),42,3
+G83029,Creatinine (SCRE),66,12
+G83029,Culture and sensitivity (CS),15,0
+G83029,Digoxin (DIG),3,0
+G83029,Eosinophils (auto) (AEOS),57,6
+G83029,ESR (ESR),27,18
+G83029,FAECES EXAMINATION (FE),6,0
+G83029,Fasting glucose (PGLF),15,6
+G83029,Ferritin (FER),12,3
+G83029,Free T4 (FT4),63,9
+G83029,Gamma GT (GGT),57,30
+G83029,Globulins (GLOB),66,9
+G83029,Glycated Haemoglobin A1c (HBA),18,3
+G83029,Hb (HB),57,12
+G83029,Hct (HCT),57,15
+G83029,HDL Cholesterol (HDL),42,0
+G83029,Helicobacter antibody (HEL),3,0
+G83029,Hepatitis B surface antibody (HBSAB),3,0
+G83029,Immunoglobulin A (IGA),3,0
+G83029,Immunoglobulin G (IGG),3,0
+G83029,Immunoglobulin M (IGM),3,0
+G83029,LDL Cholesterol (LDL),42,0
+G83029,Lymphocytes (auto) (ALYMPH),57,9
+G83029,MCH (MCH),57,21
+G83029,MCV (MCV),57,12
+G83029,Microscopy culture and sens. (VCS),15,0
+G83029,Monocytes (auto) (AMON),57,0
+G83029,Neutrophils (auto) (ANEUT),57,3
+G83029,NOTE:- (NL),3,0
+G83029,Phosphate (SPO4),6,0
+G83029,Platelets (PLT),57,12
+G83029,Potassium (SK),66,3
+G83029,Prostate Specific Antigen (PSA),3,0
+G83029,Protein (SPR),66,0
+G83029,Protein concentration (UPR),3,0
+G83029,Protein Electrophoresis (PEP),9,0
+G83029,Random glucose (PGLR),12,0
+G83029,RBC`s (RBC),57,12
+G83029,Serum Folate (FOL),15,0
+G83029,Sodium (SNA),66,3
+G83029,T.S.H. (TSH),63,15
+G83029,Total:HDL cholesterol ratio (TCHDL),42,0
+G83029,Triglycerides (TRIG),42,12
+G83029,Urea (SU),66,12
+G83029,Urine albumin (UALB),6,0
+G83029,Urine albumin:creat ratio (UACR),6,0
+G83029,URINE CULTURE (UC),39,0
+G83029,URINE MICROSCOPY (UM),39,0
+G83029,Urine protein creatinine ratio (UPRCRR),3,0
+G83029,Vitamin B12 (B12),15,0
+G83029,WBC`s (WBC),57,6
+G83033,Adjusted calcium (ASCAL),24,3
+G83033,Alanine Transferase SGPT (ALT),126,27
+G83033,Albumin (ALB),129,3
+G83033,Alkaline phosphatase (ALP),129,12
+G83033,Amylase (SAMY),3,0
+G83033,Androgen Index (ANIX),3,0
+G83033,Anti TPO Abs (microsomal) (THYMA),3,0
+G83033,Autoantibodies (AA),3,0
+G83033,Basophils (auto) (ABAS),129,3
+G83033,Bilirubin (total) (BIL),126,3
+G83033,C-Reactive Protein (CRP),3,0
+G83033,Calcium (SCAL),24,0
+G83033,Carcino-embryonic antigen (CEA),3,0
+G83033,Cholesterol (CHO),123,18
+G83033,Creatine kinase (total) (CK),15,3
+G83033,Creatinine (SCRE),135,12
+G83033,Culture and sensitivity (CS),3,0
+G83033,Eosinophils (auto) (AEOS),129,12
+G83033,ESR (ESR),93,24
+G83033,F.S.H. (FSH),6,3
+G83033,FAECES EXAMINATION (FE),3,0
+G83033,Fasting glucose (PGLF),120,18
+G83033,Ferritin (FER),12,6
+G83033,Free T3 (FT3),3,0
+G83033,Free T4 (FT4),138,9
+G83033,Gamma GT (GGT),126,45
+G83033,Globulins (GLOB),126,0
+G83033,Glucose Tolerance test (Std) (GTTS),3,0
+G83033,Glycated Haemoglobin A1c (HBA),21,9
+G83033,Hb (HB),129,9
+G83033,Hct (HCT),129,15
+G83033,HDL Cholesterol (HDL),123,3
+G83033,Helicobacter antibody (HEL),9,0
+G83033,Immunoglobulin E + RAST (IGE),3,0
+G83033,L.H. (LH+),6,3
+G83033,LDL Cholesterol (LDL),123,0
+G83033,Lymphocytes (auto) (ALYMPH),129,15
+G83033,MCH (MCH),129,33
+G83033,MCV (MCV),129,12
+G83033,Microscopy culture and sens. (VCS),9,0
+G83033,Monocytes (auto) (AMON),129,3
+G83033,Neutrophils (auto) (ANEUT),129,9
+G83033,NOTE:- (NL),3,0
+G83033,Oestradiol (E2),6,0
+G83033,Phosphate (SPO4),24,0
+G83033,Platelets (PLT),129,12
+G83033,Potassium (SK),135,6
+G83033,Pregnancy test (PT),3,0
+G83033,Prolactin (PRL),6,0
+G83033,Prostate Specific Antigen (PSA),3,0
+G83033,Protein (SPR),126,0
+G83033,RBC`s (RBC),129,24
+G83033,Rheumatoid Latex (RA),3,0
+G83033,Serum Folate (FOL),12,0
+G83033,SHBG (SHBG),3,0
+G83033,Sodium (SNA),135,0
+G83033,T.S.H. (TSH),138,30
+G83033,Testosterone (TESTO),3,0
+G83033,Total:HDL cholesterol ratio (TCHDL),123,0
+G83033,Triglycerides (TRIG),123,39
+G83033,Urate (SURA),6,3
+G83033,Urea (SU),135,6
+G83033,Urine albumin (UALB),6,0
+G83033,Urine albumin:creat ratio (UACR),6,0
+G83033,URINE CULTURE (UC),27,0
+G83033,URINE MICROSCOPY (UM),30,0
+G83033,Vitamin B12 (B12),12,3
+G83033,WBC`s (WBC),129,21
+G83037,Adjusted calcium (ASCAL),4,0
+G83037,Alanine Transferase SGPT (ALT),30,6
+G83037,Albumin (ALB),36,2
+G83037,Alkaline phosphatase (ALP),32,2
+G83037,APTT RATIO (APTTR),2,0
+G83037,APTT Time (APTT),2,0
+G83037,Autoantibodies (AA),2,0
+G83037,Basophils (auto) (ABAS),26,0
+G83037,Bilirubin (total) (BIL),30,2
+G83037,Calcium (SCAL),4,0
+G83037,Cholesterol (CHO),16,0
+G83037,Creatinine (SCRE),36,2
+G83037,Culture and sensitivity (CS),10,0
+G83037,Eosinophils (auto) (AEOS),26,0
+G83037,ESR (ESR),14,6
+G83037,FAECES CONCENTRATE (FC),2,0
+G83037,FAECES EXAMINATION (FE),6,0
+G83037,Fasting glucose (PGLF),16,2
+G83037,Ferritin (FER),2,0
+G83037,Free T4 (FT4),20,4
+G83037,Gamma GT (GGT),30,18
+G83037,Gliadin Antibodies (GLIA),2,0
+G83037,Globulins (GLOB),34,4
+G83037,Glycated Haemoglobin A1c (HBA),10,6
+G83037,Hb (HB),26,6
+G83037,HCG (intact)-Pregnancy Test (ICON),2,0
+G83037,Hct (HCT),26,6
+G83037,HDL Cholesterol (HDL),16,2
+G83037,Hepatitis B surface antibody (HBSAB),2,0
+G83037,Hepatitis C (HCV),2,0
+G83037,Hepatitis C IgG (BIORAD EIA) (HCSAN),2,0
+G83037,Hepatitis C IgG (ORTHO EIA) (HCORT),2,0
+G83037,Hepatitis C virus PCR (HCVPCR),2,0
+G83037,INR (Warfarin Control) (INR),2,0
+G83037,Intrinsic Factor (INF),2,0
+G83037,LDL Cholesterol (LDL),16,0
+G83037,Lymphocytes (auto) (ALYMPH),26,2
+G83037,MCH (MCH),26,4
+G83037,MCV (MCV),26,6
+G83037,Monocytes (auto) (AMON),26,0
+G83037,Neutrophils (auto) (ANEUT),26,0
+G83037,NOTE:- (NL),2,0
+G83037,Paul Bunnell (PB),2,0
+G83037,Phosphate (SPO4),4,0
+G83037,Platelets (PLT),26,6
+G83037,Potassium (SK),36,0
+G83037,Progesterone (PRG),2,0
+G83037,Protein (SPR),34,0
+G83037,Protein Electrophoresis (PEP),4,0
+G83037,PT Time (PT),2,0
+G83037,RBC`s (RBC),26,8
+G83037,Rheumatoid Latex (RA),2,0
+G83037,Sodium (SNA),36,2
+G83037,T.S.H. (TSH),20,2
+G83037,Total:HDL cholesterol ratio (TCHDL),16,0
+G83037,Triglycerides (TRIG),16,4
+G83037,Urea (SU),36,2
+G83037,URINE CULTURE (UC),6,0
+G83037,URINE MICROSCOPY (UM),6,0
+G83037,WBC`s (WBC),26,2
+G83043,Adjusted calcium (ASCAL),6,3
+G83043,Alanine Transferase SGPT (ALT),84,18
+G83043,Albumin (ALB),87,0
+G83043,Alkaline phosphatase (ALP),87,6
+G83043,Androgen Index (ANIX),3,0
+G83043,Anti Hepatitis B core antibody (A-HBC),3,0
+G83043,Autoantibodies (AA),3,0
+G83043,Basophils (auto) (ABAS),48,0
+G83043,Bilirubin (total) (BIL),84,6
+G83043,Calcium (SCAL),6,0
+G83043,Cholesterol (CHO),66,21
+G83043,Creatine kinase (total) (CK),3,3
+G83043,Creatinine (SCRE),81,0
+G83043,Culture and sensitivity (CS),3,0
+G83043,Digoxin (DIG),3,3
+G83043,Eosinophils (auto) (AEOS),48,0
+G83043,ESR (ESR),30,9
+G83043,F.S.H. (FSH),3,0
+G83043,Fasting glucose (PGLF),39,3
+G83043,Ferritin (FER),9,0
+G83043,Free T4 (FT4),45,6
+G83043,Gamma GT (GGT),84,39
+G83043,Globulins (GLOB),84,3
+G83043,Glucose Tolerance test (Std) (GTTS),6,0
+G83043,Glycated Haemoglobin A1c (HBA),18,6
+G83043,Hb (HB),48,6
+G83043,Hct (HCT),48,9
+G83043,HDL Cholesterol (HDL),66,3
+G83043,Helicobacter antibody (HEL),3,0
+G83043,Hepatitis A IgM (HAVM),3,0
+G83043,Hepatitis B surface antigen (HBSAG),6,0
+G83043,Hepatitis C (HCV),6,0
+G83043,L.H. (LH+),3,0
+G83043,LDL Cholesterol (LDL),66,6
+G83043,Lymphocytes (auto) (ALYMPH),48,0
+G83043,MCH (MCH),48,9
+G83043,MCV (MCV),48,12
+G83043,Microscopy culture and sens. (VCS),6,0
+G83043,Monocytes (auto) (AMON),48,3
+G83043,Neutrophils (auto) (ANEUT),48,9
+G83043,Oestradiol (E2),3,0
+G83043,Paul Bunnell (PB),3,0
+G83043,Phosphate (SPO4),6,3
+G83043,Platelets (PLT),48,3
+G83043,Potassium (SK),81,6
+G83043,Pregnancy test (PT),3,0
+G83043,Protein (SPR),84,0
+G83043,Random glucose (PGLR),12,0
+G83043,RBC`s (RBC),48,9
+G83043,Rheumatoid Latex (RA),3,0
+G83043,RUBELLA IgG (RUG),3,0
+G83043,SHBG (SHBG),3,0
+G83043,Sodium (SNA),81,6
+G83043,T.S.H. (TSH),45,9
+G83043,Testosterone (TESTO),3,3
+G83043,Theophylline (THE),3,3
+G83043,Total:HDL cholesterol ratio (TCHDL),66,0
+G83043,Triglycerides (TRIG),66,21
+G83043,Urate (SURA),3,3
+G83043,Urea (SU),81,3
+G83043,Urine Adrenaline concentration (UADRC),3,0
+G83043,Urine albumin (UALB),9,0
+G83043,Urine albumin:creat ratio (UACR),9,0
+G83043,URINE CULTURE (UC),21,0
+G83043,Urine Dopamine (UDO),3,0
+G83043,Urine Dopamine concentration (UDOC),3,0
+G83043,URINE MICROSCOPY (UM),21,0
+G83043,Urine Noradrenaline (UNAD),3,0
+G83043,Urine Noradrenaline concn (UNADC),3,0
+G83043,Volume (UVOL),3,0
+G83043,WBC`s (WBC),48,9
+G83046,Alanine Transferase SGPT (ALT),54,9
+G83046,Albumin (ALB),51,0
+G83046,Alkaline phosphatase (ALP),54,3
+G83046,Basophils (auto) (ABAS),57,0
+G83046,Bilirubin (total) (BIL),54,6
+G83046,C-Reactive Protein (CRP),3,3
+G83046,Cholesterol (CHO),63,3
+G83046,Creatinine (SCRE),54,6
+G83046,Culture and sensitivity (CS),3,0
+G83046,Digoxin (DIG),3,0
+G83046,Eosinophils (auto) (AEOS),57,0
+G83046,ESR (ESR),18,9
+G83046,F.S.H. (FSH),3,0
+G83046,Fasting glucose (PGLF),24,0
+G83046,Free T4 (FT4),36,9
+G83046,Gamma GT (GGT),54,18
+G83046,Globulins (GLOB),51,0
+G83046,Glycated Haemoglobin A1c (HBA),21,0
+G83046,Hb (HB),57,6
+G83046,Hct (HCT),57,6
+G83046,HDL Cholesterol (HDL),63,6
+G83046,Hepatitis B surface antibody (HBSAB),3,0
+G83046,Iron (FE),6,3
+G83046,L.H. (LH+),3,0
+G83046,LDL Cholesterol (LDL),63,3
+G83046,Lymphocytes (auto) (ALYMPH),57,12
+G83046,MCH (MCH),57,3
+G83046,MCV (MCV),57,0
+G83046,Microscopy culture and sens. (VCS),6,0
+G83046,Monocytes (auto) (AMON),57,0
+G83046,Neutrophils (auto) (ANEUT),57,0
+G83046,Oestradiol (E2),6,0
+G83046,Paul Bunnell (PB),3,0
+G83046,Platelets (PLT),57,6
+G83046,Potassium (SK),54,3
+G83046,Pregnancy test (PT),6,0
+G83046,Prolactin (PRL),3,0
+G83046,Prostate Specific Antigen (PSA),3,0
+G83046,Protein (SPR),51,0
+G83046,Random glucose (PGLR),3,0
+G83046,RBC`s (RBC),57,12
+G83046,Sodium (SNA),54,0
+G83046,T.S.H. (TSH),36,3
+G83046,Total:HDL cholesterol ratio (TCHDL),63,0
+G83046,Triglycerides (TRIG),63,15
+G83046,Urea (SU),54,9
+G83046,Urine albumin (UALB),3,0
+G83046,Urine albumin:creat ratio (UACR),3,0
+G83046,URINE CULTURE (UC),30,0
+G83046,URINE MICROSCOPY (UM),30,0
+G83046,Vitamin B12 (B12),3,3
+G83046,WBC`s (WBC),57,3
+G83047,Adjusted calcium (ASCAL),14,0
+G83047,Alanine Transferase SGPT (ALT),483,70
+G83047,Albumin (ALB),490,7
+G83047,Alkaline phosphatase (ALP),483,21
+G83047,Androgen Index (ANIX),21,7
+G83047,Anti TPO Abs (microsomal) (THYMA),14,14
+G83047,APTT RATIO (APTTR),14,0
+G83047,APTT Time (APTT),14,0
+G83047,Basophils (auto) (ABAS),392,14
+G83047,Bilirubin (total) (BIL),483,21
+G83047,C-Reactive Protein (CRP),21,7
+G83047,Calcium (SCAL),21,0
+G83047,Carcino-embryonic antigen (CEA),7,7
+G83047,Cholesterol (CHO),259,28
+G83047,Creatine kinase (total) (CK),28,7
+G83047,Creatinine (SCRE),399,49
+G83047,Culture and sensitivity (CS),28,0
+G83047,Eosinophils (auto) (AEOS),392,7
+G83047,Eosinophils (man) (EOS),7,0
+G83047,ESR (ESR),210,105
+G83047,F.S.H. (FSH),14,0
+G83047,FAECES CONCENTRATE (FC),7,0
+G83047,FAECES EXAMINATION (FE),49,0
+G83047,Fasting glucose (PGLF),133,49
+G83047,Ferritin (FER),21,21
+G83047,Free T3 (FT3),7,0
+G83047,Free T4 (FT4),308,21
+G83047,Gamma GT (GGT),483,140
+G83047,Globulins (GLOB),490,21
+G83047,Glucose Tolerance test (Std) (GTTS),7,0
+G83047,Glycated Haemoglobin A1c (HBA),70,14
+G83047,Hb (HB),399,42
+G83047,Hct (HCT),399,112
+G83047,HDL Cholesterol (HDL),259,35
+G83047,HIV 1 and 2 antibody (HIV1/2),7,0
+G83047,Intrinsic Factor (INF),7,0
+G83047,L.H. (LH+),14,0
+G83047,LDL Cholesterol (LDL),259,0
+G83047,Lymphocytes (auto) (ALYMPH),392,35
+G83047,Lymphocytes (man) (LYMPH),7,0
+G83047,MCH (MCH),399,56
+G83047,MCV (MCV),399,70
+G83047,Microscopy culture and sens. (VCS),21,0
+G83047,Monocytes (auto) (AMON),392,7
+G83047,Monocytes (man) (MONO),7,0
+G83047,Mumps IgG (MUMG),14,0
+G83047,Mumps IgM (MUMM),7,0
+G83047,Neutrophils (auto) (ANEUT),392,35
+G83047,Neutrophils (man) (NEUT),7,7
+G83047,Occult Blood (FOB),21,0
+G83047,Paul Bunnell (PB),21,0
+G83047,Phosphate (SPO4),14,0
+G83047,Platelets (PLT),399,35
+G83047,Potassium (SK),399,42
+G83047,Pregnancy test (PT),7,0
+G83047,Progesterone (PRG),7,0
+G83047,Prolactin (PRL),7,0
+G83047,Protein (SPR),490,0
+G83047,Protein Electrophoresis (PEP),7,0
+G83047,PT Time (PT),14,0
+G83047,Random glucose (PGLR),84,7
+G83047,RBC`s (RBC),399,49
+G83047,Rheumatoid Latex (RA),14,0
+G83047,Serum Folate (FOL),28,7
+G83047,SHBG (SHBG),21,0
+G83047,Sodium (SNA),399,14
+G83047,T.S.H. (TSH),308,49
+G83047,Testosterone (TESTO),21,0
+G83047,Total:HDL cholesterol ratio (TCHDL),259,0
+G83047,Triglycerides (TRIG),259,105
+G83047,Urea (SU),399,98
+G83047,URINE CULTURE (UC),140,0
+G83047,URINE MICROSCOPY (UM),140,0
+G83047,Vitamin B12 (B12),28,0
+G83047,WBC`s (WBC),399,49
+G83048,Adjusted calcium (ASCAL),5,1
+G83048,Alanine Transferase SGPT (ALT),36,7
+G83048,Albumin (ALB),36,0
+G83048,Alkaline phosphatase (ALP),36,3
+G83048,Basophils (auto) (ABAS),46,0
+G83048,Basophils (man) (BASO),1,0
+G83048,Beta-2-microglobulin (B2M),1,0
+G83048,Bilirubin (total) (BIL),36,2
+G83048,C-Reactive Protein (CRP),4,2
+G83048,Calcium (SCAL),5,0
+G83048,Cholesterol (CHO),31,5
+G83048,Creatine kinase (total) (CK),4,3
+G83048,Creatinine (SCRE),39,8
+G83048,Culture and sensitivity (CS),7,0
+G83048,Digoxin (DIG),1,1
+G83048,Eosinophils (auto) (AEOS),46,0
+G83048,Eosinophils (man) (EOS),1,0
+G83048,ESR (ESR),15,8
+G83048,F.S.H. (FSH),3,0
+G83048,FAECES EXAMINATION (FE),1,0
+G83048,Fasting glucose (PGLF),16,2
+G83048,Ferritin (FER),4,1
+G83048,Free T4 (FT4),34,6
+G83048,Gamma GT (GGT),36,14
+G83048,Globulins (GLOB),36,2
+G83048,Glycated Haemoglobin A1c (HBA),6,3
+G83048,Hb (HB),47,4
+G83048,Hct (HCT),47,8
+G83048,HDL Cholesterol (HDL),31,3
+G83048,Helicobacter antibody (HEL),1,0
+G83048,Hepatitis B surface antibody (HBSAB),1,0
+G83048,Immunoglobulin A (IGA),1,0
+G83048,Immunoglobulin G (IGG),1,1
+G83048,Immunoglobulin M (IGM),1,1
+G83048,L.H. (LH+),3,0
+G83048,LDL Cholesterol (LDL),31,2
+G83048,Lymphocytes (auto) (ALYMPH),46,3
+G83048,Lymphocytes (man) (LYMPH),1,0
+G83048,M Band (by scanning) (MB),1,0
+G83048,MCH (MCH),47,9
+G83048,MCV (MCV),47,3
+G83048,Microscopy culture and sens. (VCS),6,0
+G83048,Monocytes (auto) (AMON),46,2
+G83048,Monocytes (man) (MONO),1,0
+G83048,Myelocytes (MYEL),1,0
+G83048,Neutrophils (auto) (ANEUT),46,4
+G83048,Neutrophils (man) (NEUT),1,0
+G83048,NOTE:- (NL),2,0
+G83048,Paul Bunnell (PB),3,0
+G83048,Phenytoin (PHY),1,0
+G83048,Phosphate (SPO4),5,1
+G83048,Platelets (PLT),47,3
+G83048,Potassium (SK),39,4
+G83048,Pregnancy test (PT),2,0
+G83048,Prostate Specific Antigen (PSA),1,0
+G83048,Protein (SPR),36,0
+G83048,Protein (24h. Urine) (UPR24),1,0
+G83048,Protein concentration (UPR),1,0
+G83048,Protein Electrophoresis (PEP),1,0
+G83048,Random glucose (PGLR),9,0
+G83048,RBC`s (RBC),47,6
+G83048,Rheumatoid Latex (RA),3,0
+G83048,RUBELLA IgG (RUG),1,0
+G83048,Serum Folate (FOL),6,3
+G83048,SERUM SAVED (SS),1,0
+G83048,Sodium (SNA),39,2
+G83048,T.S.H. (TSH),34,4
+G83048,Total:HDL cholesterol ratio (TCHDL),31,0
+G83048,Triglycerides (TRIG),31,16
+G83048,Urate (SURA),2,1
+G83048,Urea (SU),39,6
+G83048,Urine albumin (UALB),2,0
+G83048,Urine albumin:creat ratio (UACR),2,0
+G83048,URINE CULTURE (UC),11,0
+G83048,URINE MICROSCOPY (UM),11,0
+G83048,Urine protein creatinine ratio (UPRCRR),1,0
+G83048,Varicella zoster IgG (Ref.lab) (VZGR),1,0
+G83048,Vitamin B12 (B12),4,1
+G83048,Volume (UVOL),1,0
+G83048,WBC`s (WBC),47,7
+G83048,ZN FILM (ZN),3,0
+G83049,Adjusted calcium (ASCAL),30,5
+G83049,Alanine Transferase SGPT (ALT),270,75
+G83049,Albumin (ALB),275,10
+G83049,Alkaline phosphatase (ALP),270,45
+G83049,Basophils (auto) (ABAS),215,0
+G83049,Bilirubin (total) (BIL),270,20
+G83049,C. difficile toxin A and B (CDT),5,0
+G83049,Calcium (SCAL),30,15
+G83049,Chlamydia-ELISA (CHL),5,0
+G83049,Cholesterol (CHO),140,10
+G83049,Creatinine (SCRE),265,45
+G83049,Culture and sensitivity (CS),45,0
+G83049,Eosinophils (auto) (AEOS),215,5
+G83049,ESR (ESR),120,70
+G83049,F.S.H. (FSH),10,0
+G83049,FAECES CONCENTRATE (FC),5,0
+G83049,FAECES EXAMINATION (FE),10,0
+G83049,Fasting glucose (PGLF),100,10
+G83049,Ferritin (FER),5,5
+G83049,Free T4 (FT4),205,20
+G83049,Gamma GT (GGT),270,95
+G83049,Globulins (GLOB),275,10
+G83049,Glucose Tolerance test (Std) (GTTS),10,0
+G83049,Glycated Haemoglobin A1c (HBA),30,5
+G83049,Hb (HB),220,30
+G83049,Hct (HCT),220,45
+G83049,HDL Cholesterol (HDL),140,5
+G83049,Helicobacter antibody (HEL),10,0
+G83049,Hepatitis B surface antibody (HBSAB),5,0
+G83049,Hepatitis B surface antigen (HBSAG),10,0
+G83049,Hepatitis C (HCV),10,0
+G83049,HIV 1 and 2 antibody (HIV1/2),10,0
+G83049,Intrinsic Factor (INF),5,0
+G83049,L.H. (LH+),10,0
+G83049,LDL Cholesterol (LDL),140,0
+G83049,Lymphocytes (auto) (ALYMPH),215,15
+G83049,Lymphocytes (man) (LYMPH),5,5
+G83049,MCH (MCH),220,35
+G83049,MCV (MCV),220,30
+G83049,Microscopy culture and sens. (VCS),25,0
+G83049,Monocytes (auto) (AMON),215,15
+G83049,Monocytes (man) (MONO),5,0
+G83049,Neutrophils (auto) (ANEUT),215,5
+G83049,Neutrophils (man) (NEUT),5,5
+G83049,NOTE:- (NL),5,0
+G83049,Occult Blood (FOB),25,0
+G83049,Osmolality (SOSM),5,0
+G83049,Paul Bunnell (PB),5,0
+G83049,Phosphate (SPO4),30,5
+G83049,Platelets (PLT),220,5
+G83049,Potassium (SK),265,25
+G83049,Pregnancy test (PT),5,0
+G83049,Prolactin (PRL),5,0
+G83049,Prostate Specific Antigen (PSA),15,0
+G83049,Protein (SPR),275,0
+G83049,Protein Electrophoresis (PEP),5,0
+G83049,Random glucose (PGLR),45,0
+G83049,RBC`s (RBC),220,70
+G83049,Rheumatoid Latex (RA),15,0
+G83049,RUBELLA IgG (RUG),5,0
+G83049,Sodium (SNA),265,15
+G83049,T.S.H. (TSH),205,35
+G83049,Total:HDL cholesterol ratio (TCHDL),140,0
+G83049,TPHA (TPHA),5,0
+G83049,Triglycerides (TRIG),140,50
+G83049,Urate (SURA),40,15
+G83049,Urea (SU),265,50
+G83049,Urine albumin (UALB),25,0
+G83049,Urine albumin:creat ratio (UACR),25,0
+G83049,URINE CULTURE (UC),110,0
+G83049,URINE MICROSCOPY (UM),110,0
+G83049,WBC`s (WBC),220,5
+G83052,Adjusted calcium (ASCAL),2,0
+G83052,Alanine Transferase SGPT (ALT),48,10
+G83052,Albumin (ALB),50,0
+G83052,Alkaline phosphatase (ALP),50,6
+G83052,Androgen Index (ANIX),4,4
+G83052,Anti TPO Abs (microsomal) (THYMA),2,2
+G83052,Autoantibodies (AA),4,0
+G83052,Basophils (auto) (ABAS),50,0
+G83052,Bilirubin (total) (BIL),48,2
+G83052,Calcium (SCAL),2,2
+G83052,Cholesterol (CHO),40,10
+G83052,Creatinine (SCRE),44,8
+G83052,Culture and sensitivity (CS),2,0
+G83052,Eosinophils (auto) (AEOS),50,0
+G83052,ESR (ESR),22,14
+G83052,F.S.H. (FSH),2,0
+G83052,FAECES EXAMINATION (FE),2,0
+G83052,Fasting glucose (PGLF),16,0
+G83052,Ferritin (FER),4,0
+G83052,Free T4 (FT4),30,6
+G83052,Gamma GT (GGT),48,24
+G83052,Globulins (GLOB),48,6
+G83052,Glycated Haemoglobin A1c (HBA),8,2
+G83052,Hb (HB),50,8
+G83052,Hb Genotype (EL),2,0
+G83052,Hct (HCT),50,10
+G83052,HDL Cholesterol (HDL),40,12
+G83052,Helicobacter antibody (HEL),4,0
+G83052,Immunoglobulin A (IGA),2,2
+G83052,Immunoglobulin E + RAST (IGE),2,0
+G83052,Immunoglobulin G (IGG),2,2
+G83052,Immunoglobulin M (IGM),2,0
+G83052,L.H. (LH+),2,2
+G83052,LDL Cholesterol (LDL),40,0
+G83052,Lymphocytes (auto) (ALYMPH),50,2
+G83052,MCH (MCH),50,14
+G83052,MCV (MCV),50,8
+G83052,Microscopy culture and sens. (VCS),4,0
+G83052,Monocytes (auto) (AMON),50,2
+G83052,Neutrophils (auto) (ANEUT),50,2
+G83052,NOTE:- (NL),2,0
+G83052,Phosphate (SPO4),2,0
+G83052,Platelets (PLT),50,10
+G83052,Potassium (SK),44,2
+G83052,Prostate Specific Antigen (PSA),2,0
+G83052,Protein (SPR),48,0
+G83052,Protein Electrophoresis (PEP),2,0
+G83052,Random glucose (PGLR),16,0
+G83052,RBC`s (RBC),50,10
+G83052,Rheumatoid Latex (RA),4,0
+G83052,Serum Folate (FOL),4,2
+G83052,SHBG (SHBG),4,2
+G83052,Sodium (SNA),44,2
+G83052,T.S.H. (TSH),30,4
+G83052,Testosterone (TESTO),4,0
+G83052,Total:HDL cholesterol ratio (TCHDL),40,0
+G83052,Triglycerides (TRIG),40,12
+G83052,Urate (SURA),2,2
+G83052,Urea (SU),44,4
+G83052,Urine albumin (UALB),14,6
+G83052,Urine albumin:creat ratio (UACR),16,4
+G83052,URINE CULTURE (UC),24,0
+G83052,URINE MICROSCOPY (UM),24,0
+G83052,Vitamin B12 (B12),6,2
+G83052,WBC`s (WBC),50,2
+G83053,Adjusted calcium (ASCAL),4,0
+G83053,Alanine Transferase SGPT (ALT),128,4
+G83053,Albumin (ALB),124,0
+G83053,Alkaline phosphatase (ALP),128,8
+G83053,Androgen Index (ANIX),4,0
+G83053,Anti TPO Abs (microsomal) (THYMA),4,0
+G83053,Anti-nuclear Factor (ANF),4,0
+G83053,APTT RATIO (APTTR),4,0
+G83053,APTT Time (APTT),4,0
+G83053,Basophils (auto) (ABAS),84,0
+G83053,Bilirubin (total) (BIL),128,8
+G83053,C-Reactive Protein (CRP),8,4
+G83053,C. difficile toxin A and B (CDT),4,0
+G83053,Calcium (SCAL),4,0
+G83053,Chlamydia-ELISA (CHL),12,0
+G83053,Cholesterol (CHO),88,8
+G83053,Creatine kinase (total) (CK),36,12
+G83053,Creatinine (SCRE),128,20
+G83053,Culture and sensitivity (CS),12,0
+G83053,Eosinophils (auto) (AEOS),84,4
+G83053,Eosinophils (man) (EOS),4,0
+G83053,ESR (ESR),44,12
+G83053,F.S.H. (FSH),4,0
+G83053,FAECES EXAMINATION (FE),8,0
+G83053,Fasting glucose (PGLF),76,24
+G83053,Ferritin (FER),8,0
+G83053,Free T3 (FT3),8,4
+G83053,Free T4 (FT4),92,8
+G83053,Gamma GT (GGT),128,24
+G83053,Globulins (GLOB),124,4
+G83053,Glucose Tolerance test (Std) (GTTS),4,0
+G83053,Glycated Haemoglobin A1c (HBA),28,12
+G83053,Hb (HB),92,8
+G83053,Hct (HCT),88,16
+G83053,HDL Cholesterol (HDL),88,12
+G83053,HLA-B27 antigen (B27),4,0
+G83053,L.H. (LH+),4,0
+G83053,LDL Cholesterol (LDL),88,4
+G83053,Lymphocytes (auto) (ALYMPH),84,0
+G83053,Lymphocytes (man) (LYMPH),4,0
+G83053,MCH (MCH),88,12
+G83053,MCV (MCV),88,16
+G83053,Microscopy culture and sens. (VCS),20,0
+G83053,Monocytes (auto) (AMON),84,0
+G83053,Monocytes (man) (MONO),4,0
+G83053,Neutrophils (auto) (ANEUT),84,4
+G83053,Neutrophils (man) (NEUT),4,0
+G83053,NOTE:- (NL),4,0
+G83053,Phosphate (SPO4),4,0
+G83053,Platelets (PLT),88,8
+G83053,Potassium (SK),128,8
+G83053,Prostate Specific Antigen (PSA),4,0
+G83053,Protein (SPR),124,0
+G83053,PT Time (PT),4,0
+G83053,Random glucose (PGLR),8,0
+G83053,RBC`s (RBC),88,12
+G83053,Rheumatoid Latex (RA),4,0
+G83053,SHBG (SHBG),4,0
+G83053,Sodium (SNA),128,4
+G83053,T.S.H. (TSH),92,28
+G83053,Testosterone (TESTO),4,0
+G83053,Total:HDL cholesterol ratio (TCHDL),88,0
+G83053,Triglycerides (TRIG),88,28
+G83053,Urea (SU),128,20
+G83053,Urine albumin (UALB),8,0
+G83053,Urine albumin:creat ratio (UACR),12,0
+G83053,URINE CULTURE (UC),44,0
+G83053,URINE MICROSCOPY (UM),44,0
+G83053,Varicella zoster IgG (VZG),4,0
+G83053,WBC`s (WBC),88,8
+G83057,Adjusted calcium (ASCAL),35,0
+G83057,Alanine Transferase SGPT (ALT),378,91
+G83057,Albumin (ALB),385,35
+G83057,Alkaline phosphatase (ALP),392,35
+G83057,APTT RATIO (APTTR),35,0
+G83057,APTT Time (APTT),35,0
+G83057,Autoantibodies (AA),7,0
+G83057,Basophils (auto) (ABAS),301,0
+G83057,Bilirubin (total) (BIL),378,21
+G83057,C-Reactive Protein (CRP),35,14
+G83057,Calcium (SCAL),35,7
+G83057,Chlamydia-ELISA (CHL),7,0
+G83057,Cholesterol (CHO),287,49
+G83057,Creatine kinase (total) (CK),7,0
+G83057,Creatinine (SCRE),371,91
+G83057,Culture and sensitivity (CS),42,0
+G83057,Digoxin (DIG),7,0
+G83057,Eosinophils (auto) (AEOS),301,7
+G83057,ESR (ESR),175,112
+G83057,F.S.H. (FSH),14,7
+G83057,FAECES EXAMINATION (FE),14,0
+G83057,Fasting glucose (PGLF),203,35
+G83057,Ferritin (FER),14,7
+G83057,Free T4 (FT4),273,42
+G83057,Gamma GT (GGT),378,175
+G83057,Globulins (GLOB),371,14
+G83057,Glucose Tolerance test (Std) (GTTS),7,0
+G83057,Glycated Haemoglobin A1c (HBA),42,7
+G83057,Hb (HB),301,77
+G83057,Hb Genotype (EL),14,0
+G83057,Hct (HCT),301,84
+G83057,HDL Cholesterol (HDL),280,7
+G83057,Helicobacter antibody (HEL),7,0
+G83057,L.H. (LH+),14,7
+G83057,LDL Cholesterol (LDL),287,0
+G83057,Lithium (LI),7,7
+G83057,Lymphocytes (auto) (ALYMPH),301,28
+G83057,MCH (MCH),301,56
+G83057,MCV (MCV),301,35
+G83057,Microscopy culture and sens. (VCS),28,0
+G83057,Monocytes (auto) (AMON),301,7
+G83057,MRSA SCREEN (MRSA),28,0
+G83057,Mumps IgG (MUMG),7,0
+G83057,Mumps IgM (MUMM),7,0
+G83057,Neutrophils (auto) (ANEUT),301,21
+G83057,Parathyroid Hormone intact (PTH),7,0
+G83057,Paul Bunnell (PB),14,0
+G83057,Phosphate (SPO4),35,7
+G83057,Platelets (PLT),301,35
+G83057,Potassium (SK),371,35
+G83057,Prolactin (PRL),7,0
+G83057,Prostate Specific Antigen (PSA),42,0
+G83057,Protein (SPR),371,0
+G83057,PT Time (PT),35,0
+G83057,Random glucose (PGLR),84,14
+G83057,RBC`s (RBC),301,112
+G83057,Rheumatoid Latex (RA),7,0
+G83057,Serum Folate (FOL),14,0
+G83057,Sodium (SNA),371,0
+G83057,T.S.H. (TSH),273,56
+G83057,Total:HDL cholesterol ratio (TCHDL),280,0
+G83057,TPHA (TPHA),7,0
+G83057,Triglycerides (TRIG),287,84
+G83057,Urate (SURA),14,14
+G83057,Urea (SU),371,56
+G83057,Urine albumin (UALB),42,14
+G83057,Urine albumin:creat ratio (UACR),42,21
+G83057,URINE CULTURE (UC),133,0
+G83057,URINE MICROSCOPY (UM),133,0
+G83057,Vitamin B12 (B12),14,0
+G83057,WBC`s (WBC),301,21
+G83061,Adjusted calcium (ASCAL),20,0
+G83061,Alanine Transferase SGPT (ALT),80,35
+G83061,Albumin (ALB),80,0
+G83061,Alkaline phosphatase (ALP),80,25
+G83061,Amylase (SAMY),5,0
+G83061,APTT RATIO (APTTR),10,0
+G83061,APTT Time (APTT),10,0
+G83061,Autoantibodies (AA),15,0
+G83061,Basophils (auto) (ABAS),80,5
+G83061,Bilirubin (total) (BIL),80,20
+G83061,C-Reactive Protein (CRP),5,5
+G83061,Calcium (SCAL),20,0
+G83061,Carcino-embryonic antigen (CEA),10,0
+G83061,Cholesterol (CHO),40,15
+G83061,Creatinine (SCRE),80,5
+G83061,Endomycium Antibodies (ENDAB),5,0
+G83061,Eosinophils (auto) (AEOS),85,5
+G83061,Eosinophils (man) (EOS),5,0
+G83061,ESR (ESR),65,20
+G83061,F.S.H. (FSH),10,0
+G83061,Fasting glucose (PGLF),40,10
+G83061,Ferritin (FER),5,0
+G83061,Free T4 (FT4),60,5
+G83061,Gamma GT (GGT),80,40
+G83061,Gliadin Antibodies (GLIA),5,0
+G83061,Globulins (GLOB),80,5
+G83061,Glycated Haemoglobin A1c (HBA),5,5
+G83061,H.C.G. (BHCG),10,0
+G83061,Hb (HB),90,5
+G83061,Hct (HCT),90,10
+G83061,HDL Cholesterol (HDL),40,0
+G83061,Helicobacter antibody (HEL),5,0
+G83061,INR (Warfarin Control) (INR),5,0
+G83061,L.H. (LH+),10,0
+G83061,LDL Cholesterol (LDL),40,5
+G83061,Lymphocytes (auto) (ALYMPH),85,10
+G83061,Lymphocytes (man) (LYMPH),5,0
+G83061,MCH (MCH),90,25
+G83061,MCV (MCV),90,20
+G83061,Monocytes (auto) (AMON),85,10
+G83061,Monocytes (man) (MONO),5,0
+G83061,Neutrophils (auto) (ANEUT),85,10
+G83061,Neutrophils (man) (NEUT),5,0
+G83061,Phosphate (SPO4),20,0
+G83061,Platelets (PLT),90,10
+G83061,Potassium (SK),80,0
+G83061,Prolactin (PRL),5,0
+G83061,Prostate Specific Antigen (PSA),5,0
+G83061,Protein (SPR),80,0
+G83061,PT Time (PT),10,0
+G83061,Random glucose (PGLR),15,5
+G83061,RBC`s (RBC),90,20
+G83061,Rheumatoid Latex (RA),10,0
+G83061,Sodium (SNA),80,0
+G83061,T.S.H. (TSH),60,10
+G83061,Total:HDL cholesterol ratio (TCHDL),40,0
+G83061,Triglycerides (TRIG),40,15
+G83061,Urate (SURA),10,5
+G83061,Urea (SU),80,0
+G83061,Urine Adrenaline concentration (UADRC),5,0
+G83061,Urine Dopamine (UDO),5,0
+G83061,Urine Dopamine concentration (UDOC),5,0
+G83061,Urine Noradrenaline (UNAD),5,0
+G83061,Urine Noradrenaline concn (UNADC),5,0
+G83061,Volume (UVOL),5,0
+G83061,WBC`s (WBC),90,10
+G83062,Alanine Transferase SGPT (ALT),124,16
+G83062,Albumin (ALB),128,4
+G83062,Alkaline phosphatase (ALP),124,0
+G83062,APTT RATIO (APTTR),4,0
+G83062,APTT Time (APTT),4,0
+G83062,Autoantibodies (AA),4,0
+G83062,Basophils (auto) (ABAS),124,0
+G83062,Bilirubin (total) (BIL),124,0
+G83062,C-Reactive Protein (CRP),20,4
+G83062,Carcino-embryonic antigen (CEA),4,0
+G83062,Chlamydia-ELISA (CHL),4,0
+G83062,Cholesterol (CHO),96,24
+G83062,Consistency (CONS),4,0
+G83062,Count (COUNT),4,0
+G83062,Creatine kinase (total) (CK),8,0
+G83062,Creatinine (SCRE),140,24
+G83062,Culture and sensitivity (CS),4,0
+G83062,Eosinophils (auto) (AEOS),124,4
+G83062,ESR (ESR),40,20
+G83062,F.S.H. (FSH),4,0
+G83062,Fasting glucose (PGLF),108,28
+G83062,Free T4 (FT4),64,4
+G83062,Gamma GT (GGT),124,28
+G83062,Globulins (GLOB),128,8
+G83062,Glucose Tolerance test (Std) (GTTS),4,0
+G83062,Glycated Haemoglobin A1c (HBA),28,8
+G83062,Hb (HB),124,20
+G83062,Hb Genotype (EL),4,0
+G83062,Hct (HCT),124,44
+G83062,HDL Cholesterol (HDL),92,4
+G83062,Helicobacter antibody (HEL),4,0
+G83062,Hepatitis B surface antigen (HBSAG),4,0
+G83062,INR (Warfarin Control) (INR),4,0
+G83062,L.H. (LH+),4,0
+G83062,LDL Cholesterol (LDL),92,4
+G83062,Lymphocytes (auto) (ALYMPH),124,4
+G83062,MCH (MCH),124,28
+G83062,MCV (MCV),124,24
+G83062,Microscopy culture and sens. (VCS),12,0
+G83062,Monocytes (auto) (AMON),124,4
+G83062,Neutrophils (auto) (ANEUT),124,8
+G83062,Normal motile forms (NORMOT),4,0
+G83062,Paul Bunnell (PB),4,0
+G83062,Platelets (PLT),124,12
+G83062,Potassium (SK),140,12
+G83062,Protein (SPR),128,0
+G83062,Protein Electrophoresis (PEP),4,0
+G83062,PT Time (PT),4,0
+G83062,Random glucose (PGLR),8,4
+G83062,RBC`s (RBC),124,24
+G83062,Serum Folate (FOL),4,0
+G83062,Sickle Cell Test (SC),4,0
+G83062,Sodium (SNA),140,4
+G83062,T.S.H. (TSH),64,4
+G83062,Time collected (TCOL),4,0
+G83062,Time examined (TEXA),4,0
+G83062,Total motile forms (TOTMOT),4,0
+G83062,Total:HDL cholesterol ratio (TCHDL),92,0
+G83062,Triglycerides (TRIG),92,28
+G83062,Urea (SU),140,8
+G83062,Urine albumin (UALB),28,4
+G83062,Urine albumin:creat ratio (UACR),28,4
+G83062,URINE CULTURE (UC),28,0
+G83062,URINE MICROSCOPY (UM),28,0
+G83062,Vitamin B12 (B12),4,0
+G83062,Volume (VOL),4,0
+G83062,WBC`s (WBC),124,12
+G83063,Alanine Transferase SGPT (ALT),40,8
+G83063,Albumin (ALB),40,0
+G83063,Alkaline phosphatase (ALP),40,2
+G83063,Anti TPO Abs (microsomal) (THYMA),2,2
+G83063,Basophils (auto) (ABAS),42,0
+G83063,Bilirubin (total) (BIL),40,0
+G83063,C-Reactive Protein (CRP),2,2
+G83063,Cholesterol (CHO),36,2
+G83063,Creatinine (SCRE),36,0
+G83063,Culture and sensitivity (CS),2,0
+G83063,Eosinophils (auto) (AEOS),42,0
+G83063,ESR (ESR),32,12
+G83063,F.S.H. (FSH),6,0
+G83063,FAECES EXAMINATION (FE),4,0
+G83063,Fasting glucose (PGLF),34,8
+G83063,Ferritin (FER),2,0
+G83063,Free T4 (FT4),36,4
+G83063,Gamma GT (GGT),40,18
+G83063,Globulins (GLOB),40,0
+G83063,Glycated Haemoglobin A1c (HBA),4,0
+G83063,Hb (HB),42,4
+G83063,Hct (HCT),42,6
+G83063,HDL Cholesterol (HDL),36,2
+G83063,L.H. (LH+),6,0
+G83063,LDL Cholesterol (LDL),36,0
+G83063,Lymphocytes (auto) (ALYMPH),42,6
+G83063,MCH (MCH),42,6
+G83063,MCV (MCV),42,4
+G83063,Microscopy culture and sens. (VCS),4,0
+G83063,Monocytes (auto) (AMON),42,0
+G83063,Neutrophils (auto) (ANEUT),42,0
+G83063,Paul Bunnell (PB),4,0
+G83063,Platelets (PLT),42,2
+G83063,Potassium (SK),36,2
+G83063,Pregnancy test (PT),4,0
+G83063,Prostate Specific Antigen (PSA),4,0
+G83063,Protein (SPR),40,0
+G83063,Random glucose (PGLR),4,0
+G83063,RBC`s (RBC),42,2
+G83063,Rheumatoid Latex (RA),12,0
+G83063,Rotavirus test (RV),2,0
+G83063,Serum Folate (FOL),2,0
+G83063,Sodium (SNA),36,2
+G83063,T.S.H. (TSH),36,2
+G83063,Total:HDL cholesterol ratio (TCHDL),36,0
+G83063,Triglycerides (TRIG),36,8
+G83063,Urate (SURA),4,0
+G83063,Urea (SU),36,0
+G83063,URINE CULTURE (UC),6,0
+G83063,URINE MICROSCOPY (UM),6,0
+G83063,Vitamin B12 (B12),2,0
+G83063,WBC`s (WBC),42,2
+G83064,Adjusted calcium (ASCAL),1,0
+G83064,Alanine Transferase SGPT (ALT),18,6
+G83064,Albumin (ALB),19,1
+G83064,Alkaline phosphatase (ALP),19,4
+G83064,Amylase (SAMY),1,0
+G83064,Anti Hepatitis B core antibody (A-HBC),1,0
+G83064,Anti TPO Abs (microsomal) (THYMA),1,0
+G83064,Basophils (auto) (ABAS),15,0
+G83064,Bilirubin (total) (BIL),18,0
+G83064,Calcium (SCAL),1,1
+G83064,Cholesterol (CHO),17,2
+G83064,Creatinine (SCRE),18,1
+G83064,Eosinophils (auto) (AEOS),15,0
+G83064,Eosinophils (man) (EOS),1,0
+G83064,ESR (ESR),6,2
+G83064,FAECES CONCENTRATE (FC),1,0
+G83064,FAECES EXAMINATION (FE),2,0
+G83064,Fasting glucose (PGLF),8,2
+G83064,Free T4 (FT4),7,1
+G83064,Gamma GT (GGT),18,9
+G83064,Globulins (GLOB),18,0
+G83064,Glucose Tolerance test (Std) (GTTS),1,0
+G83064,Glycated Haemoglobin A1c (HBA),1,0
+G83064,Hb (HB),16,0
+G83064,Hct (HCT),16,4
+G83064,HDL Cholesterol (HDL),17,0
+G83064,Hepatitis B surface antigen (HBSAG),1,0
+G83064,LDL Cholesterol (LDL),17,0
+G83064,Lymphocytes (auto) (ALYMPH),15,1
+G83064,Lymphocytes (man) (LYMPH),1,0
+G83064,MCH (MCH),16,2
+G83064,MCV (MCV),16,2
+G83064,Monocytes (auto) (AMON),15,0
+G83064,Monocytes (man) (MONO),1,0
+G83064,Neutrophils (auto) (ANEUT),15,1
+G83064,Neutrophils (man) (NEUT),1,0
+G83064,Occult Blood (FOB),3,0
+G83064,Phosphate (SPO4),1,0
+G83064,Platelets (PLT),16,1
+G83064,Potassium (SK),18,1
+G83064,Prostate Specific Antigen (PSA),1,0
+G83064,Protein (SPR),18,0
+G83064,Random glucose (PGLR),1,0
+G83064,RBC`s (RBC),16,2
+G83064,Rheumatoid Latex (RA),2,0
+G83064,Sodium (SNA),19,1
+G83064,T.S.H. (TSH),7,1
+G83064,Total:HDL cholesterol ratio (TCHDL),17,0
+G83064,Triglycerides (TRIG),17,5
+G83064,Urea (SU),18,2
+G83064,URINE CULTURE (UC),8,0
+G83064,URINE MICROSCOPY (UM),8,0
+G83064,WBC`s (WBC),16,1
+G83066,Adjusted calcium (ASCAL),12,0
+G83066,Alanine Transferase SGPT (ALT),160,36
+G83066,Albumin (ALB),160,0
+G83066,Alkaline phosphatase (ALP),160,24
+G83066,Androgen Index (ANIX),4,4
+G83066,APTT RATIO (APTTR),4,0
+G83066,APTT Time (APTT),4,0
+G83066,Basophils (auto) (ABAS),152,4
+G83066,Bilirubin (total) (BIL),160,4
+G83066,Calcium (SCAL),12,0
+G83066,Cholesterol (CHO),96,0
+G83066,Consistency (CONS),4,0
+G83066,Count (COUNT),4,0
+G83066,Creatine kinase (total) (CK),4,0
+G83066,Creatinine (SCRE),152,12
+G83066,Culture and sensitivity (CS),16,0
+G83066,Digoxin (DIG),8,4
+G83066,Eosinophils (auto) (AEOS),152,0
+G83066,ESR (ESR),116,52
+G83066,F.S.H. (FSH),16,0
+G83066,Fasting glucose (PGLF),52,4
+G83066,Free T4 (FT4),80,8
+G83066,Gamma GT (GGT),160,28
+G83066,Globulins (GLOB),160,0
+G83066,Glycated Haemoglobin A1c (HBA),16,4
+G83066,Hb (HB),156,16
+G83066,Hct (HCT),152,32
+G83066,HDL Cholesterol (HDL),96,0
+G83066,Helicobacter antibody (HEL),4,0
+G83066,L.H. (LH+),16,4
+G83066,LDL Cholesterol (LDL),96,0
+G83066,Lithium (LI),4,0
+G83066,Lymphocytes (auto) (ALYMPH),152,16
+G83066,MCH (MCH),152,32
+G83066,MCV (MCV),152,20
+G83066,Monocytes (auto) (AMON),152,4
+G83066,MRSA SCREEN (MRSA),36,0
+G83066,Neutrophils (auto) (ANEUT),152,4
+G83066,Normal motile forms (NORMOT),4,0
+G83066,NOTE:- (NL),4,0
+G83066,Paul Bunnell (PB),12,0
+G83066,Phenobarbitone (PHB),4,0
+G83066,Phenytoin (PHY),4,0
+G83066,Phosphate (SPO4),12,0
+G83066,Platelets (PLT),152,4
+G83066,Potassium (SK),152,12
+G83066,Pregnancy test (PT),8,0
+G83066,Prostate Specific Antigen (PSA),12,4
+G83066,Protein (SPR),160,0
+G83066,PT Time (PT),4,0
+G83066,Random glucose (PGLR),24,0
+G83066,RBC`s (RBC),152,40
+G83066,Rheumatoid Latex (RA),4,0
+G83066,SHBG (SHBG),4,0
+G83066,Sodium (SNA),152,16
+G83066,T.S.H. (TSH),80,4
+G83066,Testosterone (TESTO),4,0
+G83066,Time collected (TCOL),4,0
+G83066,Time examined (TEXA),4,0
+G83066,Total motile forms (TOTMOT),4,0
+G83066,Total:HDL cholesterol ratio (TCHDL),96,0
+G83066,Triglycerides (TRIG),96,32
+G83066,Urea (SU),152,16
+G83066,URINE CULTURE (UC),96,0
+G83066,URINE MICROSCOPY (UM),96,0
+G83066,Volume (VOL),4,0
+G83066,WBC`s (WBC),152,12
+G83605,Alanine Transferase SGPT (ALT),22,7
+G83605,Albumin (ALB),22,0
+G83605,Alkaline phosphatase (ALP),22,2
+G83605,Basophils (auto) (ABAS),11,0
+G83605,Bilirubin (total) (BIL),22,4
+G83605,Chlamydia-ELISA (CHL),1,0
+G83605,Cholesterol (CHO),11,2
+G83605,Creatine kinase (total) (CK),2,1
+G83605,Creatinine (SCRE),25,6
+G83605,Culture and sensitivity (CS),3,0
+G83605,Digoxin (DIG),1,0
+G83605,Eosinophils (auto) (AEOS),11,1
+G83605,ESR (ESR),4,2
+G83605,FAECES EXAMINATION (FE),2,0
+G83605,Fasting glucose (PGLF),4,1
+G83605,Free T4 (FT4),11,1
+G83605,Gamma GT (GGT),22,10
+G83605,Globulins (GLOB),22,0
+G83605,Glycated Haemoglobin A1c (HBA),6,1
+G83605,Hb (HB),11,4
+G83605,Hct (HCT),11,5
+G83605,HDL Cholesterol (HDL),11,1
+G83605,LDL Cholesterol (LDL),11,0
+G83605,Lymphocytes (auto) (ALYMPH),11,2
+G83605,MCH (MCH),11,6
+G83605,MCV (MCV),11,6
+G83605,Microscopy culture and sens. (VCS),2,0
+G83605,Monocytes (auto) (AMON),11,2
+G83605,Neutrophils (auto) (ANEUT),11,1
+G83605,NOTE:- (NL),1,0
+G83605,Occult Blood (FOB),1,0
+G83605,Platelets (PLT),11,1
+G83605,Potassium (SK),25,2
+G83605,Prostate Specific Antigen (PSA),1,0
+G83605,Protein (SPR),22,0
+G83605,Random glucose (PGLR),1,0
+G83605,RBC`s (RBC),11,6
+G83605,Serum Folate (FOL),2,0
+G83605,Sodium (SNA),25,0
+G83605,T.S.H. (TSH),11,3
+G83605,Total:HDL cholesterol ratio (TCHDL),11,0
+G83605,Triglycerides (TRIG),11,4
+G83605,Urea (SU),25,3
+G83605,Urine albumin (UALB),4,1
+G83605,Urine albumin:creat ratio (UACR),4,1
+G83605,URINE CULTURE (UC),9,0
+G83605,URINE MICROSCOPY (UM),9,0
+G83605,Vitamin B12 (B12),1,0
+G83605,WBC`s (WBC),11,1
+G83617,Adjusted calcium (ASCAL),2,0
+G83617,Alanine Transferase SGPT (ALT),30,2
+G83617,Albumin (ALB),32,0
+G83617,Alkaline phosphatase (ALP),32,2
+G83617,B-type Natriuretic Peptide BNP (BNP),2,0
+G83617,Basophils (auto) (ABAS),28,0
+G83617,Bilirubin (total) (BIL),30,4
+G83617,Calcium (SCAL),2,0
+G83617,Cholesterol (CHO),30,0
+G83617,Creatine kinase (total) (CK),8,2
+G83617,Creatinine (SCRE),32,2
+G83617,Digoxin (DIG),2,2
+G83617,Eosinophils (auto) (AEOS),28,0
+G83617,ESR (ESR),8,0
+G83617,Fasting glucose (PGLF),22,0
+G83617,Free T4 (FT4),24,2
+G83617,Gamma GT (GGT),30,4
+G83617,Globulins (GLOB),30,0
+G83617,Glycated Haemoglobin A1c (HBA),4,4
+G83617,Hb (HB),28,0
+G83617,Hct (HCT),28,0
+G83617,HDL Cholesterol (HDL),30,0
+G83617,Helicobacter antibody (HEL),2,0
+G83617,LDL Cholesterol (LDL),30,0
+G83617,Lymphocytes (auto) (ALYMPH),28,0
+G83617,MCH (MCH),28,2
+G83617,MCV (MCV),28,2
+G83617,Monocytes (auto) (AMON),28,2
+G83617,Neutrophils (auto) (ANEUT),28,0
+G83617,Phosphate (SPO4),2,0
+G83617,Platelets (PLT),28,0
+G83617,Potassium (SK),32,0
+G83617,Prostate Specific Antigen (PSA),2,2
+G83617,Protein (SPR),30,0
+G83617,RBC`s (RBC),28,0
+G83617,Retics (R),2,0
+G83617,Sodium (SNA),32,0
+G83617,T.S.H. (TSH),24,0
+G83617,Total:HDL cholesterol ratio (TCHDL),30,0
+G83617,Triglycerides (TRIG),30,2
+G83617,Urate (SURA),2,0
+G83617,Urea (SU),32,2
+G83617,Urine albumin (UALB),4,0
+G83617,Urine albumin:creat ratio (UACR),4,0
+G83617,WBC`s (WBC),28,4
+G83621,Alanine Transferase SGPT (ALT),8,1
+G83621,Albumin (ALB),8,0
+G83621,Alkaline phosphatase (ALP),8,1
+G83621,Basophils (auto) (ABAS),7,0
+G83621,Bilirubin (total) (BIL),8,0
+G83621,Carbamazepine (CARB),1,0
+G83621,Cholesterol (CHO),7,0
+G83621,Creatine kinase (total) (CK),1,0
+G83621,Creatinine (SCRE),8,0
+G83621,Eosinophils (auto) (AEOS),7,0
+G83621,ESR (ESR),6,1
+G83621,FAECES EXAMINATION (FE),1,0
+G83621,Fasting glucose (PGLF),6,0
+G83621,Free T4 (FT4),10,1
+G83621,Gamma GT (GGT),8,3
+G83621,Globulins (GLOB),8,0
+G83621,Glycated Haemoglobin A1c (HBA),1,1
+G83621,Hb (HB),7,0
+G83621,Hct (HCT),7,1
+G83621,HDL Cholesterol (HDL),7,3
+G83621,LDL Cholesterol (LDL),7,0
+G83621,Lymphocytes (auto) (ALYMPH),7,1
+G83621,MCH (MCH),7,1
+G83621,MCV (MCV),7,0
+G83621,Monocytes (auto) (AMON),7,0
+G83621,Neutrophils (auto) (ANEUT),7,0
+G83621,Platelets (PLT),7,0
+G83621,Potassium (SK),8,0
+G83621,Protein (SPR),8,0
+G83621,Random glucose (PGLR),1,0
+G83621,RBC`s (RBC),7,0
+G83621,Rheumatoid Latex (RA),1,0
+G83621,Sodium (SNA),8,1
+G83621,T.S.H. (TSH),10,2
+G83621,Total:HDL cholesterol ratio (TCHDL),7,0
+G83621,Triglycerides (TRIG),7,1
+G83621,Urate (SURA),1,0
+G83621,Urea (SU),8,0
+G83621,WBC`s (WBC),7,1
+G83622,Alanine Transferase SGPT (ALT),9,1
+G83622,Albumin (ALB),9,0
+G83622,Alkaline phosphatase (ALP),9,2
+G83622,Basophils (auto) (ABAS),9,0
+G83622,Bilirubin (total) (BIL),9,1
+G83622,Cholesterol (CHO),8,1
+G83622,Creatinine (SCRE),9,3
+G83622,Eosinophils (auto) (AEOS),9,0
+G83622,ESR (ESR),1,1
+G83622,Fasting glucose (PGLF),9,1
+G83622,Ferritin (FER),1,1
+G83622,Free T3 (FT3),1,0
+G83622,Free T4 (FT4),11,2
+G83622,Gamma GT (GGT),9,0
+G83622,Globulins (GLOB),9,0
+G83622,Glycated Haemoglobin A1c (HBA),1,0
+G83622,Hb (HB),9,0
+G83622,Hct (HCT),9,0
+G83622,HDL Cholesterol (HDL),8,1
+G83622,LDL Cholesterol (LDL),8,0
+G83622,Lymphocytes (auto) (ALYMPH),9,0
+G83622,MCH (MCH),9,1
+G83622,MCV (MCV),9,1
+G83622,Microscopy culture and sens. (VCS),1,0
+G83622,Monocytes (auto) (AMON),9,0
+G83622,Neutrophils (auto) (ANEUT),9,1
+G83622,Oestradiol (E2),1,0
+G83622,Platelets (PLT),9,2
+G83622,Potassium (SK),9,1
+G83622,Prostate Specific Antigen (PSA),1,0
+G83622,Protein (SPR),9,0
+G83622,RBC`s (RBC),9,1
+G83622,Sodium (SNA),9,0
+G83622,T.S.H. (TSH),11,1
+G83622,Total:HDL cholesterol ratio (TCHDL),8,0
+G83622,Triglycerides (TRIG),8,2
+G83622,Urate (SURA),1,0
+G83622,Urea (SU),9,0
+G83622,URINE CULTURE (UC),1,0
+G83622,URINE MICROSCOPY (UM),1,0
+G83622,WBC`s (WBC),9,2
+G83623,Alanine Transferase SGPT (ALT),4,0
+G83623,Albumin (ALB),3,0
+G83623,Alkaline phosphatase (ALP),4,0
+G83623,Basophils (auto) (ABAS),8,0
+G83623,Bilirubin (total) (BIL),4,0
+G83623,C-Reactive Protein (CRP),1,1
+G83623,CA-125 (CA125),1,0
+G83623,Cholesterol (CHO),3,0
+G83623,Creatinine (SCRE),4,0
+G83623,Eosinophils (auto) (AEOS),8,0
+G83623,Eosinophils (man) (EOS),1,0
+G83623,ESR (ESR),5,0
+G83623,Fasting glucose (PGLF),3,0
+G83623,Free T4 (FT4),3,1
+G83623,Gamma GT (GGT),4,1
+G83623,Globulins (GLOB),3,0
+G83623,Glycated Haemoglobin A1c (HBA),1,1
+G83623,Hb (HB),9,0
+G83623,Hct (HCT),9,1
+G83623,HDL Cholesterol (HDL),3,0
+G83623,LDL Cholesterol (LDL),3,0
+G83623,Lymphocytes (auto) (ALYMPH),8,0
+G83623,Lymphocytes (man) (LYMPH),1,0
+G83623,MCH (MCH),9,2
+G83623,MCV (MCV),9,0
+G83623,Monocytes (auto) (AMON),8,0
+G83623,Monocytes (man) (MONO),1,0
+G83623,Neutrophils (auto) (ANEUT),8,0
+G83623,Neutrophils (man) (NEUT),1,0
+G83623,Platelets (PLT),9,0
+G83623,Potassium (SK),4,1
+G83623,Protein (SPR),3,0
+G83623,RBC`s (RBC),9,0
+G83623,Serum Folate (FOL),1,0
+G83623,Sodium (SNA),4,0
+G83623,T.S.H. (TSH),3,0
+G83623,Total:HDL cholesterol ratio (TCHDL),3,0
+G83623,Triglycerides (TRIG),3,1
+G83623,Urate (SURA),1,1
+G83623,Urea (SU),4,0
+G83623,Urine albumin (UALB),2,0
+G83623,Urine albumin:creat ratio (UACR),2,0
+G83623,URINE CULTURE (UC),2,0
+G83623,URINE MICROSCOPY (UM),2,0
+G83623,Vitamin B12 (B12),1,0
+G83623,WBC`s (WBC),9,1
+G83628,5HIAA (24h) (5H24),2,0
+G83628,Alanine Transferase SGPT (ALT),29,3
+G83628,Albumin (ALB),29,2
+G83628,Alkaline phosphatase (ALP),29,3
+G83628,Anti TPO Abs (microsomal) (THYMA),1,0
+G83628,Basophils (auto) (ABAS),10,0
+G83628,Bilirubin (total) (BIL),29,5
+G83628,Cholesterol (CHO),32,6
+G83628,Creatine kinase (total) (CK),2,0
+G83628,Creatinine (SCRE),35,9
+G83628,Eosinophils (auto) (AEOS),10,0
+G83628,ESR (ESR),2,2
+G83628,F.S.H. (FSH),2,0
+G83628,FAECES EXAMINATION (FE),1,0
+G83628,Fasting glucose (PGLF),22,4
+G83628,Free T4 (FT4),7,0
+G83628,Gamma GT (GGT),29,10
+G83628,Globulins (GLOB),29,2
+G83628,Glucose Tolerance test (Std) (GTTS),1,0
+G83628,Hb (HB),10,4
+G83628,Hct (HCT),10,4
+G83628,HDL Cholesterol (HDL),32,0
+G83628,Helicobacter antibody (HEL),4,0
+G83628,L.H. (LH+),2,0
+G83628,LDL Cholesterol (LDL),32,2
+G83628,Lymphocytes (auto) (ALYMPH),10,2
+G83628,MCH (MCH),10,4
+G83628,MCV (MCV),10,4
+G83628,Microscopy culture and sens. (VCS),2,0
+G83628,Monocytes (auto) (AMON),10,2
+G83628,Neutrophils (auto) (ANEUT),10,0
+G83628,Platelets (PLT),10,2
+G83628,Potassium (SK),35,0
+G83628,Prolactin (PRL),2,0
+G83628,Protein (SPR),29,0
+G83628,Random glucose (PGLR),2,0
+G83628,RBC`s (RBC),10,2
+G83628,Sodium (SNA),35,0
+G83628,T.S.H. (TSH),7,4
+G83628,Total:HDL cholesterol ratio (TCHDL),32,0
+G83628,Triglycerides (TRIG),32,10
+G83628,Troponin I (TROI),2,0
+G83628,Urate (SURA),4,0
+G83628,Urea (SU),35,2
+G83628,URINE CULTURE (UC),5,0
+G83628,URINE MICROSCOPY (UM),5,0
+G83628,WBC`s (WBC),10,4
+G83630,Alanine Transferase SGPT (ALT),18,4
+G83630,Albumin (ALB),18,1
+G83630,Alkaline phosphatase (ALP),18,2
+G83630,Antistreptolysin O titre (ASO),1,0
+G83630,APTT RATIO (APTTR),2,0
+G83630,APTT Time (APTT),2,0
+G83630,Basophils (auto) (ABAS),22,1
+G83630,Bilirubin (total) (BIL),18,0
+G83630,Cholesterol (CHO),19,1
+G83630,Creatinine (SCRE),18,3
+G83630,Eosinophils (auto) (AEOS),22,1
+G83630,ESR (ESR),8,4
+G83630,F.S.H. (FSH),2,0
+G83630,FAECES CONCENTRATE (FC),1,0
+G83630,FAECES EXAMINATION (FE),1,0
+G83630,Fasting glucose (PGLF),9,2
+G83630,Ferritin (FER),4,1
+G83630,Free T4 (FT4),21,2
+G83630,Gamma GT (GGT),18,8
+G83630,Globulins (GLOB),18,1
+G83630,Glycated Haemoglobin A1c (HBA),4,2
+G83630,Hb (HB),22,2
+G83630,Hb Genotype (EL),1,0
+G83630,HCG (intact)-Pregnancy Test (ICON),1,0
+G83630,Hct (HCT),22,2
+G83630,HDL Cholesterol (HDL),19,7
+G83630,Hepatitis B surface antibody (HBSAB),1,0
+G83630,Hepatitis B surface antigen (HBSAG),1,0
+G83630,Hepatitis C (HCV),1,0
+G83630,HIV 1 and 2 antibody (HIV1/2),1,0
+G83630,L.H. (LH+),2,0
+G83630,LDL Cholesterol (LDL),19,0
+G83630,Lymphocytes (auto) (ALYMPH),22,1
+G83630,MCH (MCH),22,1
+G83630,MCV (MCV),22,1
+G83630,Microscopy culture and sens. (VCS),3,0
+G83630,Monocytes (auto) (AMON),22,1
+G83630,Neutrophils (auto) (ANEUT),22,3
+G83630,Paul Bunnell (PB),1,0
+G83630,Platelets (PLT),22,4
+G83630,Potassium (SK),18,1
+G83630,Pregnancy test (PT),1,0
+G83630,Prolactin (PRL),1,0
+G83630,Prostate Specific Antigen (PSA),1,0
+G83630,Protein (SPR),18,0
+G83630,PT Time (PT),2,0
+G83630,Random glucose (PGLR),2,0
+G83630,RBC`s (RBC),22,3
+G83630,Rheumatoid Latex (RA),1,0
+G83630,Sickle Cell Test (SC),1,0
+G83630,Sodium (SNA),18,2
+G83630,T.S.H. (TSH),21,2
+G83630,Total:HDL cholesterol ratio (TCHDL),19,0
+G83630,Triglycerides (TRIG),19,8
+G83630,Urate (SURA),2,1
+G83630,Urea (SU),18,3
+G83630,Urine albumin (UALB),1,0
+G83630,Urine albumin:creat ratio (UACR),1,0
+G83630,URINE CULTURE (UC),9,0
+G83630,URINE MICROSCOPY (UM),9,0
+G83630,Valproate (VAL),1,1
+G83630,WBC`s (WBC),22,4
+G83632,Adjusted calcium (ASCAL),1,0
+G83632,Alanine Transferase SGPT (ALT),14,5
+G83632,Albumin (ALB),14,0
+G83632,Alkaline phosphatase (ALP),14,0
+G83632,Androgen Index (ANIX),1,0
+G83632,Anti TPO Abs (microsomal) (THYMA),1,0
+G83632,Basophils (auto) (ABAS),18,1
+G83632,Bilirubin (total) (BIL),14,3
+G83632,Calcium (SCAL),1,0
+G83632,Cholesterol (CHO),9,1
+G83632,Consistency (CONS),1,0
+G83632,Count (COUNT),1,0
+G83632,Creatinine (SCRE),11,3
+G83632,Culture and sensitivity (CS),1,0
+G83632,Eosinophils (auto) (AEOS),18,1
+G83632,ESR (ESR),14,5
+G83632,F.S.H. (FSH),1,0
+G83632,Fasting glucose (PGLF),3,1
+G83632,Ferritin (FER),1,1
+G83632,Free T4 (FT4),9,0
+G83632,Gamma GT (GGT),14,7
+G83632,Globulins (GLOB),14,0
+G83632,Hb (HB),18,4
+G83632,Hct (HCT),18,7
+G83632,HDL Cholesterol (HDL),9,0
+G83632,Helicobacter antibody (HEL),1,0
+G83632,L.H. (LH+),1,0
+G83632,LDL Cholesterol (LDL),9,0
+G83632,Lithium (LI),1,0
+G83632,Lymphocytes (auto) (ALYMPH),18,4
+G83632,MCH (MCH),18,6
+G83632,MCV (MCV),18,5
+G83632,Microscopy culture and sens. (VCS),2,0
+G83632,Monocytes (auto) (AMON),18,1
+G83632,Neutrophils (auto) (ANEUT),18,0
+G83632,Normal motile forms (NORMOT),1,0
+G83632,Phosphate (SPO4),1,0
+G83632,Platelets (PLT),18,2
+G83632,Potassium (SK),11,0
+G83632,Prostate Specific Antigen (PSA),1,0
+G83632,Protein (SPR),14,0
+G83632,RBC`s (RBC),18,6
+G83632,Serum Folate (FOL),1,0
+G83632,SHBG (SHBG),1,0
+G83632,Sodium (SNA),11,0
+G83632,T.S.H. (TSH),9,1
+G83632,Testosterone (TESTO),1,0
+G83632,Time collected (TCOL),1,0
+G83632,Time examined (TEXA),1,0
+G83632,Total motile forms (TOTMOT),1,0
+G83632,Total:HDL cholesterol ratio (TCHDL),9,0
+G83632,Triglycerides (TRIG),9,5
+G83632,Urea (SU),11,2
+G83632,URINE CULTURE (UC),3,0
+G83632,URINE MICROSCOPY (UM),3,0
+G83632,Vitamin B12 (B12),1,0
+G83632,Volume (VOL),1,0
+G83632,WBC`s (WBC),18,3
+G83633,Adjusted calcium (ASCAL),2,2
+G83633,Alanine Transferase SGPT (ALT),6,0
+G83633,Albumin (ALB),8,0
+G83633,Alkaline phosphatase (ALP),8,0
+G83633,Basophils (auto) (ABAS),8,0
+G83633,Bilirubin (total) (BIL),6,0
+G83633,Calcium (SCAL),2,2
+G83633,Cholesterol (CHO),4,0
+G83633,Creatinine (SCRE),6,0
+G83633,Eosinophils (auto) (AEOS),8,0
+G83633,ESR (ESR),4,2
+G83633,Ferritin (FER),2,0
+G83633,Free T4 (FT4),6,2
+G83633,Gamma GT (GGT),6,0
+G83633,Globulins (GLOB),8,0
+G83633,Glycated Haemoglobin A1c (HBA),4,0
+G83633,Hb (HB),8,2
+G83633,Hct (HCT),8,2
+G83633,HDL Cholesterol (HDL),4,0
+G83633,LDL Cholesterol (LDL),4,0
+G83633,Lymphocytes (auto) (ALYMPH),8,0
+G83633,MCH (MCH),8,0
+G83633,MCV (MCV),8,0
+G83633,Monocytes (auto) (AMON),8,0
+G83633,Neutrophils (auto) (ANEUT),8,0
+G83633,Phosphate (SPO4),2,0
+G83633,Platelets (PLT),8,2
+G83633,Potassium (SK),6,4
+G83633,Protein (SPR),8,0
+G83633,Protein Electrophoresis (PEP),2,0
+G83633,Random glucose (PGLR),2,0
+G83633,RBC`s (RBC),8,0
+G83633,Rheumatoid Latex (RA),2,0
+G83633,Serum Folate (FOL),2,0
+G83633,Sodium (SNA),6,0
+G83633,T.S.H. (TSH),6,0
+G83633,Total:HDL cholesterol ratio (TCHDL),4,0
+G83633,Triglycerides (TRIG),4,2
+G83633,Urea (SU),6,0
+G83633,URINE CULTURE (UC),2,0
+G83633,URINE MICROSCOPY (UM),2,0
+G83633,Vitamin B12 (B12),2,0
+G83633,WBC`s (WBC),8,0
+G83642,Alanine Transferase SGPT (ALT),13,3
+G83642,Albumin (ALB),13,0
+G83642,Alkaline phosphatase (ALP),13,2
+G83642,Anti TPO Abs (microsomal) (THYMA),1,0
+G83642,Basophils (auto) (ABAS),13,0
+G83642,Bilirubin (total) (BIL),13,0
+G83642,Cholesterol (CHO),12,1
+G83642,Creatinine (SCRE),13,0
+G83642,Eosinophils (auto) (AEOS),13,0
+G83642,F.S.H. (FSH),2,0
+G83642,Fasting glucose (PGLF),11,0
+G83642,Ferritin (FER),1,0
+G83642,Free T4 (FT4),15,2
+G83642,Gamma GT (GGT),13,6
+G83642,Globulins (GLOB),13,1
+G83642,Glycated Haemoglobin A1c (HBA),2,0
+G83642,Hb (HB),14,1
+G83642,Hct (HCT),13,1
+G83642,HDL Cholesterol (HDL),12,3
+G83642,Iron (FE),1,0
+G83642,L.H. (LH+),2,0
+G83642,LDL Cholesterol (LDL),12,1
+G83642,Lithium (LI),1,0
+G83642,Lymphocytes (auto) (ALYMPH),13,0
+G83642,MCH (MCH),13,1
+G83642,MCV (MCV),13,0
+G83642,Monocytes (auto) (AMON),13,0
+G83642,Neutrophils (auto) (ANEUT),13,0
+G83642,Platelets (PLT),13,2
+G83642,Potassium (SK),13,1
+G83642,Protein (SPR),13,0
+G83642,Protein Electrophoresis (PEP),2,0
+G83642,Random glucose (PGLR),2,0
+G83642,RBC`s (RBC),13,0
+G83642,Serum Folate (FOL),1,1
+G83642,Sodium (SNA),13,0
+G83642,T.S.H. (TSH),15,0
+G83642,Total:HDL cholesterol ratio (TCHDL),12,0
+G83642,Triglycerides (TRIG),12,4
+G83642,Urea (SU),13,0
+G83642,Urine albumin (UALB),4,1
+G83642,Urine albumin:creat ratio (UACR),4,1
+G83642,URINE CULTURE (UC),1,0
+G83642,URINE MICROSCOPY (UM),1,0
+G83642,Vitamin B12 (B12),1,1
+G83642,WBC`s (WBC),13,0
+G83643,Alanine Transferase SGPT (ALT),6,0
+G83643,Albumin (ALB),6,0
+G83643,Alkaline phosphatase (ALP),6,0
+G83643,Basophils (auto) (ABAS),5,0
+G83643,Bilirubin (total) (BIL),6,1
+G83643,Carbamazepine (CARB),1,0
+G83643,Cholesterol (CHO),6,0
+G83643,Creatinine (SCRE),6,0
+G83643,Eosinophils (auto) (AEOS),5,0
+G83643,Eosinophils (man) (EOS),1,0
+G83643,ESR (ESR),6,1
+G83643,Fasting glucose (PGLF),5,1
+G83643,Free T4 (FT4),6,1
+G83643,Gamma GT (GGT),6,2
+G83643,Globulins (GLOB),6,0
+G83643,Hb (HB),6,1
+G83643,Hct (HCT),6,1
+G83643,HDL Cholesterol (HDL),6,0
+G83643,Hepatitis B surface antibody (HBSAB),1,0
+G83643,LDL Cholesterol (LDL),6,0
+G83643,Lymphocytes (auto) (ALYMPH),5,0
+G83643,Lymphocytes (man) (LYMPH),1,1
+G83643,MCH (MCH),6,1
+G83643,MCV (MCV),6,1
+G83643,Monocytes (auto) (AMON),5,0
+G83643,Monocytes (man) (MONO),1,0
+G83643,Neutrophils (auto) (ANEUT),5,0
+G83643,Neutrophils (man) (NEUT),1,1
+G83643,Platelets (PLT),6,0
+G83643,Potassium (SK),6,0
+G83643,Protein (SPR),6,0
+G83643,RBC`s (RBC),6,1
+G83643,Sodium (SNA),6,0
+G83643,T.S.H. (TSH),6,1
+G83643,Total:HDL cholesterol ratio (TCHDL),6,0
+G83643,Triglycerides (TRIG),6,1
+G83643,Urea (SU),6,0
+G83643,URINE CULTURE (UC),1,0
+G83643,URINE MICROSCOPY (UM),1,0
+G83643,WBC`s (WBC),6,0
+G83655,Alanine Transferase SGPT (ALT),5,0
+G83655,Albumin (ALB),5,0
+G83655,Alkaline phosphatase (ALP),5,1
+G83655,Basophils (auto) (ABAS),4,0
+G83655,Bilirubin (total) (BIL),5,0
+G83655,Cholesterol (CHO),2,0
+G83655,Creatinine (SCRE),6,1
+G83655,Eosinophils (auto) (AEOS),4,0
+G83655,Fasting glucose (PGLF),2,1
+G83655,Free T4 (FT4),3,0
+G83655,Gamma GT (GGT),5,1
+G83655,Globulins (GLOB),5,1
+G83655,Glycated Haemoglobin A1c (HBA),2,1
+G83655,Hb (HB),4,0
+G83655,Hb Genotype (EL),1,0
+G83655,Hct (HCT),4,0
+G83655,HDL Cholesterol (HDL),2,0
+G83655,LDL Cholesterol (LDL),2,0
+G83655,Lymphocytes (auto) (ALYMPH),4,0
+G83655,MCH (MCH),4,3
+G83655,MCV (MCV),4,1
+G83655,Monocytes (auto) (AMON),4,0
+G83655,Neutrophils (auto) (ANEUT),4,0
+G83655,Platelets (PLT),4,0
+G83655,Potassium (SK),6,1
+G83655,Prostate Specific Antigen (PSA),1,0
+G83655,Protein (SPR),5,0
+G83655,Random glucose (PGLR),1,0
+G83655,RBC`s (RBC),4,0
+G83655,Sodium (SNA),6,1
+G83655,T.S.H. (TSH),3,0
+G83655,Total:HDL cholesterol ratio (TCHDL),2,0
+G83655,Triglycerides (TRIG),2,1
+G83655,Urea (SU),6,1
+G83655,URINE CULTURE (UC),1,0
+G83655,URINE MICROSCOPY (UM),1,0
+G83655,WBC`s (WBC),4,0
+G83663,Alanine Transferase SGPT (ALT),4,2
+G83663,Albumin (ALB),4,0
+G83663,Alkaline phosphatase (ALP),4,0
+G83663,Basophils (auto) (ABAS),12,0
+G83663,Bilirubin (total) (BIL),4,1
+G83663,Cholesterol (CHO),6,1
+G83663,Creatinine (SCRE),9,1
+G83663,Eosinophils (auto) (AEOS),12,0
+G83663,ESR (ESR),2,1
+G83663,F.S.H. (FSH),1,0
+G83663,Free T4 (FT4),8,0
+G83663,Gamma GT (GGT),4,3
+G83663,Globulins (GLOB),4,0
+G83663,Glycated Haemoglobin A1c (HBA),1,0
+G83663,Hb (HB),12,1
+G83663,Hct (HCT),12,1
+G83663,HDL Cholesterol (HDL),6,1
+G83663,Helicobacter antibody (HEL),1,0
+G83663,Herpes simplex PCR type 1 (HSPCR1),1,0
+G83663,L.H. (LH+),1,1
+G83663,LDL Cholesterol (LDL),6,0
+G83663,Lymphocytes (auto) (ALYMPH),12,0
+G83663,MCH (MCH),12,3
+G83663,MCV (MCV),12,2
+G83663,Monocytes (auto) (AMON),12,0
+G83663,Neutrophils (auto) (ANEUT),12,0
+G83663,Platelets (PLT),12,1
+G83663,Potassium (SK),9,0
+G83663,Protein (SPR),4,0
+G83663,Random glucose (PGLR),5,0
+G83663,RBC`s (RBC),12,2
+G83663,Rheumatoid Latex (RA),3,0
+G83663,Sodium (SNA),9,0
+G83663,T.S.H. (TSH),8,0
+G83663,Total:HDL cholesterol ratio (TCHDL),6,0
+G83663,Triglycerides (TRIG),6,3
+G83663,Urea (SU),9,1
+G83663,URINE CULTURE (UC),1,0
+G83663,URINE MICROSCOPY (UM),1,0
+G83663,WBC`s (WBC),12,0
+G83672,Alanine Transferase SGPT (ALT),10,3
+G83672,Albumin (ALB),10,0
+G83672,Alkaline phosphatase (ALP),10,2
+G83672,Anti TPO Abs (microsomal) (THYMA),1,1
+G83672,Basophils (auto) (ABAS),14,0
+G83672,Bilirubin (total) (BIL),10,0
+G83672,Cholesterol (CHO),7,2
+G83672,Creatinine (SCRE),6,1
+G83672,Eosinophils (auto) (AEOS),14,0
+G83672,ESR (ESR),5,2
+G83672,F.S.H. (FSH),2,1
+G83672,Fasting glucose (PGLF),5,0
+G83672,Free T4 (FT4),11,2
+G83672,Gamma GT (GGT),10,3
+G83672,Globulins (GLOB),10,2
+G83672,Glycated Haemoglobin A1c (HBA),2,1
+G83672,Hb (HB),14,2
+G83672,Hct (HCT),14,1
+G83672,HDL Cholesterol (HDL),7,0
+G83672,L.H. (LH+),2,1
+G83672,LDL Cholesterol (LDL),7,0
+G83672,Lymphocytes (auto) (ALYMPH),14,1
+G83672,MCH (MCH),14,2
+G83672,MCV (MCV),14,1
+G83672,Meningococcal PCR test (PCRM),1,0
+G83672,Microscopy culture and sens. (VCS),1,0
+G83672,Monocytes (auto) (AMON),14,2
+G83672,Neutrophils (auto) (ANEUT),14,0
+G83672,Platelets (PLT),14,2
+G83672,Potassium (SK),6,0
+G83672,Pregnancy test (PT),3,0
+G83672,Protein (SPR),10,0
+G83672,Random glucose (PGLR),4,1
+G83672,RBC`s (RBC),14,1
+G83672,Rheumatoid Latex (RA),2,0
+G83672,SERUM SAVED (SS),1,0
+G83672,Sodium (SNA),6,0
+G83672,T.S.H. (TSH),11,0
+G83672,Total:HDL cholesterol ratio (TCHDL),7,0
+G83672,Triglycerides (TRIG),7,1
+G83672,Urea (SU),6,0
+G83672,Urine albumin (UALB),1,0
+G83672,Urine albumin:creat ratio (UACR),1,0
+G83672,URINE CULTURE (UC),7,0
+G83672,URINE MICROSCOPY (UM),7,0
+G83672,WBC`s (WBC),14,1
+G83673,Adjusted calcium (ASCAL),8,0
+G83673,Alanine Transferase SGPT (ALT),48,4
+G83673,Albumin (ALB),52,0
+G83673,Alkaline phosphatase (ALP),52,0
+G83673,Antistreptolysin O titre (ASO),4,0
+G83673,Autoantibodies (AA),4,0
+G83673,Basophils (auto) (ABAS),44,0
+G83673,Bilirubin (total) (BIL),48,0
+G83673,C-Reactive Protein (CRP),8,0
+G83673,Calcium (SCAL),8,0
+G83673,Chlamydia-ELISA (CHL),4,0
+G83673,Cholesterol (CHO),24,4
+G83673,Creatine kinase (total) (CK),8,0
+G83673,Creatinine (SCRE),48,4
+G83673,Eosinophils (auto) (AEOS),44,0
+G83673,ESR (ESR),32,8
+G83673,Fasting glucose (PGLF),8,4
+G83673,Free T4 (FT4),32,8
+G83673,Gamma GT (GGT),48,20
+G83673,Globulins (GLOB),48,0
+G83673,Hb (HB),44,8
+G83673,Hct (HCT),44,12
+G83673,HDL Cholesterol (HDL),24,4
+G83673,Helicobacter antibody (HEL),4,0
+G83673,LDL Cholesterol (LDL),24,0
+G83673,Lymphocytes (auto) (ALYMPH),44,0
+G83673,MCH (MCH),44,8
+G83673,MCV (MCV),44,4
+G83673,Monocytes (auto) (AMON),44,0
+G83673,Neutrophils (auto) (ANEUT),44,0
+G83673,Phosphate (SPO4),8,0
+G83673,Platelets (PLT),44,4
+G83673,Potassium (SK),48,12
+G83673,Protein (SPR),48,0
+G83673,Random glucose (PGLR),16,4
+G83673,RBC`s (RBC),44,8
+G83673,Rheumatoid Latex (RA),4,0
+G83673,Sodium (SNA),48,4
+G83673,T.S.H. (TSH),32,0
+G83673,Total:HDL cholesterol ratio (TCHDL),24,0
+G83673,Triglycerides (TRIG),24,16
+G83673,Troponin I (TROI),8,0
+G83673,Urate (SURA),12,4
+G83673,Urea (SU),48,4
+G83673,WBC`s (WBC),44,8
+G84007,Alanine Transferase SGPT (ALT),6,6
+G84007,Albumin (ALB),6,0
+G84007,Alkaline phosphatase (ALP),6,0
+G84007,Basophils (auto) (ABAS),6,0
+G84007,Bilirubin (total) (BIL),6,0
+G84007,Eosinophils (auto) (AEOS),6,0
+G84007,Free T4 (FT4),6,0
+G84007,Gamma GT (GGT),6,6
+G84007,Globulins (GLOB),6,0
+G84007,Hb (HB),6,0
+G84007,Hct (HCT),6,0
+G84007,Lymphocytes (auto) (ALYMPH),6,0
+G84007,MCH (MCH),6,0
+G84007,MCV (MCV),6,0
+G84007,Monocytes (auto) (AMON),6,0
+G84007,Neutrophils (auto) (ANEUT),6,0
+G84007,Platelets (PLT),6,0
+G84007,Protein (SPR),6,0
+G84007,RBC`s (RBC),6,0
+G84007,T.S.H. (TSH),6,6
+G84007,WBC`s (WBC),6,0
+G84010,Alanine Transferase SGPT (ALT),36,18
+G84010,Albumin (ALB),36,0
+G84010,Alkaline phosphatase (ALP),36,9
+G84010,APTT RATIO (APTTR),9,0
+G84010,APTT Time (APTT),9,0
+G84010,Autoantibodies (AA),9,0
+G84010,Basophils (auto) (ABAS),27,0
+G84010,Bilirubin (total) (BIL),36,0
+G84010,Cholesterol (CHO),36,0
+G84010,Creatinine (SCRE),36,0
+G84010,Eosinophils (auto) (AEOS),27,0
+G84010,Fasting glucose (PGLF),9,0
+G84010,Free T4 (FT4),27,0
+G84010,Gamma GT (GGT),36,9
+G84010,Globulins (GLOB),36,0
+G84010,Glucose Tolerance test (Std) (GTTS),9,0
+G84010,Glycated Haemoglobin A1c (HBA),18,0
+G84010,Hb (HB),27,0
+G84010,Hct (HCT),27,0
+G84010,HDL Cholesterol (HDL),36,9
+G84010,LDL Cholesterol (LDL),36,0
+G84010,Lymphocytes (auto) (ALYMPH),27,9
+G84010,MCH (MCH),27,18
+G84010,MCV (MCV),27,0
+G84010,Monocytes (auto) (AMON),27,0
+G84010,Neutrophils (auto) (ANEUT),27,0
+G84010,Platelets (PLT),27,9
+G84010,Potassium (SK),36,0
+G84010,Protein (SPR),36,0
+G84010,PT Time (PT),9,0
+G84010,Random glucose (PGLR),9,0
+G84010,RBC`s (RBC),27,0
+G84010,SERUM SAVED (SS),9,0
+G84010,Sodium (SNA),36,0
+G84010,T.S.H. (TSH),27,0
+G84010,Total:HDL cholesterol ratio (TCHDL),36,0
+G84010,Triglycerides (TRIG),36,9
+G84010,Urea (SU),36,0
+G84010,Varicella zoster IgG (VZG),9,0
+G84010,WBC`s (WBC),27,0
+G84019,Alanine Transferase SGPT (ALT),14,7
+G84019,Albumin (ALB),21,0
+G84019,Alkaline phosphatase (ALP),14,0
+G84019,Basophils (auto) (ABAS),14,0
+G84019,Bilirubin (total) (BIL),14,0
+G84019,Cholesterol (CHO),7,0
+G84019,Creatinine (SCRE),14,0
+G84019,Culture and sensitivity (CS),7,0
+G84019,Eosinophils (auto) (AEOS),14,0
+G84019,ESR (ESR),14,14
+G84019,Free T3 (FT3),7,0
+G84019,Free T4 (FT4),14,7
+G84019,Gamma GT (GGT),14,7
+G84019,Globulins (GLOB),21,7
+G84019,Hb (HB),14,7
+G84019,Hct (HCT),14,0
+G84019,HDL Cholesterol (HDL),7,7
+G84019,LDL Cholesterol (LDL),7,0
+G84019,Lymphocytes (auto) (ALYMPH),14,0
+G84019,MCH (MCH),14,7
+G84019,MCV (MCV),14,7
+G84019,Monocytes (auto) (AMON),14,0
+G84019,Neutrophils (auto) (ANEUT),14,0
+G84019,Platelets (PLT),14,0
+G84019,Potassium (SK),14,7
+G84019,Protein (SPR),21,0
+G84019,Protein Electrophoresis (PEP),7,0
+G84019,Random glucose (PGLR),7,0
+G84019,RBC`s (RBC),14,0
+G84019,Sodium (SNA),14,0
+G84019,T.S.H. (TSH),14,7
+G84019,Total:HDL cholesterol ratio (TCHDL),7,0
+G84019,Triglycerides (TRIG),7,7
+G84019,Urea (SU),14,0
+G84019,WBC`s (WBC),14,0
+G84619,Adenovirus CFT (ADV),1,0
+G84619,Adjusted calcium (ASCAL),4,0
+G84619,Alanine Transferase SGPT (ALT),10,4
+G84619,Albumin (ALB),10,0
+G84619,Alkaline phosphatase (ALP),10,0
+G84619,Amylase (SAMY),3,0
+G84619,Autoantibodies (AA),4,0
+G84619,Basophils (auto) (ABAS),11,0
+G84619,Bilirubin (total) (BIL),10,0
+G84619,Calcium (SCAL),4,0
+G84619,Cholesterol (CHO),10,3
+G84619,Coxiella burnetii (Q) CFT (COX),1,0
+G84619,Creatinine (SCRE),8,0
+G84619,Culture and sensitivity (CS),3,0
+G84619,Eosinophils (auto) (AEOS),11,0
+G84619,ESR (ESR),8,3
+G84619,F.S.H. (FSH),1,0
+G84619,Fasting glucose (PGLF),8,1
+G84619,Ferritin (FER),7,1
+G84619,Free T4 (FT4),7,0
+G84619,Gamma GT (GGT),10,6
+G84619,Globulins (GLOB),10,0
+G84619,Glucose Tolerance test (Std) (GTTS),1,0
+G84619,Glycated Haemoglobin A1c (HBA),1,1
+G84619,Hb (HB),11,1
+G84619,Hct (HCT),11,1
+G84619,HDL Cholesterol (HDL),10,0
+G84619,Helicobacter antibody (HEL),3,0
+G84619,Hepatitis B surface antibody (HBSAB),1,0
+G84619,Influenza A CFT (FLUA),1,0
+G84619,Influenza B CFT (FLUB),1,0
+G84619,L.H. (LH+),1,0
+G84619,LDL Cholesterol (LDL),10,0
+G84619,Lymphocytes (auto) (ALYMPH),11,1
+G84619,MCH (MCH),11,1
+G84619,MCV (MCV),11,0
+G84619,Monocytes (auto) (AMON),11,1
+G84619,Mycoplasma pneumoniae CFT (MYPC),1,0
+G84619,Neutrophils (auto) (ANEUT),11,1
+G84619,Phosphate (SPO4),4,0
+G84619,Platelets (PLT),11,0
+G84619,Potassium (SK),8,1
+G84619,Pregnancy test (PT),1,0
+G84619,Prostate Specific Antigen (PSA),1,1
+G84619,Protein (SPR),10,0
+G84619,Psittacosis-LGV CFT (LGV),1,0
+G84619,Random glucose (PGLR),1,0
+G84619,RBC`s (RBC),11,2
+G84619,Rheumatoid Latex (RA),3,0
+G84619,RSV CFT (RSVC),1,0
+G84619,Serum Folate (FOL),5,1
+G84619,Sodium (SNA),8,0
+G84619,T.S.H. (TSH),7,0
+G84619,Total:HDL cholesterol ratio (TCHDL),10,0
+G84619,Triglycerides (TRIG),10,7
+G84619,Urate (SURA),5,3
+G84619,Urea (SU),8,1
+G84619,URINE CULTURE (UC),1,0
+G84619,URINE MICROSCOPY (UM),1,0
+G84619,Vitamin B12 (B12),5,0
+G84619,WBC`s (WBC),11,1
+G84628,Alanine Transferase SGPT (ALT),1,0
+G84628,Albumin (ALB),1,0
+G84628,Alkaline phosphatase (ALP),1,0
+G84628,Bilirubin (total) (BIL),1,0
+G84628,Cholesterol (CHO),1,0
+G84628,Creatine kinase (total) (CK),1,0
+G84628,Creatinine (SCRE),1,0
+G84628,Gamma GT (GGT),1,0
+G84628,Globulins (GLOB),1,0
+G84628,HDL Cholesterol (HDL),1,0
+G84628,LDL Cholesterol (LDL),1,0
+G84628,Potassium (SK),1,1
+G84628,Protein (SPR),1,0
+G84628,Sodium (SNA),1,0
+G84628,Total:HDL cholesterol ratio (TCHDL),1,0
+G84628,Triglycerides (TRIG),1,1
+G84628,Urea (SU),1,0
+Y00542,Adjusted calcium (ASCAL),12,0
+Y00542,Alanine Transferase SGPT (ALT),54,12
+Y00542,Albumin (ALB),63,0
+Y00542,Alkaline phosphatase (ALP),57,6
+Y00542,Anti-nuclear Factor (ANF),3,0
+Y00542,APTT RATIO (APTTR),3,0
+Y00542,APTT Time (APTT),3,0
+Y00542,Autoantibodies (AA),3,0
+Y00542,Basophils (auto) (ABAS),48,0
+Y00542,Bilirubin (total) (BIL),54,9
+Y00542,C-Reactive Protein (CRP),3,3
+Y00542,Calcium (SCAL),12,0
+Y00542,Cholesterol (CHO),27,3
+Y00542,Consistency (CONS),3,0
+Y00542,Count (COUNT),3,0
+Y00542,Creatinine (SCRE),66,9
+Y00542,DNA Antibodies (DNA),3,0
+Y00542,Endomycium Antibodies (ENDAB),3,0
+Y00542,Eosinophils (auto) (AEOS),48,0
+Y00542,ESR (ESR),27,9
+Y00542,F.S.H. (FSH),3,0
+Y00542,Fasting glucose (PGLF),21,3
+Y00542,Ferritin (FER),12,0
+Y00542,Free T3 (FT3),3,0
+Y00542,Free T4 (FT4),42,3
+Y00542,Gamma GT (GGT),54,15
+Y00542,Gliadin Antibodies (GLIA),3,0
+Y00542,Globulins (GLOB),60,3
+Y00542,Glycated Haemoglobin A1c (HBA),6,3
+Y00542,Hb (HB),48,0
+Y00542,Hct (HCT),48,12
+Y00542,HDL Cholesterol (HDL),27,3
+Y00542,Immunoglobulin A (IGA),3,0
+Y00542,Immunoglobulin G (IGG),3,3
+Y00542,Immunoglobulin M (IGM),3,0
+Y00542,L.H. (LH+),3,0
+Y00542,LDL Cholesterol (LDL),27,0
+Y00542,Lymphocytes (auto) (ALYMPH),48,0
+Y00542,MCH (MCH),48,9
+Y00542,MCV (MCV),48,0
+Y00542,Monocytes (auto) (AMON),48,3
+Y00542,Neutrophils (auto) (ANEUT),48,0
+Y00542,Normal motile forms (NORMOT),3,0
+Y00542,Oestradiol (E2),3,0
+Y00542,Phosphate (SPO4),12,3
+Y00542,Platelets (PLT),48,6
+Y00542,Potassium (SK),66,3
+Y00542,Progesterone (PRG),3,0
+Y00542,Prolactin (PRL),3,0
+Y00542,Prostate Specific Antigen (PSA),3,0
+Y00542,Protein (SPR),60,0
+Y00542,Protein Electrophoresis (PEP),6,0
+Y00542,PT Time (PT),3,0
+Y00542,Random glucose (PGLR),30,6
+Y00542,RBC`s (RBC),48,9
+Y00542,Rheumatoid Latex (RA),12,0
+Y00542,Serum Folate (FOL),9,6
+Y00542,Sodium (SNA),66,3
+Y00542,T.S.H. (TSH),42,3
+Y00542,Time collected (TCOL),3,0
+Y00542,Time examined (TEXA),3,0
+Y00542,Total motile forms (TOTMOT),3,0
+Y00542,Total:HDL cholesterol ratio (TCHDL),27,0
+Y00542,Triglycerides (TRIG),27,12
+Y00542,Urea (SU),66,3
+Y00542,Urine albumin (UALB),3,3
+Y00542,Urine albumin:creat ratio (UACR),3,3
+Y00542,Vitamin B12 (B12),9,6
+Y00542,Volume (VOL),3,0
+Y00542,WBC`s (WBC),48,0

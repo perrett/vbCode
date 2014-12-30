@@ -1,0 +1,47 @@
+	table{
+		font-family: "Courier New";
+		font-size: 10pt;
+		border-collapse: collapse;
+	}
+	td{
+		border: 1px #000000 solid;
+	}
+	.oor{
+		color: #ff0000;
+	}
+	.ir{
+		color: #000000;
+	}
+	.inact{
+		color: #ff0000;
+	}
+	.deleted{
+		text-decoration: line-through;
+		color: #0000ff;
+	}
+	.suppressed{
+		text-decoration: line-through;
+		color: #ff0000;
+	}
+	.removed{
+		text-decoration: underline;
+		color: #0000ff;
+	}
+	.inapp{
+		color: #0000ff;
+	}
+	.noBorder{
+		border: 0;
+	}
+ .highlightBlack {
+  background-Color:#dEdBf0;
+  cursor: default;
+ }
+ .highlightRed {
+  padding-left:16;
+  background-Color:#dEdBf0;
+  color:#ff0000;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  cursor: default;
+ }

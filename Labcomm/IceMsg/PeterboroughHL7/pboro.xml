@@ -1,0 +1,681 @@
+<ORU_R01>
+	<ORU_R01.PATIENT_RESULT>
+		<ORU_R01.PATIENT>
+			<PID>
+				<PID.1>1</PID.1>
+				<PID.3>
+					<PD.1>
+						<CX.1>DIS0701836</CX.1>
+						<CX.4>RGN00</CX.4>
+						<CX.5>MRN</CX.5>
+					</PD.1>
+					<PD.2>
+						<CX.1>4994023093</CX.1>
+						<CX.4>RGN00</CX.4>
+						<CX.5>NHS</CX.5>
+					</PD.2>
+					<PD.3>
+						<CX.1>P987665</CX.1>
+					</PD.3>
+				</PID.3>
+				<PID.5>
+					<XPN.1>
+						<FN.1>LANGSDALE</FN.1>
+					</XPN.1>
+					<XPN.2>ELSPETH</XPN.2>
+					<XPN.7>L</XPN.7>
+				</PID.5>
+				<PID.7>
+					<TS.1>19681206</TS.1>
+				</PID.7>
+				<PID.8>F</PID.8>
+				<PID.11>
+					<XAD.1>
+						<SAD.1>4 MILTON RD</SAD.1>
+					</XAD.1>
+					<XAD.2>OUNDLE</XAD.2>
+					<XAD.3>PETERBOROUGH</XAD.3>
+				</PID.11>
+				<PID.12>PE8 4AB</PID.12>
+			</PID>
+			<NTE>
+				<NTE.1>1</NTE.1>
+				<NTE.2>C</NTE.2>
+				<NTE.3>Spec.Type: Breast,Lymph node</NTE.3>
+			</NTE>
+			<ORU_R01.PATIENT_VISIT>
+				<PV1>
+					<PV1.2>O</PV1.2>
+					<PV1.3>
+						<PL.4>
+							<HD.1>Y0401</HD.1>
+							<HD.2>CRC</HD.2>
+						</PL.4>
+					</PV1.3>
+					<PV1.7>
+						<XCN.1>G9909081</XCN.1>
+						<XCN.2>NEWELL</XCN.2>
+					</PV1.7>
+					<PV1.8>
+						<XCN.1>G9909081</XCN.1>
+						<XCN.2>NEWELL</XCN.2>
+					</PV1.8>
+				</PV1>
+			</ORU_R01.PATIENT_VISIT>
+		</ORU_R01.PATIENT>
+		<ORU_R01.ORDER_OBSERVATION>
+			<OBR>
+				<OBR.1>1</OBR.1>
+				<OBR.3>
+					<EI.1>H,04.0015848.L*</EI.1>
+					<EI.2/>
+				</OBR.3>
+				<OBR.4>
+					<CE.1>21</CE.1>
+					<CE.2>Histology</CE.2>
+					<CE.3>LC</CE.3>
+				</OBR.4>
+				<OBR.7>
+					<TS.1>200411220000</TS.1>
+				</OBR.7>
+				<OBR.14>
+					<TS.1>200411231103</TS.1>
+				</OBR.14>
+				<OBR.15>
+					<SPS.1>
+						<CE.1>T026</CE.1>
+					</SPS.1>
+					<SPS.2>SPEC.TYPE: BREAST,LYMPH NODE</SPS.2>
+				</OBR.15>
+				<OBR.16>
+					<XCN.1>G9909081</XCN.1>
+					<XCN.2>
+						<FN.1>NEWELL</FN.1>
+					</XCN.2>
+				</OBR.16>
+				<OBR.22>
+					<TS.1>200811171145</TS.1>
+				</OBR.22>
+				<OBR.24>824</OBR.24>
+			</OBR>
+			<ORU_R01.OBSERVATION>
+				<OBX>
+					<OBX.1>1</OBX.1>
+					<OBX.2>ST</OBX.2>
+					<OBX.3>
+						<CE.1>21</CE.1>
+						<CE.2>Histology</CE.2>
+						<CE.3>LC</CE.3>
+					</OBX.3>
+					<OBX.6>
+						<CE.1/>
+					</OBX.6>
+					<OBX.11>F</OBX.11>
+					<OBX.14>
+						<TS.1>200811171145</TS.1>
+					</OBX.14>
+				</OBX>
+				<NTE>
+					<NTE.1>1</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  HISTOPATHOLOGY SERVICES      PETERBOROUGH HOSPITALS TRUST 01733 874648</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>2</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  Specimen: Breast,Lymph node</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>3</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  Date taken:              Date received:                Date reported:</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>4</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  22.11.04                 23.11.04                      17.11.08</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>5</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  ______________________________________________________________________</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>6</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  CLINICAL DETAILS:</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>7</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  ****************SUPPLEMENTARY REPORT********************</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>8</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>                  ADDITIONAL SUPPLEMENTARY REPORT</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>9</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  DCIS L breast.  ?Invasive part.  Left mastectomy and AN</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>10</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  sampling.</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>11</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  MACRO A:</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>12</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  Mastectomy specimen 22 x 15 x 35cm with nipple bearing skin</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>13</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  ellipse 19 x 0.5 x 12cm.  There is bruising of the skin but</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>14</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  the nipple appears unremarkable.  Weight 672g.  On slicing,</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>15</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  for approximately 8 x 7cm there is a diffuse firm thickening</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>16</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  with flecks of grey and white foci.  No discrete lesion is</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>17</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  identified.  Because of the diffuse nature of the lesion the</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>18</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  megablock of the entire slice is included.</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>19</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  MACRO B:</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>20</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  Four lymph nodes identified.  Possibly the fourth piece of</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>21</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  tissue is not a lymph node.</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>22</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  Blocks:</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>23</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  Megablocks: slices 1,2,3 covering the whole of the specimen</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>24</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  from superior through to inferior. 1 = firm area with small</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>25</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  part of deep margin.  2 = adjacent slice. 3 = adjacent slice</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>26</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  (no margin).  4 = adjacent slice (no margin).  5 = nipple.</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>27</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  6 = upper inner quadrant.  7 = lower inner quadrant.  8 =</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>28</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  lower outer quadrant. 9 = upper outer quadrant.  10-14 = 1</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>29</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  lymph node per cassette.</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>30</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  MACRO B:</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>31</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  Four lymph nodes identified. Possibly the fourth piece of</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>32</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  tissue is not a lymph node.</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>33</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  Blocks: 1-4 = 1 lymph node in each cassette.</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>34</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  MICRO: Sections show extensive high grade cribriform, solid</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>35</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  and comedo type DCIS with cancerisation of lobules. The DCIS</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>36</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  extends to cover an area, maximum dimension of 73mm. High</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>37</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  grade DCIS involves the inferior margin of the masectomy.</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>38</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  Deep margin from DCIS = 6mm. A focus of grade 2 (t=3, p=3,</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>39</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  m=1) invasive ductal type carcinoma, 2.9mm maximum dimension</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>40</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  is admixed with the DCIS and does not increase the overall</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>41</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  dimensions, invasive component = 5mm from deep margin,</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>42</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  it is well away from other margins. Immunohistochemical</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>43</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  stains for smooth muscle heavy chain confirms that the</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>44</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  majority of the lesion  sampled is in-situ. DCIS is also</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>45</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  noted in random sections taken from the lower inner and</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>46</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  lower outer quadrants.</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>47</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  NO lymphovascular invasion is seen. The nipple shows high</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>48</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  grade DCIS within underlying ducts, no Paget's disease is</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>49</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  identified. Fibrocystic change is also noted. Four lymph</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>50</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  nodes are identified - all are negative for tumour.</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>51</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  MICRO B: Three lymph nodes are identified - all are negative</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>52</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  for tumour.</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>53</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  Oestrogen receptor status has been requested on the invasive</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>54</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  component and a further report will follow.</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>55</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  LEFT BREAST (MASTECTOMY AND AXILLARY NODE SAMPLING)</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>56</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  INVASIVE GRADE 2 DUCTAL TYPE CARCINOMA , MAX DIMENSION =</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>57</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  2.9mm.</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>58</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  ADMIXED EXTENSIVE HIGH GRADE DICS, MAX DIMENSION DCIS = 73mm</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>59</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  (inclusive of invasive component)</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>60</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  DCIS INVOLVES INFERIOR MARGIN DEEP MARGIN =6MM FOR DCIS, 5MM</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>61</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  Reporting pathologist:   Marie Gertenbach</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>62</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  Consultant pathologist:  Marie Gertenbach</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>63</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>                       LANGSDALE                         P810354</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>64</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>                       ELSPETH                           DIS0701836</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>65</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>                       06.12.68                          WARD 9 - ECH</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>66</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>                       F                      Consultant:MR.T.ABDULLA</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>67</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>                       4 MILTON ROAD          GP        :DR.K.NEWEL</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>68</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>                       OUNDLE</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>69</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>                       PE8 4AB                Copy to   :CANCER REGISTRY</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>70</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>                           ***CONTINUATION SHEET***      Lab No. H, H,04</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>71</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  .0015848.L</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>72</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>                                                         Date reported:</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>73</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  17.11.08</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>74</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  ______________________________________________________________________</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>75</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  __________</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>76</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  FOR INVASIVE.</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>77</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  NO LYMPHOVASCULAR INVASION</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>78</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  0/7 LYMPH NODES IN TOTAL = NODE NEGATIVE</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>79</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  EA/MG 01/12/04</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>80</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  SUPPLEMENTARY REPORT</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>81</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  The tumour cells  of the invasive focus are positive for</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>82</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  oestrogen receptor, score 5 + 3 =8</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>83</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  OESTROGEN RECEPTOR = POSITIVE</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>84</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  ea 03/12/04</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>85</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>                  ADDITIONAL SUPPLEMENTARY REPORT</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>86</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  Report received from King's College Hospital stating the</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>87</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>   Reporting pathologist:  Marie Gertenbach                    HISTOPATH</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>88</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  OLOGY</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>89</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>   Consulting pathologist: Marie Gertenbach                       Ext.46</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>90</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  48</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>91</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>                       LANGSDALE                         P810354</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>92</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>                       ELSPETH                           DIS0701836</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>93</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>                       06.12.68                          WARD 9 - ECH</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>94</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>                       F                      Consultant:MR.T.ABDULLA</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>95</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>                       4 MILTON ROAD          GP        :DR.K.NEWEL</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>96</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>                       OUNDLE</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>97</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>                       PE8 4AB                Copy to   :CANCER REGISTRY</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>98</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>                           ***CONTINUATION SHEET***      Lab No. H, H,04</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>99</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  .0015848.L</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>100</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>                                                         Date reported:</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>101</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  17.11.08</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>102</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  ______________________________________________________________________</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>103</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  __________</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>104</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  following:</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>105</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  HER2 STATUS: BLOCK A2: POSITIVE</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>106</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  Reported by Dr Salvador Diaz-Cano</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>107</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  mj/gs 14.11.08</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>108</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>   Reporting pathologist:  Marie Gertenbach                    HISTOPATH</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>109</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  OLOGY</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>110</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>   Consulting pathologist: Marie Gertenbach                       Ext.46</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>111</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  48</NTE.3>
+				</NTE>
+				<NTE>
+					<NTE.1>112</NTE.1>
+					<NTE.2>L</NTE.2>
+					<NTE.3>  Overlong lines have been split into multiple lines after 70 chars.</NTE.3>
+				</NTE>
+			</ORU_R01.OBSERVATION>
+		</ORU_R01.ORDER_OBSERVATION>
+	</ORU_R01.PATIENT_RESULT>
+</ORU_R01>

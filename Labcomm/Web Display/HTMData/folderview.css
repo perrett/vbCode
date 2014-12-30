@@ -1,0 +1,29 @@
+table{
+	border-collapse: separate;
+}
+td.folder{
+	font : 11px Verdana, Geneva, Arial, Helvetica, sans-serif;
+	padding-left: 6px;
+	padding-right: 6px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-top: 1 px solid white;
+	border-left: 2px solid white;
+	border-bottom: 3px solid white;
+	border-right: 3px solid white;
+	vertical-align : middle;
+}
+.fixwidth{
+	width: 50px;
+	cursor: pointer;
+	text-overflow: ellipsis;
+	overflow: hidden;
+}
+.foldertitle{
+	.text-align: center;
+	background-color : #CCFF99;
+	color : #0066CC;
+}
+img{
+	cursor: pointer;
+}

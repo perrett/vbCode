@@ -1,0 +1,369 @@
+[Root]
+Most Recent Package=Dep File 1
+
+
+[Package|Ice Config Install|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Documents and Settings\Bernie Perrett\My Documents\Projects\Development\ICEConfig Ver 3\Package
+
+[Package|Ice Config Install|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Ice Config Install|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Ice Config Install|Files Found]
+
+[Package|Ice Config Install|Files Released]
+
+[Package|Ice Config Install|Missing Dependency Information]
+C:\WINNT\SYSTEM32\vbalgrid6.ocx=
+C:\Program Files\Sheridan\ActiveThreed\SPLITTER.OCX=
+C:\WINNT\SYSTEM32\SSPng.dll=
+C:\Program Files\Sheridan\ActiveThreed\THREED20.OCX=
+C:\Program Files\Common Files\SYSTEM\ADO\msado25.tlb=
+C:\Documents and Settings\Bernie Perrett.AHSL-COM\My Documents\Projects\AHSLReporting.dll=
+C:\Documents and Settings\Bernie Perrett.AHSL-COM\My Documents\Projects\AHSLReporting\AHSLReporting.dll=
+C:\Documents and Settings\Bernie Perrett.AHSL-COM\My Documents\Projects\Development\ICE_Msg\Project Executables\AHSLErrorLog.dll=
+C:\Program Files\Common Files\SYSTEM\Ole DB\oledb32.dll=
+C:\Documents and Settings\Bernie Perrett.AHSL-COM\My Documents\Projects\Development\Error Handler\AHSLerrorlog.dll=
+C:\WINDOWS\SYSTEM32\vbalgrid6.ocx=
+C:\Program Files\Sheridan\ActiveListBar\SSLstBar.ocx=
+C:\Documents and Settings\Bernie Perrett\My Documents\Projects\Development\ICE_Msg\AHSLReporting.dll=
+C:\Documents and Settings\Bernie Perrett\My Documents\Projects\Development\Error Handler\AHSLerrorlog.dll=
+C:\Documents and Settings\Bernie Perrett\My Documents\Projects\IceLabcomm\Live\Release 7.0\Executables\AHSLerrorlog.dll=
+C:\Program Files\Microsoft Office\Office10\MSOUTL.OLB=
+C:\Documents and Settings\Bernie Perrett\My Documents\Projects\IceLabcomm\AHSLReporting.dll=
+
+[Package|Ice Config Install|Out-of-Date Dependency Information]
+C:\WINNT\SYSTEM32\SSLstBar.ocx=
+C:\WINNT\SYSTEM32\PrpList2.ocx=
+C:\WINNT\SYSTEM32\scrrun.dll=
+C:\Program Files\Sheridan\ActiveThreed\SPLITTER.OCX=
+C:\Program Files\Sheridan\ActiveThreed\THREED20.OCX=
+C:\WINDOWS\SYSTEM32\MSSTDFMT.DLL=
+C:\WINDOWS\SYSTEM32\RICHTX32.OCX=
+C:\WINDOWS\SYSTEM32\PrpList2.ocx=
+C:\WINDOWS\SYSTEM32\SCRRUN.DLL=
+
+[Package|Ice Config Install|Files Added]
+
+[Package|Ice Config Install|Files Removed]
+c:\documents and settings\bernie perrett.ahsl-com\my documents\projects\development\ice_msg\project executables\ahslerrorlog.dll=
+
+[Package|Ice Config Install|Files In Project]
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Common Files\SYSTEM\ADO\msado25.tlb=Yes
+C:\Program Files\Sheridan\ActiveThreed\THREED20.OCX=Yes
+C:\Program Files\Sheridan\ActiveThreed\SPLITTER.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Program Files\Common Files\SYSTEM\Ole DB\oledb32.dll=Yes
+C:\WINDOWS\SYSTEM32\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM32\SCRRUN.DLL=Yes
+C:\WINDOWS\SYSTEM32\MSVCRT.DLL=Yes
+C:\WINDOWS\SYSTEM32\PrpList2.ocx=Yes
+C:\Program Files\Sheridan\ActiveListBar\SSLstBar.ocx=Yes
+C:\WINDOWS\SYSTEM32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\SYSTEM32\MSCOMCT2.OCX=Yes
+C:\WINDOWS\SYSTEM32\RICHTX32.OCX=Yes
+C:\WINDOWS\SYSTEM32\vbalgrid6.ocx=Yes
+C:\WINDOWS\SYSTEM32\COMDLG32.OCX=Yes
+C:\WINDOWS\SYSTEM32\MSFLXGRD.OCX=Yes
+C:\WINDOWS\SYSTEM32\TABCTL32.OCX=Yes
+C:\WINDOWS\SYSTEM32\MSCHRT20.OCX=Yes
+C:\WINDOWS\SYSTEM32\MSDATGRD.OCX=Yes
+C:\WINDOWS\SYSTEM32\MSSTDFMT.DLL=Yes
+C:\WINDOWS\SYSTEM32\VB6STKIT.DLL=Yes
+C:\Documents and Settings\Bernie Perrett\My Documents\Projects\IceLabcomm\Live\Release 7.0\Amendment 03\ICEConfig\IceConfig.exe=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Documents and Settings\Bernie Perrett\My Documents\Projects\IceLabcomm\AHSLReporting.dll=Yes
+C:\Program Files\Microsoft Office\Office10\MSOUTL.OLB=Yes
+C:\Documents and Settings\Bernie Perrett\My Documents\Projects\IceLabcomm\Live\Release 7.0\Executables\AHSLerrorlog.dll=Yes
+
+[Package|Ice Config Install|Configure Registry Files]
+Applicable=No
+
+[Package|Ice Config Install|Configure Remote Servers]
+Applicable=No
+
+[Package|Ice Config Install|Install Locations]
+C:\Documents and Settings\Bernie Perrett.AHSL-COM\My Documents\Projects\IceConfig Ver 3\IceConfig.exe=$(AppPath)
+C:\WINNT\SYSTEM32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Documents and Settings\Bernie Perrett.AHSL-COM\My Documents\Projects\AHSLReporting.dll=$(WinSysPath)
+C:\WINNT\SYSTEM32\scrrun.dll=$(WinSysPath)
+C:\WINNT\SYSTEM32\MSVCRT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Common Files\SYSTEM\ADO\msado25.tlb=$(WinSysPath)
+C:\WINNT\SYSTEM32\PrpList2.ocx=$(WinSysPath)
+C:\Program Files\Sheridan\ActiveThreed\THREED20.OCX=$(WinSysPath)
+C:\WINNT\SYSTEM32\SSLstBar.ocx=$(WinSysPath)
+C:\WINNT\SYSTEM32\SSPng.dll=$(WinSysPath)
+C:\Program Files\Sheridan\ActiveThreed\SPLITTER.OCX=$(WinSysPath)
+C:\WINNT\SYSTEM32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINNT\SYSTEM32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINNT\SYSTEM32\RICHTX32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\WINNT\SYSTEM32\vbalgrid6.ocx=$(WinSysPath)
+C:\WINNT\SYSTEM32\comdlg32.ocx=$(WinSysPath)
+C:\WINNT\SYSTEM32\tabctl32.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\SYSTEM32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Documents and Settings\Bernie Perrett.AHSL-COM\My Documents\Projects\AHSLReporting\AHSLReporting.dll=$(WinSysPath)
+C:\Documents and Settings\Bernie Perrett.AHSL-COM\My Documents\Projects\Development\IceConfig Ver 3\IceConfig.exe=$(AppPath)
+C:\Documents and Settings\Bernie Perrett.AHSL-COM\My Documents\Projects\Development\ICE_Msg\AHSLReporting.dll=$(AppPath)
+C:\Documents and Settings\Bernie Perrett.AHSL-COM\My Documents\Projects\Development\ICE_Msg\Project Executables\AHSLErrorLog.dll=$(WinSysPath)
+C:\WINNT\SYSTEM32\MSFLXGRD.OCX=$(WinSysPath)
+C:\Documents and Settings\Bernie Perrett.AHSL-COM\My Documents\Projects\Development\Error Handler\AHSLerrorlog.dll=$(AppPath)
+C:\Program Files\Common Files\SYSTEM\Ole DB\oledb32.dll=$(WinSysPath)
+C:\Documents and Settings\Bernie Perrett\My Documents\Projects\Development\ICEConfig Ver 3\IceConfig.exe=$(AppPath)
+C:\WINDOWS\SYSTEM32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\SCRRUN.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\MSVCRT.DLL=$(WinSysPathSysFile)
+C:\Documents and Settings\Bernie Perrett\My Documents\Projects\Development\Error Handler\AHSLerrorlog.dll=$(WinSysPath)
+C:\Documents and Settings\Bernie Perrett\My Documents\Projects\Development\ICE_Msg\AHSLReporting.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\PrpList2.ocx=$(WinSysPath)
+C:\Program Files\Sheridan\ActiveListBar\SSLstBar.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\RICHTX32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\vbalgrid6.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\MSCHRT20.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\MSDATGRD.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Documents and Settings\Bernie Perrett\My Documents\Projects\IceLabcomm\Live\Release 7.0\Amendment 03\ICEConfig\IceConfig.exe=$(AppPath)
+C:\Documents and Settings\Bernie Perrett\My Documents\Projects\IceLabcomm\AHSLReporting.dll=$(WinSysPath)
+C:\Program Files\Microsoft Office\Office10\MSOUTL.OLB=$(WinSysPath)
+C:\Documents and Settings\Bernie Perrett\My Documents\Projects\IceLabcomm\Live\Release 7.0\Executables\AHSLerrorlog.dll=$(WinSysPath)
+
+[Package|Ice Config Install|Configure Shared Files]
+Applicable=Yes
+C:\Documents and Settings\Bernie Perrett.AHSL-COM\My Documents\Projects\IceConfig Ver 3\IceConfig.exe=No
+C:\Documents and Settings\Bernie Perrett.AHSL-COM\My Documents\Projects\Development\IceConfig Ver 3\IceConfig.exe=No
+C:\Documents and Settings\Bernie Perrett.AHSL-COM\My Documents\Projects\Development\ICE_Msg\AHSLReporting.dll=Yes
+C:\Documents and Settings\Bernie Perrett.AHSL-COM\My Documents\Projects\Development\Error Handler\AHSLerrorlog.dll=Yes
+C:\Documents and Settings\Bernie Perrett\My Documents\Projects\Development\ICEConfig Ver 3\IceConfig.exe=No
+C:\Documents and Settings\Bernie Perrett\My Documents\Projects\IceLabcomm\Live\Release 7.0\Amendment 03\ICEConfig\IceConfig.exe=No
+
+[Package|Ice Config Install|Distribution]
+Type=single
+Size=
+Title=ICE...Configuration
+
+[Package|Ice Config Install|IconGroups]
+Group0=Ice
+PrivateGroup0=0
+Parent0=$(Programs)
+
+[Package|Ice Config Install|Ice]
+Icon1=IceConfig.exe
+Title1=IceConfig
+StartIn1=$(AppPath)
+Key1=Icon2
+
+[Package|Ice Config Install|Package]
+PackageFolder=C:\Documents and Settings\Bernie Perrett\My Documents\Projects\Development\ICEConfig Ver 3\Package
+ProjectFolder=C:\Documents and Settings\Bernie Perrett\My Documents\Projects\IceLabcomm\Live\Release 7.0\Amendment 03\ICEConfig
+ServerSideCab=
+File1=C:\Documents and Settings\Bernie Perrett\My Documents\Projects\Development\ICEConfig Ver 3\Package\setup.exe
+File2=C:\Documents and Settings\Bernie Perrett\My Documents\Projects\Development\ICEConfig Ver 3\Package\Setup.Lst
+File3=C:\Documents and Settings\Bernie Perrett\My Documents\Projects\Development\ICEConfig Ver 3\Package\IceConfig.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Dep File 1|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=C:\Documents and Settings\Bernie_Perrett\My Documents\Projects\Labcomm\Live\340
+
+[Package|Dep File 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Dep File 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Dep File 1|Files Found]
+
+[Package|Dep File 1|Files Released]
+
+[Package|Dep File 1|Missing Dependency Information]
+C:\WINNT\SYSTEM32\vbalgrid6.ocx=
+C:\Program Files\Sheridan\ActiveThreed\SPLITTER.OCX=
+C:\WINNT\SYSTEM32\SSPng.dll=
+C:\Program Files\Sheridan\ActiveThreed\THREED20.OCX=
+C:\Program Files\Common Files\SYSTEM\ADO\msado25.tlb=
+C:\Documents and Settings\Bernie Perrett.AHSL-COM\My Documents\Projects\AHSLReporting.dll=
+C:\Documents and Settings\Bernie Perrett.AHSL-COM\My Documents\Projects\AHSLReporting\AHSLReporting.dll=
+C:\Documents and Settings\Bernie Perrett.AHSL-COM\My Documents\Projects\Development\ICE_Msg\Project Executables\AHSLErrorLog.dll=
+C:\Documents and Settings\Bernie_Perrett\My Documents\Projects\Labcomm\Live\340\IceConfig\Web_Browser_Control.ocx=
+C:\Documents and Settings\Bernie_Perrett\My Documents\Projects\Labcomm\Dev\5010\IceConfig\vbalgrid6.ocx=
+C:\Program Files\Sheridan\ActiveListBar\SSLstBar.ocx=
+C:\Documents and Settings\Bernie_Perrett\My Documents\Projects\Labcomm\Live\340\IceConfig\AHSLerrorlog.dll=
+C:\Program Files\Microsoft SQL Server\80\Tools\Binn\SQLDMO.DLL=
+C:\WINDOWS\system32\msxml4.dll=
+C:\WINDOWS\system32\ieframe.dll=
+C:\Program Files\Microsoft Office\Office12\MSOUTL.OLB=
+C:\Program Files\Common Files\System\Ole DB\oledb32.dll=
+
+[Package|Dep File 1|Out-of-Date Dependency Information]
+C:\WINNT\SYSTEM32\SSLstBar.ocx=
+C:\WINNT\SYSTEM32\PrpList2.ocx=
+C:\WINNT\SYSTEM32\scrrun.dll=
+C:\Program Files\Sheridan\ActiveThreed\SPLITTER.OCX=
+C:\Program Files\Sheridan\ActiveThreed\THREED20.OCX=
+C:\WINDOWS\system32\PrpList2.ocx=
+C:\WINDOWS\system32\scrrun.dll=
+
+[Package|Dep File 1|Files Added]
+
+[Package|Dep File 1|Files Removed]
+
+[Package|Dep File 1|Files In Project]
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Common Files\SYSTEM\ADO\msado25.tlb=Yes
+C:\Program Files\Sheridan\ActiveThreed\THREED20.OCX=Yes
+C:\Program Files\Sheridan\ActiveThreed\SPLITTER.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\Documents and Settings\Bernie_Perrett\My Documents\Projects\Labcomm\Live\340\IceConfig.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\scrrun.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT.DLL=Yes
+C:\Program Files\Common Files\System\Ole DB\oledb32.dll=Yes
+C:\Program Files\Microsoft Office\Office12\MSOUTL.OLB=Yes
+C:\WINDOWS\system32\ieframe.dll=Yes
+C:\WINDOWS\system32\msxml4.dll=Yes
+C:\Program Files\Microsoft SQL Server\80\Tools\Binn\SQLDMO.DLL=Yes
+C:\Documents and Settings\Bernie_Perrett\My Documents\Projects\Labcomm\Live\340\IceConfig\AHSLerrorlog.dll=Yes
+C:\WINDOWS\system32\PrpList2.ocx=Yes
+C:\Program Files\Sheridan\ActiveListBar\SSLstBar.ocx=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\MSCOMCT2.OCX=Yes
+C:\WINDOWS\system32\RICHTX32.OCX=Yes
+C:\Documents and Settings\Bernie_Perrett\My Documents\Projects\Labcomm\Dev\5010\IceConfig\vbalgrid6.ocx=Yes
+C:\WINDOWS\system32\COMDLG32.OCX=Yes
+C:\WINDOWS\system32\MSFLXGRD.OCX=Yes
+C:\WINDOWS\system32\TABCTL32.OCX=Yes
+C:\WINDOWS\system32\MSCHRT20.OCX=Yes
+C:\WINDOWS\system32\MSDATGRD.OCX=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\Documents and Settings\Bernie_Perrett\My Documents\Projects\Labcomm\Live\340\IceConfig\Web_Browser_Control.ocx=Yes
+
+[Package|Dep File 1|Configure Registry Files]
+Applicable=No
+
+[Package|Dep File 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Dep File 1|Install Locations]
+C:\Documents and Settings\Bernie Perrett.AHSL-COM\My Documents\Projects\IceConfig Ver 3\IceConfig.exe=$(AppPath)
+C:\WINNT\SYSTEM32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Documents and Settings\Bernie Perrett.AHSL-COM\My Documents\Projects\AHSLReporting.dll=$(WinSysPath)
+C:\WINNT\SYSTEM32\scrrun.dll=$(WinSysPath)
+C:\WINNT\SYSTEM32\MSVCRT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Common Files\SYSTEM\ADO\msado25.tlb=$(WinSysPath)
+C:\WINNT\SYSTEM32\PrpList2.ocx=$(WinSysPath)
+C:\Program Files\Sheridan\ActiveThreed\THREED20.OCX=$(WinSysPath)
+C:\WINNT\SYSTEM32\SSLstBar.ocx=$(WinSysPath)
+C:\WINNT\SYSTEM32\SSPng.dll=$(WinSysPath)
+C:\Program Files\Sheridan\ActiveThreed\SPLITTER.OCX=$(WinSysPath)
+C:\WINNT\SYSTEM32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINNT\SYSTEM32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINNT\SYSTEM32\RICHTX32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\WINNT\SYSTEM32\vbalgrid6.ocx=$(WinSysPath)
+C:\WINNT\SYSTEM32\comdlg32.ocx=$(WinSysPath)
+C:\WINNT\SYSTEM32\tabctl32.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\SYSTEM32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Documents and Settings\Bernie Perrett.AHSL-COM\My Documents\Projects\AHSLReporting\AHSLReporting.dll=$(WinSysPath)
+C:\Documents and Settings\Bernie Perrett.AHSL-COM\My Documents\Projects\Development\IceConfig Ver 3\IceConfig.exe=$(AppPath)
+C:\Documents and Settings\Bernie Perrett.AHSL-COM\My Documents\Projects\Development\ICE_Msg\AHSLReporting.dll=$(WinSysPath)
+C:\Documents and Settings\Bernie Perrett.AHSL-COM\My Documents\Projects\Development\ICE_Msg\Project Executables\AHSLErrorLog.dll=$(WinSysPath)
+C:\WINNT\SYSTEM32\MSFLXGRD.OCX=$(WinSysPath)
+C:\Documents and Settings\Bernie_Perrett\My Documents\Projects\Labcomm\Live\340\IceConfig.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\scrrun.dll=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Common Files\System\Ole DB\oledb32.dll=$(WinSysPath)
+C:\Program Files\Microsoft Office\Office12\MSOUTL.OLB=$(WinSysPath)
+C:\WINDOWS\system32\ieframe.dll=$(WinSysPath)
+C:\WINDOWS\system32\msxml4.dll=$(WinSysPath)
+C:\Program Files\Microsoft SQL Server\80\Tools\Binn\SQLDMO.DLL=$(AppPath)
+C:\Documents and Settings\Bernie_Perrett\My Documents\Projects\Labcomm\Live\340\IceConfig\AHSLerrorlog.dll=$(WinSysPath)
+C:\WINDOWS\system32\PrpList2.ocx=$(WinSysPath)
+C:\Program Files\Sheridan\ActiveListBar\SSLstBar.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINDOWS\system32\RICHTX32.OCX=$(WinSysPath)
+C:\Documents and Settings\Bernie_Perrett\My Documents\Projects\Labcomm\Dev\5010\IceConfig\vbalgrid6.ocx=$(WinSysPath)
+C:\WINDOWS\system32\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCHRT20.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSDATGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\Documents and Settings\Bernie_Perrett\My Documents\Projects\Labcomm\Live\340\IceConfig\Web_Browser_Control.ocx=$(WinSysPath)
+
+[Package|Dep File 1|Configure Shared Files]
+Applicable=Yes
+C:\Documents and Settings\Bernie Perrett.AHSL-COM\My Documents\Projects\IceConfig Ver 3\IceConfig.exe=No
+
+[Package|Dep File 1|Distribution]
+Type=single
+Size=
+Title=ICE...Configuration
+
+[Package|Dep File 1|IconGroups]
+Group0=Ice
+PrivateGroup0=0
+Parent0=$(Programs)
+
+[Package|Dep File 1|Ice]
+Icon1=IceConfig.exe
+Title1=Ice Config
+StartIn1=$(AppPath)
+Key1=Icon4
+
+[Package|Dep File 1|DepFile]
+DepCabFile=IceConfig.CAB
+DepCabRun=IceConfig.INF
+
+[Package|Dep File 1|Package]
+PackageFolder=C:\Documents and Settings\Bernie_Perrett\My Documents\Projects\Labcomm\Live\340
+ProjectFolder=C:\Documents and Settings\Bernie_Perrett\My Documents\Projects\Labcomm\Live\340\IceConfig
+ServerSideCab=
+File1=C:\Documents and Settings\Bernie_Perrett\My Documents\Projects\Labcomm\Live\340\IceConfig.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
